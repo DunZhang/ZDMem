@@ -1,0 +1,51 @@
+A conversation between Audrey and Andrew. This conversation takes place on 2023-05-06T10:47:00.
+
+The specific content of the conversation is:
+dialogue_id: D5:1,  Andrew: <image_message>Andrew send an image.
+Image description: cute dog shelter adoption
+a photography of a dog looking through a cage at the camera</image_message> Hey! Since we last spoke, I've been looking for a doggo to adopt - browsing websites, visiting shelters and asking friends of theirs. It's been both fun and annoying!
+
+dialogue_id: D5:2,  Audrey: Sounds like a fun and demanding task! Getting to meet new pups must bring so much happiness. What  do you think you can do to make the process smoother?
+
+dialogue_id: D5:3,  Andrew: Meeting all these adorable pups has been awesome! For those considering getting a pup, the size of living space and the exercise needs of the breed are important. For me, a person living in an apartment, a smaller dog would be best, but if one is active, consider getting one that loves to play and run.
+
+dialogue_id: D5:4,  Audrey: That's some good advice! It's important to consider the space and energy needs of a dog.
+
+dialogue_id: D5:5,  Andrew: Yeah! Finding a pet-friendly place to live has been tough too. I'm contacting landlords and checking out neighborhoods to find the perfect spot.
+
+dialogue_id: D5:6,  Audrey: Guessing it's tough to find housing. Any particular part of town you want to live in?
+
+dialogue_id: D5:7,  Andrew: I'm looking for a place near a park or woods, so I can stay close to nature and give the dog a large open space to run around
+
+dialogue_id: D5:8,  Audrey: <image_message>Audrey send an image.
+Image description: dogs playing field flowers national park
+a photography of three dogs running through a field of grass</image_message> That's a good plan! I'm lucky to have a park near me - it's great for my pup's walks. Last Friday we took a road trip - we went to a beautiful national park and my dogs had a blast! It was an awesome trip!
+
+dialogue_id: D5:9,  Andrew: Nice! Glad the pups had a great road trip. Do you take them on road trips often?
+
+dialogue_id: D5:10,  Audrey: I take them on road trips once every couple of months. It's a great way for them to explore and stay active.
+
+dialogue_id: D5:11,  Andrew: Wow, that's awesome! I really wish I could go on a road trip with a furry companion.
+
+dialogue_id: D5:12,  Audrey: It's a cool experience. Having your furry friends on a road trip is an amazing experience. They make it really fun and exciting. It's definitely something to look forward to!
+
+dialogue_id: D5:13,  Andrew: Adding that to my bucket list! Can't wait for the day I actually go on a trip with my dog!
+
+dialogue_id: D5:14,  Audrey: Good luck with your search! Fingers crossed you find the perfect one.
+
+dialogue_id: D5:15,  Andrew: Thanks! Your help is much appreciated. I'm still on the lookout for the perfect furry friend.
+
+dialogue_id: D5:16,  Audrey: Not a problem, I'm glad to help! Good luck with your search!
+
+dialogue_id: D5:17,  Andrew: Thanks! I'll let you know how it goes. 
+
+dialogue_id: D5:18,  Audrey: Definitely, keep me posted and let me know if you need any suggestions or help.
+
+dialogue_id: D5:19,  Andrew: Will do! Really apprecieate it. 
+
+dialogue_id: D5:20,  Audrey: Yup! You got it, I'll be expecting a pic of your dog soon! :)
+
+dialogue_id: D5:21,  Andrew: Haha I can't wait. I'll ttyl, gotta check out another shelter soon.
+
+dialogue_id: D5:22,  Audrey: Have fun! Ttyl!
+

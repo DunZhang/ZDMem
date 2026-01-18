@@ -1,0 +1,41 @@
+A conversation between Evan and Sam. This conversation takes place on 2023-10-14T16:07:00.
+
+The specific content of the conversation is:
+dialogue_id: D13:1,  Evan: <image_message>Evan send an image.
+Image description: painting peaceful sunset
+a photography of a painting of a person on a cliff</image_message> Hey Sam, how's it going? Been a while since we talked. Hope all is good.
+
+dialogue_id: D13:2,  Sam: <image_message>Sam send an image.
+Image description: soda candy
+a photo of a person holding a box of sodas in front of a wall</image_message> Hey Evan! It's been a rough week - I gave in and bought some unhealthy snacks. I feel kinda guilty. How's it going for you? That painting is awesome! Did you paint it?
+
+dialogue_id: D13:3,  Evan: Hey Sam, sorry to hear about the rough week. Don't worry about the snacks. I'm doing okay, just finished this painting of a sunset. It really helps me relax. So, how's everything going with you? Anything new and exciting?
+
+dialogue_id: D13:4,  Sam: Thanks, Evan! Yeah, I just couldn't resist them. Gotta do better. As for me, just dealing with work stress and trying to stay motivated.
+
+dialogue_id: D13:5,  Evan: Hey Sam, work stress can really get to you. Have you tried anything new to de-stress? Maybe picking up a hobby or something could help.
+
+dialogue_id: D13:6,  Sam: Thinking about trying something different outdoors. Any suggestions?
+
+dialogue_id: D13:7,  Evan: Sounds good! Have you ever tried kayaking? It's a fun and active way to paddle on a river or lake. What are your thoughts on that?
+
+dialogue_id: D13:8,  Sam: Kayaking sounds awesome! Haven't tried it yet, but it looks like a fun way to get in some exercise and enjoy nature. I'm definitely considering giving it a try. Thanks!
+
+dialogue_id: D13:9,  Evan: No worries, Sam! It's a fun way to get in some exercise and enjoy nature. Let me know when you're ready to give it a try and I can hook you up with a good spot.
+
+dialogue_id: D13:10,  Sam: Thanks for the idea, my mate and I are just around the corner from kayaking on the lake, we're going to try that now!
+
+dialogue_id: D13:11,  Evan: Of course, let me know if you like it, we can plan a kayaking trip together, I'll pick a cool spot!
+
+dialogue_id: D13:12,  Sam: <image_message>Sam send an image.
+Image description: kayak river
+a photography of a row of kayaks lined up on the shore of a river</image_message> Yep, Evan! Can't wait. Thanks for the help!
+
+dialogue_id: D13:13,  Evan: Ready for an adventure? Where will you go?
+
+dialogue_id: D13:14,  Sam: We're traveling through Lake Tahoe! I heard it's great for kayaking.
+
+dialogue_id: D13:15,  Evan: Hey Sam, it's an awesome pick! You'll love it there - clear water and gorgeous views. Have a blast and take lots of pics!
+
+dialogue_id: D13:16,  Sam: Thanks, Evan! I'm looking forward to it!
+

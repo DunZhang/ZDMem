@@ -1,0 +1,39 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-11-11T00:06:00.
+
+The specific content of the conversation is:
+dialogue_id: D29:1,  Joanna: <image_message>Joanna send an image.
+Image description: movie clapperboard movie set
+a photo of a person holding a clap board with a dog sleeping in a dog bed</image_message> Nate, can you believe it? I'm finally filming my own movie from the road-trip script!
+
+dialogue_id: D29:2,  Nate: Congrats, Joanna! Not surprised at all that your hard work paid off. Must feel awesome to see your script come alive in a movie! Pretty cool when something you love brings success, right? Tell me more about your movie!
+
+dialogue_id: D29:3,  Joanna: Woohoo, thanks Nate! It's pretty wild to see it come alive. Every day on set is awesome and full of potential. Being able to show my vision is awesome.
+
+dialogue_id: D29:4,  Nate: I think so too! What's been the coolest moment on set?
+
+dialogue_id: D29:5,  Joanna: One of the actors came up to me and told me how much she liked my script! I was so excited when that happened - it gave me chills!
+
+dialogue_id: D29:6,  Nate: Wow Joanna, that must have been so exciting! It's incredible when you get those moments of joy. Anyway, I took my turtles to the beach in Tampa yesterday! They always bring me peace in the craziness of life.
+
+dialogue_id: D29:7,  Joanna: Woah, that's awesome, Nate! You must really enjoy having them around - they're so cool! What do you love most about having them?
+
+dialogue_id: D29:8,  Nate: <image_message>Nate send an image.
+Image description: pet turtles basking rock
+a photo of a turtle sitting on a log in a pond</image_message> Your completely right! I really love having them around. They're so cool and they make me feel calm. Plus, they don't require much looking after, which is great. I love seeing them soaking in the sun like this.
+
+dialogue_id: D29:9,  Joanna: That's awesome, Nate! They look so serene and happy. It's great to have something like that.
+
+dialogue_id: D29:10,  Nate: <image_message>Nate send an image.
+Image description: homemade coconut milk ice cream colorful bowls
+a photography of a bowl of ice cream with a spoon in it</image_message> Yeah, turtles are like zen masters! They always remind me to slow down and appreciate the small things in life. I'm loving experimenting with flavors right now. Here are some colorful bowls of coconut milk ice cream that I made.
+
+dialogue_id: D29:11,  Joanna: Hey Nate, that looks really yummy! The colors and mix-ins give it a nice kick.
+
+dialogue_id: D29:12,  Nate: Nice! I'm glad you like it too. This recipe really jazzes it up. Wanna give it a try?
+
+dialogue_id: D29:13,  Joanna: Definitely, Nate! That ice cream looks mouthwatering. Thanks so much for offering!
+
+dialogue_id: D29:14,  Nate: No worries, Joanna. Hope you enjoy it!
+
+dialogue_id: D29:15,  Joanna: Yea, no worries! It was great catching up. Take it easy!
+

@@ -1,0 +1,53 @@
+A conversation between Jon and Gina. This conversation takes place on 2023-06-13T20:29:00.
+
+The specific content of the conversation is:
+dialogue_id: D13:1,  Jon: Hey Gina, thanks for being there for me and believing in me. It means a lot.
+
+dialogue_id: D13:2,  Gina: Sure, Jon! I'm always around for you. How've you been since we caught up?
+
+dialogue_id: D13:3,  Jon:  I'm prepping for my dance studio more than ever!
+
+dialogue_id: D13:4,  Gina: Proud of you for starting your own business! It takes strength to stay hopeful. What are you doing to prep for your dance studio? I have developed a video presentation to teach how to style my fashion pieces, btw. 
+
+dialogue_id: D13:5,  Jon: Thanks, Gina! It's been so inspiring to work with our young dancers, seeing their passion and commitment. Opening the dance studio's been a great experience - I want it to be a place of support and encouragement for all our dancers. Will you show me this presentation?
+
+dialogue_id: D13:6,  Gina: Shure, I will send it to you later. Starting this studio isn't just a business, it's a place for dancers to grow. What support are you offering them?
+
+dialogue_id: D13:7,  Jon: Besides the dance classes and workshops, I'm offering one-on-one mentoring and training to help dancers reach their full potential.
+
+dialogue_id: D13:8,  Gina: <image_message>Gina send an image.
+Image description: dancers mentoring and training
+a photo of a group of people in a dance class</image_message> Your one-on-one mentoring and training will really push dancers to reach their goals. I totally get it, I had a mentor too when I was learning how to dance.
+
+dialogue_id: D13:9,  Jon: <image_message>Jon send an image.
+Image description: whiteboard dance moves
+a photo of a clipboard with a notepad attached to it</image_message> Yeah, a mentor can do wonders. Guidance and support can help dancers really shine.
+
+dialogue_id: D13:10,  Gina: Nice one, Jon! How've you been using it?
+
+dialogue_id: D13:11,  Jon: I'm using it to stay organized and motivated. It sets goals, tracks my achievements and helps me find areas to improve.
+
+dialogue_id: D13:12,  Gina: Really cool system! Being organized sure is key for getting stuff done. How do you keep up with your goals and progress?
+
+dialogue_id: D13:13,  Jon: I also use whiteboard to stay on track, visualize goals and tokenize successes. It keeps me motivated and focused.
+
+dialogue_id: D13:14,  Gina: Cool! Are you using different colors?
+
+dialogue_id: D13:15,  Jon: Yes. I color-code achievements so I can easily track my progress and stay motivated.
+
+dialogue_id: D13:16,  Gina: Wow, color-coding is a great way to track your progress & stay motivated. Keep it up!
+
+dialogue_id: D13:17,  Jon: Thanks! It helps me stay motivated and reminds me why I'm doing this.
+
+dialogue_id: D13:18,  Gina: Yeah, its a great idea!
+
+dialogue_id: D13:19,  Jon: Thanks!
+
+dialogue_id: D13:20,  Gina: Remember that staying positive is very important.  Rock on!
+
+dialogue_id: D13:21,  Jon: Thanks, Gina! Your support's really been awesome.
+
+dialogue_id: D13:22,  Gina: Thanks! Keep going for your dreams and don't quit!
+
+dialogue_id: D13:23,  Jon: I won't give up, Gina! I'll keep pushing and working to make my dreams happen. Thanks for the support!
+

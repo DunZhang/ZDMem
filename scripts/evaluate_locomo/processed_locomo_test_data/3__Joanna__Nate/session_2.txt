@@ -1,0 +1,65 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-01-23T14:01:00.
+
+The specific content of the conversation is:
+dialogue_id: D2:1,  Joanna: Hey Nate! Haven't talked in a few days. Crazy things happened to me!
+
+dialogue_id: D2:2,  Nate: Hi Joanna! Long time no see! What's been going on? You sound excited!
+
+dialogue_id: D2:3,  Joanna: <image_message>Joanna send an image.
+Image description: screenplay laptop
+a photography of a book with a page of text on it</image_message> Woo! I finally finished my first full screenplay and printed it last Friday. I've been working on for a while, such a relief to have it all done!
+
+dialogue_id: D2:4,  Nate: Wow, that sounds awesome! What's it about? Glad it's all down!
+
+dialogue_id: D2:5,  Joanna: Thanks, Nate! It's a mix of drama and romance!
+
+dialogue_id: D2:6,  Nate: Wow, that's amazing! How do you feel now that it's finished? Do you have any new plans for it?
+
+dialogue_id: D2:7,  Joanna: Woohoo, Nate! I'm feeling a rollercoaster of emotions - relief, excitement, some anxiety - over finishing this project. Now I'm gonna submit it to some film festivals and (hopefully) get producers and directors to check it out. Here's hoping!
+
+dialogue_id: D2:8,  Nate: Congrats, Joanna! That sounds like a wild experience. Rock on and I hope they love it!
+
+dialogue_id: D2:9,  Joanna: Thanks Nate! A mix of emotions for sure. Hopefully, it leads to positive feedback and new opportunities.
+
+dialogue_id: D2:10,  Nate: <image_message>Nate send an image.
+Image description: pet turtles
+a photography of a turtle and a turtleling sitting on a rock</image_message> Yeah, for sure. Hoping for the best! I like having some of these little ones around to keep me calm when things are super important and I'm nervous.
+
+dialogue_id: D2:11,  Joanna: Awww! How long have you had them?
+
+dialogue_id: D2:12,  Nate: I've had them for 3 years now and they bring me tons of joy!
+
+dialogue_id: D2:13,  Joanna: They sure lookl like they do! Adorable!
+
+dialogue_id: D2:14,  Nate: Thanks! The turtles might be small, but both sure have big personalities. I really reccomend having something like these little guys for times of stress.
+
+dialogue_id: D2:15,  Joanna: Good idea, Nate! I'll think about it and maybe get pets of my own soon if I can find any I'm not allergic to. Have you been up to anything recently?
+
+dialogue_id: D2:16,  Nate: Yeah actually! I start to hang out with some people outside of my circle at the tournament. They're pretty cool!
+
+dialogue_id: D2:17,  Joanna: Oh? That sounds sweet! Is it a weird relationship with them being competitors and all?
+
+dialogue_id: D2:18,  Nate: Oh, kind of. Some people are more competitive then others, so I tend to just stick around the more chill people here.
+
+dialogue_id: D2:19,  Joanna: That makes sense! Are you gonna cheer them on even if you lose?
+
+dialogue_id: D2:20,  Nate: Absolutely! I don't expect to win big here, I just like playing for fun!  You mentioned you were allergic to pets earlier, how bad is it?
+
+dialogue_id: D2:21,  Joanna: Oh, its really bad. My face gets all puffy and itchy when I'm around certain animals, so I've always just stayed away.
+
+dialogue_id: D2:22,  Nate: Sorry to hear that. Allergies can be tough. What specifically are you allergic to?
+
+dialogue_id: D2:23,  Joanna: I'm allergic to most reptiles and animals with fur. It can be a bit of a drag, but I find other ways to be happy.
+
+dialogue_id: D2:24,  Nate: Awesome! There are lots of things that can bring you joy without pets. What else brings you joy?
+
+dialogue_id: D2:25,  Joanna: Writing and hanging with friends! That way I can express myself through stories, or just have a good time with people.
+
+dialogue_id: D2:26,  Nate: That's great to hear! Those are both great things. I'm glad to hear you've got other things to help you get through times of axiousness despite not being able to have animals!
+
+dialogue_id: D2:27,  Joanna: Thanks, Nate! Writing helps me create wild worlds with awesome characters. Plus, it's a great way to express my feelings. I can't imagine life without it.
+
+dialogue_id: D2:28,  Nate: Wow, Joanna, that sounds amazing! Keep doing what you love!
+
+dialogue_id: D2:29,  Joanna: Thanks, Nate! I'll definitely keep pursuing my passion for writing. It means a lot.
+

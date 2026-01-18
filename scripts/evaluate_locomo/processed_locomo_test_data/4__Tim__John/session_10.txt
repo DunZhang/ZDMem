@@ -1,0 +1,39 @@
+A conversation between Tim and John. This conversation takes place on 2023-08-31T14:52:00.
+
+The specific content of the conversation is:
+dialogue_id: D10:1,  Tim: Hey John, it's been a few days! I got a no for a summer job I wanted which wasn't great but I'm staying positive. On your NYC trip, did you have any troubles? How did you handle them?
+
+dialogue_id: D10:2,  John: Hey Tim! Sorry to hear about the job, but your positivity will help you find something great! My trip went okay - I had some trouble figuring out the subway at first, but then it was easy after someone helped explain it. How about you? Anything new you've tackled?
+
+dialogue_id: D10:3,  Tim: Thanks! Appreciate your encouragement. Yesterday, I tackled something new - I gave a presentation in class. I was nervous but I made it. Small step, but feels like progress.
+
+dialogue_id: D10:4,  John: <image_message>John send an image.
+Image description: beautifully plated chicken soup
+a photo of a bowl of soup with a spoon and a butternut on a cutting board</image_message> Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!
+
+dialogue_id: D10:5,  Tim: Wow, that looks great! How did you make it? Do you have a recipe you can share?
+
+dialogue_id: D10:6,  John: Thanks, I just sort of made it up on the spot so I don't have a recipe.
+
+dialogue_id: D10:7,  Tim: That's ok! I can look some up. Can you tell me what spices you used in the soup?
+
+dialogue_id: D10:8,  John: I added some sage for a nice flavor. Enjoy!
+
+dialogue_id: D10:9,  Tim: Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month.
+
+dialogue_id: D10:10,  John: Cool! Haven't been there yet, but I've heard great things about Universal Studios. It's definitely on my bucket list. Have you been before?
+
+dialogue_id: D10:11,  Tim: Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!
+
+dialogue_id: D10:12,  John: Cool! It's gonna be a blast, like stepping into another world. Have a great time!
+
+dialogue_id: D10:13,  Tim: Thanks! I'll definitely have a blast. I'll let you know how it goes!
+
+dialogue_id: D10:14,  John: Great! Can't wait to hear about it. Have a safe trip!
+
+dialogue_id: D10:15,  Tim: Thanks! I'll make sure to have a safe trip.
+
+dialogue_id: D10:16,  John: Bye! Take care and let's catch up soon!
+
+dialogue_id: D10:17,  Tim: Take care! Can't wait to catch up. Talk soon!
+

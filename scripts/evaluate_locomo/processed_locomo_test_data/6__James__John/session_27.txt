@@ -1,0 +1,35 @@
+A conversation between James and John. This conversation takes place on 2022-10-13T14:14:00.
+
+The specific content of the conversation is:
+dialogue_id: D27:1,  John: <image_message>John send an image.
+Image description: online programming competition setup
+a photo of a desk with a laptop and a monitor</image_message> Hey James! How's it going? I had a blast last week when my programmer friends and I organized an online comp. It was awesome to see everyone show off their skills! Anything new in your life?
+
+dialogue_id: D27:2,  James: <image_message>James send an image.
+Image description: game interface players battling mythical creatures
+a photography of a game of thrones with a dragon and a dragon</image_message> Hey John, congrats! Something cool happened to me recently. I made my first game and released it for the gaming community - it was so exciting!
+
+dialogue_id: D27:3,  John: Congrats on releasing your game, James! Was it fulfilling to see players engage with the game world you created?
+
+dialogue_id: D27:4,  James:  It was so fulfilling to see players engage with the game world I created. I'm really happy they're having fun with something I put so much work into.
+
+dialogue_id: D27:5,  John: So cool that people are enjoying it! What inspired you to create it?
+
+dialogue_id: D27:6,  James: Playing video games was always great, but creating my own game was really special. Witcher 3 gave me a ton of inspiration, with its amazing world and story. Plus, it pushed me to create something cool.
+
+dialogue_id: D27:7,  John: The Witcher 3 obviously had a huge impact on you. You must have put a ton of hard work and dedication into your game. Do you have any plans for future game development?
+
+dialogue_id: D27:8,  James: I put in so much effort and it paid off - now, I'm ready to make more games in different genres and test out new ideas. I'm pumped to see where this journey leads!
+
+dialogue_id: D27:9,  John:  I can't wait to see where your journey leads and the new creations you come up with. Your determination and love for game development is incredible. Keep going and you'll do great things!
+
+dialogue_id: D27:10,  James: I'm really looking forward to creating more enjoyable experiences!
+
+dialogue_id: D27:11,  John: I'm here for you. Anything you need, count on me!
+
+dialogue_id: D27:12,  James: Thanks, John! Your support is really appreciated.
+
+dialogue_id: D27:13,  John: No worries, James! We make a good team.
+
+dialogue_id: D27:14,  James: Yeah, totally. You've always been there for me, John. Thanks for having my back.
+

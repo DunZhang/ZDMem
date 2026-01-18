@@ -1,0 +1,47 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-09-05T18:03:00.
+
+The specific content of the conversation is:
+dialogue_id: D20:1,  Nate: <image_message>Nate send an image.
+Image description: pet turtles mario luigi
+a photography of two turtles sitting on a rock in a pond</image_message> Hey Joanna! Long time no talk. So much has happened. Look how cute they are! Hanging with them has been a big help, especially recently. Speaking of which, I just had a letdown in a video game tourney - I didn't do too great, even though I tried. It was a setback, but I'm trying to stay positive.
+
+dialogue_id: D20:2,  Joanna: <image_message>Joanna send an image.
+Image description: dairy-free chocolate cake pink frosting
+a photo of a piece of cake with strawberries and chocolate</image_message> Hey Nate! Cute turtles! Bummer about the setback. Any positive vibes comin' your way? I just revised on of my old recipes and made this!
+
+dialogue_id: D20:3,  Nate: Hey Joanna, yeah it's a bummer that I didn't do well. But it's all part of the learning curve, you know? Also that looks super good! Anyways, how are you holding up?
+
+dialogue_id: D20:4,  Joanna: I'm doing OK, thanks. Just been tinkering with that recipe and a few others. It's helping me find some comfort and getting creative.
+
+dialogue_id: D20:5,  Nate: What else are you making? It's always satisfying to see the kind of things you do when your in one of those moods!
+
+dialogue_id: D20:6,  Joanna: Been tweaking a dessert recipe to make it yummier and more accessible.
+
+dialogue_id: D20:7,  Nate: Wow, that sounds great! What flavors are you experimenting with?
+
+dialogue_id: D20:8,  Joanna: Trying out different flavors like chocolate, raspberry, and coconut has been a blast!
+
+dialogue_id: D20:9,  Nate: Sounds delicious! Are you only trying dairy-free options?
+
+dialogue_id: D20:10,  Joanna: <image_message>Joanna send an image.
+Image description: dairy-free chocolate coconut cupcakes with raspberry frosting
+a photo of a plate of cupcakes with different toppings</image_message> Yeah, since I'm lactose intolerant I'm trying out dairy-free options like coconut or almond milk instead. It's been a fun challenge seeing how to make yummy treats that suit everyone's diets. I even made these dairy-free chocolate coconut cupcakes with raspberry frosting.
+
+dialogue_id: D20:11,  Nate: Woah, those look great, Joanna! It's cool that you make desserts that work for everyone's diets. Do you have any more yummy recipes hiding in there?
+
+dialogue_id: D20:12,  Joanna: Yep! I've been making all sorts of desserts that work for everyone's diets - cookies, pies, cakes - everything! I'll share more recipes with you soon.
+
+dialogue_id: D20:13,  Nate: Can't wait to try them. Can I join you sometime? I think baking and cooking really brings us together!
+
+dialogue_id: D20:14,  Joanna: Yeah, Nate! A fellow Chef in the kitchen is always a great help! Speaking of which, i'm curious, any more tips for dairy-free baking?
+
+dialogue_id: D20:15,  Nate: You can use stuff like dairy-free margarine or coconut oil instead of butter, and make sure to check the labels to ensure they're dairy-free. Good luck!
+
+dialogue_id: D20:16,  Joanna: Thanks, Nate! Love your ideas, can't wait to try them out!
+
+dialogue_id: D20:17,  Nate: No problem! I love to help, so just shoot me a question anytime you need!
+
+dialogue_id: D20:18,  Joanna: Got it Nate, I'll see you soon!
+
+dialogue_id: D20:19,  Nate: Bye Joanna! Good luck!
+

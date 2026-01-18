@@ -1,0 +1,39 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-05-02T11:54:00.
+
+The specific content of the conversation is:
+dialogue_id: D10:1,  Joanna: Hey Nate, how's it going? I took your reccomendation and watched "The Lord of the Rings" Trilogy last night! It was awesome!
+
+dialogue_id: D10:2,  Nate: <image_message>Nate send an image.
+Image description: gaming setup
+a photo of a gaming room with a computer and a gaming chair</image_message> Glad to hear you enjoyed it! It's probably the greatest trilogy of all time! As for me, life's been ok, just taking care of this.
+
+dialogue_id: D10:3,  Joanna: Wow, Nate! I'm proud of what you did. Your gaming room looks great - have you been gaming a lot recently?
+
+dialogue_id: D10:4,  Nate: Gaming has been my focus - practicing a lot and even winning a few tournaments. Last week I won my second tournament!
+
+dialogue_id: D10:5,  Joanna: Wow, congrats! What game were you playing?
+
+dialogue_id: D10:6,  Nate: Thanks! I usually play CS:GO, but I tried my hand at the local Street Fighter tournament this time since I play that game a lot with my friends, and turns out I'm really good!
+
+dialogue_id: D10:7,  Joanna: Nice! That must have been a surprise. How did it feel to finally win one?
+
+dialogue_id: D10:8,  Nate: It was super awesome! So much adrenaline went into that last match, and the other finalist even shook my hand! Enough about me though, how about you? What have you been up to?
+
+dialogue_id: D10:9,  Joanna: <image_message>Joanna send an image.
+Image description: dairy-free cake decorated
+a photo of a cake with white frosting on a wooden table</image_message> Not much is new other than the screenplay. Been working on some projects and testing out dairy-free dessert recipes for friends and fam. Here's a pic of a cake I made recently!
+
+dialogue_id: D10:10,  Nate: That looks really good! I love the way the frosting turned out!
+
+dialogue_id: D10:11,  Joanna: Thanks! It's dairy-free vanilla with strawberry filling and coconut cream frosting. I gotta say, I really like your coconut reccomendation you gave a while back!
+
+dialogue_id: D10:12,  Nate: Wow, Joanna, that looks amazing! I bet it tastes great - you're so talented at making dairy-free desserts!
+
+dialogue_id: D10:13,  Joanna: Thanks Nate! I really appreciate it. I love experimenting in the kitchen, coming up with something tasty. Cooking and baking are my creative outlets. Especially when I'm snackin' dairy-free, trying to make the desserts just as delicious - it's a rewarding challenge! Seeing the smiles on everyone's faces when they try it - it's a total win!
+
+dialogue_id: D10:14,  Nate: That's great, Joanna! It must be so rewarding to see everyone enjoying your creations. Keep up the good work!
+
+dialogue_id: D10:15,  Joanna: Thanks, Nate! Appreciate all the help. Gonna keep trying new things. See ya later!
+
+dialogue_id: D10:16,  Nate: Bye!
+

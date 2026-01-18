@@ -1,0 +1,41 @@
+A conversation between John and Maria. This conversation takes place on 2023-08-05T17:19:00.
+
+The specific content of the conversation is:
+dialogue_id: D28:1,  John: Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming.
+
+dialogue_id: D28:2,  Maria: Sorry to hear about your job, John. I can only imagine how tough it must be. How are you holding up?
+
+dialogue_id: D28:3,  John: Thanks for your care, Maria. It's been tough but I'm trying to stay up. I've been looking into some opportunities in the tech industry for a while now. Maybe this is the change I need, you gave me the push!
+
+dialogue_id: D28:4,  Maria: Hey John, glad you're looking into other avenues. Any promising leads come up?
+
+dialogue_id: D28:5,  John: Thanks Maria! I may have found a job at a tech company I like that needs my mechanical skills for their hardware team. It feels different, but I think it's a great opportunity to learn and contribute.
+
+dialogue_id: D28:6,  Maria: Wow, John, that sounds like the perfect job for you! You're so adaptable, I'm sure you'll do great. Good luck!
+
+dialogue_id: D28:7,  John: Thanks, Maria! I appreciate your support, it really means a lot.
+
+dialogue_id: D28:8,  Maria: Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!
+
+dialogue_id: D28:9,  John: Wow, Maria! That's great. Glad it was rewarding for you.
+
+dialogue_id: D28:10,  Maria: Thanks, John! These moments remind me of how important kindness and compassion are. Have you had any volunteer experiences you'd like to share?
+
+dialogue_id: D28:11,  John: I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it.
+
+dialogue_id: D28:12,  Maria: John, that's great! Must be really satisfying to witness the positive effect it's having on your hometown.
+
+dialogue_id: D28:13,  John: Yeah! It was really cool to see everyone come together and help out - it's been amazing to see it so busy!
+
+dialogue_id: D28:14,  Maria: Wow, John, awesome job! Keep doing what you're doing - you're making a real difference!
+
+dialogue_id: D28:15,  John: It's really encouraging to hear that. I'll keep pushing forward and doing my best.
+
+dialogue_id: D28:16,  Maria: You got this! You're inspiring and keep making a difference.
+
+dialogue_id: D28:17,  John: I appreciate it! Your words are really motivating.
+
+dialogue_id: D28:18,  Maria: No worries, John. I'm here to support you. If there's anything else I can do, just let me know.
+
+dialogue_id: D28:19,  John: Thanks, Maria. Your support means a lot to me. If I need anything, I'll be sure to reach out.
+

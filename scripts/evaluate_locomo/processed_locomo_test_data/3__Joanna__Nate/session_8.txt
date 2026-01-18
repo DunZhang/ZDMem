@@ -1,0 +1,51 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-04-17T18:44:00.
+
+The specific content of the conversation is:
+dialogue_id: D8:1,  Nate: Hey Joanna! Haven't talked with you in a while - how's it going?
+
+dialogue_id: D8:2,  Joanna: Hey Nate! Great to hear from you. I've been reading a lot in the past week! There's a lot of good books I forgot I owned.
+
+dialogue_id: D8:3,  Nate: Sounds fun! I probably also have loads of books I haven't read in years. Sounds like a blast from the past!
+
+dialogue_id: D8:4,  Joanna: It really is! On a different note, I found an awesome hiking trail in my hometown yesterday! It was gorgeous. Nature is so inspiring, and it's a great way to reset. Do you know of any good hiking spots?
+
+dialogue_id: D8:5,  Nate: I'm not really into hiking but I'm curious to see what the trail looks like! I heard there's a nice trail just north of where I live.
+
+dialogue_id: D8:6,  Joanna: Maybe I'll have to convince you to go with me one of these times!
+
+dialogue_id: D8:7,  Nate: Maybe! I do like nature, so that might be fun going with someone else.
+
+dialogue_id: D8:8,  Joanna: Yeah, nature's awesome! I'm a huge fan of it, that's why I go!
+
+dialogue_id: D8:9,  Nate: Agreed, nature has a way of being so inspiring! I'm glad you found a way to reset and find peace in it.
+
+dialogue_id: D8:10,  Joanna: Nature's always been my haven. Walking in it, feeling it, hearing the sounds - it's so calming. Worries and stress seem to vanish, and it's just me and the beauty around me.
+
+dialogue_id: D8:11,  Nate: It's so crucial to find a little peace and remember life's beauty. For me, it's spending time with my pets and engaging in my hobbies; they let me take a break from reality. It's wild how small things can have such a powerful effect on our happiness, right?
+
+dialogue_id: D8:12,  Joanna: Yeah, Nate! Even the small things make life enjoyable and worth it. Taking time for your little friends and doing activities you love are like treasures that remind us how great and peaceful life is. We just gotta savor them!
+
+dialogue_id: D8:13,  Nate: <image_message>Nate send an image.
+Image description: pets turtles playing
+a photo of a turtle and a strawberry in a bowl</image_message> Speaking of which, here they go again!
+
+dialogue_id: D8:14,  Joanna: So cute! I love your turtles so much!
+
+dialogue_id: D8:15,  Nate: <image_message>Nate send an image.
+Image description: coconut milk ice cream red sprinkles bowl
+a photo of a bowl of ice cream and a bowl of sprinkles</image_message> Me too! I love watching them play to simply enjoy the peaceful moments of life. Sometimes I even bring them in the kitchen so they can watch me make food like this!
+
+dialogue_id: D8:16,  Joanna: I love your icecream so much! I wish I could make it the way you do!
+
+dialogue_id: D8:17,  Nate: Thanks! It's dairy-free and so easy. Wanna get the recipe?
+
+dialogue_id: D8:18,  Joanna: Sure! I'm lactose intolerant, so I'll just need the dairy-free recipe! 
+
+dialogue_id: D8:19,  Nate: No prob. I made it with coconut milk, vanilla extract, sugar, and a pinch of salt. After chilling it in the fridge, I put it in the ice cream maker and froze it until it was scoopable.
+
+dialogue_id: D8:20,  Joanna: Wow, sounds delicious! I'm going to try making it tonight! Thank you for sharing the recipe!
+
+dialogue_id: D8:21,  Nate: Hey Joanna, glad I could help. Let me know how it turns out!
+
+dialogue_id: D8:22,  Joanna: Got it, Nate. I'll definitely let you know how it turns out. Thanks for sharing the recipe!
+

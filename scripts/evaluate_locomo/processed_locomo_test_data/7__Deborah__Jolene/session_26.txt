@@ -1,0 +1,53 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-09-08T19:39:00.
+
+The specific content of the conversation is:
+dialogue_id: D26:1,  Deborah: Hey Jolene, had a tough week. Storm forced us to cancel our yoga getaway.
+
+dialogue_id: D26:2,  Jolene: Sorry to hear about it. How are you feeling now?
+
+dialogue_id: D26:3,  Deborah: I was bummed about it, but I'm doing better now. It was just a setback, but I found comfort in my work and spending time at home. Reminds me to be grateful for the little things. And you? How's it going?
+
+dialogue_id: D26:4,  Jolene: My partner and I plan a camping trip to connect with nature and practice yoga.
+
+dialogue_id: D26:5,  Deborah: It can be both good and tough to plan activities with a busy schedule - what strategies do you use?
+
+dialogue_id: D26:6,  Jolene: Having a routine helps me stay on top of everything I need to do. I have a schedule for classes, studying, and personal time. Self-care activities like yoga and meditation help me stay balanced and relax.
+
+dialogue_id: D26:7,  Deborah: I'd love to learn more about how you do it.
+
+dialogue_id: D26:8,  Jolene:  I can tell you about it if you're interested. It took a bit of experimenting, but it's really helped me.
+
+dialogue_id: D26:9,  Deborah: Sounds great! Let's set up a coffee date and talk about it!
+
+dialogue_id: D26:10,  Jolene: <image_message>Jolene send an image.
+Image description: favorite cafe
+a photo of a coffee shop with a bunch of coffee machines</image_message> Wanna meet up at that cafe next Monday? Let's try fresh pastries.
+
+dialogue_id: D26:11,  Deborah: Sounds good, Jolene! When did you have in mind? That cafe rocks.
+
+dialogue_id: D26:12,  Jolene: <image_message>Jolene send an image.
+Image description: coffee cozy coffee shop holding cup of coffee
+a photo of a person holding a cup of coffee in front of a bunch of flowers</image_message> How about Wednesday at 4? Can't wait to catch up over coffee!
+
+dialogue_id: D26:13,  Deborah: <image_message>Deborah send an image.
+Image description: coffee shop courtyard
+a photo of a group of people sitting at tables in a room</image_message> That pic looks so peaceful. Reminded me of a cool hidden coffee shop near me. Rate it!
+
+dialogue_id: D26:14,  Jolene: Tell me more about it when we meet, maybe next time we’ll be there.
+
+dialogue_id: D26:15,  Deborah: Sorry, I remembered that I already have plans for this day.
+
+dialogue_id: D26:16,  Jolene: Now I'll see when it's more convenient for me.
+
+dialogue_id: D26:17,  Deborah: Thank you for your understanding, I'm waiting.
+
+dialogue_id: D26:18,  Jolene: <image_message>Jolene send an image.
+Image description: bookshelf engineering textbooks
+a photo of a room with a book shelf and a ceiling fan</image_message> How about Friday at 5? I will need to sort out the books from this bookcase and I will be free.
+
+dialogue_id: D26:19,  Deborah: Absolutely, let's do that! Can't wait for our coffee date next week. See you then. Stay safe!
+
+dialogue_id: D26:20,  Jolene: See ya soon, Deb! Be safe and I'm excited for our coffee date!
+
+dialogue_id: D26:21,  Deborah: Maybe just grab me some interesting books!
+

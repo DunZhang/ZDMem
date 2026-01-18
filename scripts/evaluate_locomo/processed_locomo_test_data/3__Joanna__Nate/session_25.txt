@@ -1,0 +1,73 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-10-25T20:16:00.
+
+The specific content of the conversation is:
+dialogue_id: D25:1,  Nate: Hey Joanna, what's been up since we last chatted? How's it going?
+
+dialogue_id: D25:2,  Joanna: Hey Nate! Another movie script that I contributed to was shown on the big screen last Sunday for the first time! It was such a surreal experience to see everything come together. I felt a mix of emotions, but overall, it was a satisfying moment. I've been waiting for this for a long time!
+
+dialogue_id: D25:3,  Nate: Congrats Joanna! How was it to finally see it on the big screen?
+
+[shares a photo holding a videogame controller]
+
+dialogue_id: D25:4,  Joanna: It was an amazing experience! I'll never forget seeing all of the characters and dialogue I wrote being acted out - it was such a cool feeling. Having all the hard work and determination I put into writing pay off was definitely rewarding. I know this is the third time it's happened, but its just so awesome!
+
+dialogue_id: D25:5,  Nate: That must have been amazing. What was your favorite part of it?
+
+dialogue_id: D25:6,  Joanna: <image_message>Joanna send an image.
+Image description: character sketches actors notebook
+a photo of a drawing book with a bunch of drawings on it</image_message> Seeing my characters I worked so hard on come alive was my favorite part. It felt like they jumped off the page and became real - it was totally surreal.
+
+dialogue_id: D25:7,  Nate: Wow Joanna, those drawings are really incredible! What inspired you to create them?
+
+dialogue_id: D25:8,  Joanna: Thanks, Nate! They're visuals of the characters to help bring them alive in my head so I can write better.
+
+dialogue_id: D25:9,  Nate: That's a cool way to gain insight into your characters. Where did you get your ideas for them?
+
+dialogue_id: D25:10,  Joanna: I got ideas from everywhere: people I know, stuff I saw, even what I imagined. It's cool to see how an idea takes shape into a person with their own wants, worries, and wishes.
+
+dialogue_id: D25:11,  Nate: Wow Joanna, that's so cool! It's amazing how our imaginations can bring ideas to life. Can you tell me more about the character on the left in the photo?
+
+dialogue_id: D25:12,  Joanna: Nope! You'll just have to watch the movie and find out for yourself!
+
+dialogue_id: D25:13,  Nate: You got it. I was already planning on watching it, but talking to you about it makes me want to watch it even more!
+
+dialogue_id: D25:14,  Joanna: Awesome! Well enough about me, what have you been up to?
+
+dialogue_id: D25:15,  Nate: <image_message>Nate send an image.
+Image description: pet turtles
+a photography of two turtles sitting on a log in a pond</image_message> I was bored today, so I just took my turtles out for a walk.
+
+dialogue_id: D25:16,  Joanna: Sound fun! Did they have a good time?
+
+dialogue_id: D25:17,  Nate: <image_message>Nate send an image.
+Image description: turtles basking heat lamp
+a photography of a dog laying on a rock in a zoo</image_message> Of course! They look tired from all the walking, so they're relaxing in the tank right now.
+
+dialogue_id: D25:18,  Joanna: Aww, they're so cute! What do they eat?
+
+dialogue_id: D25:19,  Nate: They eat a combination of vegetables, fruits, and insects. They have a varied diet.
+
+dialogue_id: D25:20,  Joanna: Wow, that's fascinating! It's interesting how they have such a varied diet, including insects. Do you have a favorite among their food choices?
+
+dialogue_id: D25:21,  Nate: <image_message>Nate send an image.
+Image description: turtles eating strawberries
+a photography of a group of strawberries and a turtle on a table</image_message> I love seeing them eat fruit - they get so hyped and it's so cute!
+
+dialogue_id: D25:22,  Joanna: Wow, that's so cute! They look like they really enjoy fruit.
+
+dialogue_id: D25:23,  Nate: <image_message>Nate send an image.
+Image description: turtles joy holding
+a photo of a person holding a small turtle in their hand</image_message> Yeah, it's adorable! Watching them enjoy their favorite snacks is so fun. I also like holding them.
+
+dialogue_id: D25:24,  Joanna: Do they have different personalities, like the way dogs and cats do?
+
+dialogue_id: D25:25,  Nate: Yeah, they each do. One is more adventurous while the other is more reserved, which I find cute. Having them around brings me joy and they make great companions.
+
+dialogue_id: D25:26,  Joanna: That's super cool! I never knew turtles could be so interesting until I met your turtles. Wow!
+
+dialogue_id: D25:27,  Nate: I've always liked turtles since I was a boy, so I know all about them!
+
+dialogue_id: D25:28,  Joanna: You'll have to keep me posted on them! It's been fun chatting!
+
+dialogue_id: D25:29,  Nate: See you later Joanna!
+

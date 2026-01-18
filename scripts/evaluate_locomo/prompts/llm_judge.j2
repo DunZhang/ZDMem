@@ -1,0 +1,22 @@
+<role>QA Evaluation Expert</role>
+<task>Evaluate whether the predicted answer is semantically consistent with the ground truth answer.</task>
+
+<question>{{ question }}</question>
+<ground_truth>{{ ground_truth }}</ground_truth>
+<prediction>{{ prediction }}</prediction>
+
+<evaluation_criteria>
+- Semantic correctness: Does the prediction capture the core information of the ground truth?
+- Allow paraphrasing: Different wording with the same meaning is considered correct
+- Partial credit: For questions requiring multiple pieces of information, partial correctness gets partial score
+- Be lenient: If the prediction contains the key information, consider it correct even if it has extra details
+</evaluation_criteria>
+
+<output_format>
+Output a JSON object:
+{
+  "is_correct": true or false,
+  "score": 0.0 to 1.0,
+  "explanation": "Brief explanation of your evaluation"
+}
+</output_format>

@@ -1,0 +1,37 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-03-28T16:03:00.
+
+The specific content of the conversation is:
+dialogue_id: D11:1,  Jolene: Hey Deb, long time no talk. A lot's happened! On Friday I had a breakthrough with my engineering project. Finally found a solution to a prob that's been bugging me. Feels great to see my hard work paying off.
+
+dialogue_id: D11:2,  Deborah: <image_message>Deborah send an image.
+Image description: yoga class calming setting
+a photo of a group of people doing yoga in a room</image_message> You've really proven your skills. Feels great, right? Keep it up! And I bought new props for the yoga class! Here it is in action.
+
+dialogue_id: D11:3,  Jolene: <image_message>Jolene send an image.
+Image description: yoga mat blocks
+a photo of a cardboard mat with a cup of coffee on it</image_message> Oh, I also have new details for this case! Rate it!
+
+dialogue_id: D11:4,  Deborah: <image_message>Deborah send an image.
+Image description: yoga mat lavender scented candle
+a photo of a candle with a sprig of rosemary on a table</image_message> That`s cool! I also bought this candle for the atmosphere and to improve my yoga practice. How about you? When you do it, what feelings do you get?
+
+dialogue_id: D11:5,  Jolene: I feel relaxed during this activity. I love creating a serene space with soothing scents like lavender and rosemary. Do you have any favorite scents or rituals for when you do it?
+
+dialogue_id: D11:6,  Deborah: I'm also a big fan of scents like this! Candles and essential oils add warmth and calm to my yoga session. It's amazing how certain smells can transport you to a place of peace.  Do you have any other ways to enhance your yoga practice?
+
+dialogue_id: D11:7,  Jolene: I find music helps me. Any favorite tracks?
+
+dialogue_id: D11:8,  Deborah: I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called "Savana." What songs/artists do you like listening to during your practice?
+
+dialogue_id: D11:9,  Jolene: I love listening to Nils Frahm and Olafur Arnalds during my practice. Their music is so calming and puts me in a different headspace. Do you have any recommendations for other similar artists or tracks I should check out?
+
+dialogue_id: D11:10,  Deborah: Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!
+
+dialogue_id: D11:11,  Jolene: Thanks for the tips, Deborah! I'm gonna check them out. It's always good to have some new tunes for yoga!
+
+dialogue_id: D11:12,  Deborah:  Let me know your thoughts on the albums!
+
+dialogue_id: D11:13,  Jolene: See you!
+
+dialogue_id: D11:14,  Deborah: Take care and keep up the good work!
+

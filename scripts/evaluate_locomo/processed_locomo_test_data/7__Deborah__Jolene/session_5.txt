@@ -1,0 +1,39 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-02-09T21:03:00.
+
+The specific content of the conversation is:
+dialogue_id: D5:1,  Jolene: Hey Deborah! Been a few days since we last talked so I wanted to fill you in on something cool. Last Wednesday I did a mini retreat to assess where I'm at in life. It was a dope experience that totally gave me a new outlook.
+
+dialogue_id: D5:2,  Deborah: Hey Jolene! Sounds great. Taking time to reflect can be really awesome. Did you gain any new insights from it?
+
+dialogue_id: D5:3,  Jolene: Yep! I achieved so much more than I imagined. It was a real confidence boost.
+
+dialogue_id: D5:4,  Deborah: You deserve credit for stepping outside your comfort zone and believing in yourself. What cool stuff did you accomplish at the retreat?
+
+dialogue_id: D5:5,  Jolene: I really accomplished something with my engineering project - I came up with some neat solutions and I'm really excited about it.
+
+dialogue_id: D5:6,  Deborah: Let's go into more detail.
+
+dialogue_id: D5:7,  Jolene:  Green tech could really make a difference in disadvantaged areas. I'd like to look into it and see how I can contribute. Hey, speaking of helping out, I had an idea: a volunteer program where engineers teach STEM to underprivileged kids. What do you think of that?
+
+dialogue_id: D5:8,  Deborah: That sounds great, Jolene! It's a great way to help and inspire others. They would benefit a lot from your knowledge. Have you thought of a plan yet?
+
+dialogue_id: D5:9,  Jolene: Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options.
+
+dialogue_id: D5:10,  Deborah: Having guest speakers, like them, would definitely give the kids a real-world view. Have you reached out to any schools or centers yet?
+
+dialogue_id: D5:11,  Jolene: No, not yet. I want to solidify the plan first. Can't wait to start reaching out, though!
+
+dialogue_id: D5:12,  Deborah: That makes sense. I'm excited to hear how you reach out and help those kids. Let me know how it goes!
+
+dialogue_id: D5:13,  Jolene: <image_message>Jolene send an image.
+Image description: engineering notebook ideas
+a photo of a notebook with a pen and a notebook with a page of notes</image_message> I'll keep you posted! Appreciate the support! Here are my sketches in the planner.
+
+dialogue_id: D5:14,  Deborah: Sounds like you're doing great. Let me know if you need more tips or information.
+
+dialogue_id: D5:15,  Jolene: Thanks, Deb! If I need anything else, I'll let you know. You're awesome!
+
+dialogue_id: D5:16,  Deborah: You're awesome too! Take care!
+
+dialogue_id: D5:17,  Jolene: Stay safe!
+

@@ -1,0 +1,45 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-01-23T16:06:00.
+
+The specific content of the conversation is:
+dialogue_id: D1:1,  Deborah: Hey Jolene, nice to meet you! How's your week going? Anything fun happened?
+
+dialogue_id: D1:2,  Jolene: Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?
+
+dialogue_id: D1:3,  Deborah: Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house.
+
+dialogue_id: D1:4,  Jolene: Why does it hold such special memories for you?
+
+dialogue_id: D1:5,  Deborah: <image_message>Deborah send an image.
+Image description: mother old home emotions memories
+a photo of a woman in a wheelchair hugging a woman in a wheelchair</image_message> It was full of memories, she passed away a few years ago. This is our last photo together.
+
+dialogue_id: D1:6,  Jolene: <image_message>Jolene send an image.
+Image description: serene yoga studio windows natural light
+a photo of a room with a bench and a window</image_message> Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember?
+
+dialogue_id: D1:7,  Deborah: My mom's house had a special bench near the window. She loved to sit there every morning and take in the view. I come to sit here sometimes, it helps me stay connected to her.
+
+dialogue_id: D1:8,  Jolene: <image_message>Jolene send an image.
+Image description: meaningful necklace heart pendant
+a photo of a heart shaped pendant with a bird on it</image_message> Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.
+
+dialogue_id: D1:9,  Deborah: Yes, I also have a pendant that reminds me of my mother. And what is special for you about your jewelry?
+
+dialogue_id: D1:10,  Jolene: It has a special symbol on it that represents freedom for me. It's a nice reminder to go for my goals and not get held back.
+
+dialogue_id: D1:11,  Deborah: It should really give you strength and energy!
+
+dialogue_id: D1:12,  Jolene: Do you have goals?
+
+dialogue_id: D1:13,  Deborah: One of my goals is to keep teaching yoga and supporting my community. I'm passionate about helping people find peace and joy through it.
+
+dialogue_id: D1:14,  Jolene: What inspired you to go down this route?
+
+dialogue_id: D1:15,  Deborah: Yoga helped me find peace during a rough time, and now I'm passionate about sharing that with others.
+
+dialogue_id: D1:16,  Jolene: It is truly inspiring!
+
+dialogue_id: D1:17,  Deborah: Gotta run, bye!
+
+dialogue_id: D1:18,  Jolene: Looking forward to the next chat!
+

@@ -1,0 +1,41 @@
+A conversation between Joanna and Nate. This conversation takes place on 2022-06-05T14:12:00.
+
+The specific content of the conversation is:
+dialogue_id: D15:1,  Joanna: Hey Nate! Yesterday was crazy cool - I wrote a few bits for a screenplay that appeared on the big screen yesterday! It was nerve-wracking but so inspiring to see my words come alive!
+
+dialogue_id: D15:2,  Nate: Congrats, Joanna! Seeing your hard work pay off like that must've felt amazing. I bet it was scary too, but awesome! You're so inspiring. By the way, last time we saw eachother, I noticed a spiderman pin on your purse. Is Spider-Man your favorite superhero, or do you have another fave?
+
+dialogue_id: D15:3,  Joanna: Thanks, Nate! It was a real roller coaster, but seeing the hard work pay off was amazing. Spider-Man has always been a favorite of mine - I mean, who doesn't love Peter Parker's struggles between being a hero and being a person? But I'm kind of a sucker for any superhero - everyone has their own rad story and powers. Do you have a favorite superhero?
+
+dialogue_id: D15:4,  Nate: <image_message>Nate send an image.
+Image description: iron man action figures
+a photography of a toy iron man standing on a white surface</image_message> That's great, Joanna! Iron Man is my top pick. I love his tech and that sarcastic humor. Seeing these figures just makes me feel invincible!
+
+dialogue_id: D15:5,  Joanna: Wow, Nate! That's awesome. I love the tech and funny jokes of Iron Man too. What made you get that figure?
+
+dialogue_id: D15:6,  Nate: Thanks Joanna! I got it because it reminded me of something I love. Its presence in my room is a good reminder to keep working on my goals. Any inspiring things in your room?
+
+dialogue_id: D15:7,  Joanna: My cork board is full of inspiring quotes and pictures for motivation and creativity. It's my little corner of inspiration.
+
+dialogue_id: D15:8,  Nate: Wow Joanna, that sounds great! Could you show me a picture of it?
+
+dialogue_id: D15:9,  Joanna: <image_message>Joanna send an image.
+Image description: cork board quotes photos loved ones mementos
+a photo of a picture frame with a picture of a family</image_message> Here ya go, a pic of my cork board. It's got quotes, photos, and little keepsakes.
+
+dialogue_id: D15:10,  Nate: That's a great pic of your family! What made you hang it on your cork board?
+
+dialogue_id: D15:11,  Joanna: Thanks, Nate! Having that picture on my cork board reminds me of the love and encouragement from them every day.
+
+dialogue_id: D15:12,  Nate: That's great, Joanna. Family support is invaluable. It's so good to have those reminders.
+
+dialogue_id: D15:13,  Joanna: Absolutely, it means a lot and keeps me going.
+
+dialogue_id: D15:14,  Nate: I really should start a cork board of my own shouldn't I. That seems like a really valuable thing!
+
+dialogue_id: D15:15,  Joanna: I would definitely recommend it! As long as your willing to explain what it is to your friends.
+
+dialogue_id: D15:16,  Nate: Of course! Well see you later Joanna!
+
+dialogue_id: D15:17,  Joanna: Bye Nate!
+

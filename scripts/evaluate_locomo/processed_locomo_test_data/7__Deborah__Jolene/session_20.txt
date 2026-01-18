@@ -1,0 +1,66 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-08-21T09:11:00.
+
+The specific content of the conversation is:
+dialogue_id: D20:1,  Jolene:  Long time no talk! We were given a new game for the console last week, it is Battlefield 1. What's been up with you?
+
+dialogue_id: D20:2,  Deborah: <image_message>Deborah send an image.
+Image description: bench vibrant flowers
+a photo of a flower cart on a sidewalk with flowers in it</image_message> Hey Jolene! Good to hear from you. That`s cool! Been thinking about a few big moments lately - went to a place that held a lot of memories for me. Sat on a bench where we used to chat and it brought back a lot of emotions. 
+
+dialogue_id: D20:3,  Jolene: Mostly happy or a bit of everything?
+
+dialogue_id: D20:4,  Deborah: <image_message>Deborah send an image.
+Image description: flower cart sidewalk flowers
+a photo of a vase of flowers on the ground in a street</image_message> It was quite a mix, Jolene. I felt nostalgia and longing, but also grateful for the memories. It's amazing how a place can mean so much. I brought these flowers there.
+
+dialogue_id: D20:5,  Jolene: Do you think she would like it?
+
+dialogue_id: D20:6,  Deborah: <image_message>Deborah send an image.
+Image description: mother holding bouquet flowers
+a photo of a woman holding a bouquet of red roses</image_message> Yeah, my mom really loved flowers. They always made her so happy. She appreciated the simple things in life.
+
+
+dialogue_id: D20:7,  Jolene: Wow, that's a great photo! How did she show you to appreciate it?
+
+dialogue_id: D20:8,  Deborah: By taking it slow, seeing beauty in them, and finding joy.
+
+dialogue_id: D20:9,  Jolene: Wow Deb, that's awesome! We should definitely take time to enjoy that and not let the business of life cause us to miss out on the good stuff.
+
+dialogue_id: D20:10,  Deborah: Yeah, Jolene. Life can be so busy that we often overlook the small things that truly matter. Let's make an effort to appreciate them more.
+
+dialogue_id: D20:11,  Jolene: Yep Deb, slowing down and enjoying simple moments can bring a lot of balance and happiness. I'm trying to do more yoga and meditation myself to help relax and stay focused. Are there any calming habits that you practice to feel balanced?
+
+dialogue_id: D20:12,  Deborah: <image_message>Deborah send an image.
+Image description: sunset calm lake
+a photo of a sunset over a body of water</image_message> Yeah, same here, Jolene! Yoga and meditation help me find balance and inner peace. Going out for walks and staying mindful also keep me grounded. I take similar photos on walks.
+
+dialogue_id: D20:13,  Jolene: Gorgeous! Going for a walk and feeling so peaceful must be amazing.
+
+dialogue_id: D20:14,  Deborah: Moments like that I'll always cherish.
+
+dialogue_id: D20:15,  Jolene: That calm and peaceful feeling is so nice - it's great for recharging and thinking.
+
+dialogue_id: D20:16,  Deborah:  It's like a reboot for me.
+
+dialogue_id: D20:17,  Jolene: Got it! It's like hitting the refresh button and coming back even better.
+
+dialogue_id: D20:18,  Deborah: What's your favorite yoga pose for some rest?
+
+dialogue_id: D20:19,  Jolene: <image_message>Jolene send an image.
+Image description: savasana yoga mat
+a photo of a person laying on the floor with a paper bag</image_message> I'm a fan of savasana - aka the corpse pose. It's so calming and helps me just let go and surrender.
+
+dialogue_id: D20:20,  Deborah: Funny photo! How long have you been doing yoga?
+
+dialogue_id: D20:21,  Jolene: Been doing it for 3 years. It's a great way to escape studying and work stress.
+
+dialogue_id: D20:22,  Deborah: Wow, Jolene! Taking time to unwind is key and that seems just right for you!
+
+dialogue_id: D20:23,  Jolene: I'm really finding my zen again!
+
+dialogue_id: D20:24,  Deborah: Keep it up!
+
+dialogue_id: D20:25,  Jolene: Thanks for your support, Deb! 
+
+dialogue_id: D20:26,  Deborah: Good luck with everything. Stay in touch.
+

@@ -1,0 +1,48 @@
+A conversation between James and John. This conversation takes place on 2022-09-04T21:23:00.
+
+The specific content of the conversation is:
+dialogue_id: D23:1,  James: Hey John, it's been a few days since we talked. So much has gone on, both good and bad. Yesterday, when we were at the theater, Samantha loves theater, I asked her to become my girlfriend, and she agreed. We have gone through a lot in this short period. There were good and bad, but I'm happy with her. All that ups and downs were a bit overwhelming, but it's part of life. What about you? Anything interesting lately?
+
+dialogue_id: D23:2,  John: <image_message>John send an image.
+Image description: family coding together computer
+a photography of a man sitting at a desk with a computer</image_message> Hey James, this is great news! Where else have you been besides the theater? My parents just started learning coding from me - it's been a learning experience, but I'm glad to help them out. It binds us a little closer. Look at this photo, this is my father coding his own program for the first time.
+ 
+
+dialogue_id: D23:3,  James: That's great, John! Looks like he's having a good time in the pic. Samantha and I were also at McGee's bar. It turned out that she loves a good lager beer. She and I have so much in common!
+
+dialogue_id: D23:4,  John: I'm glad you finally found someone other than dogs that brings you joy. Well done, you will succeed!
+
+dialogue_id: D23:5,  James: Thanks, John. She and I are going to a baseball game next Sunday, want to join? I'll show you what Samantha looks like.
+
+dialogue_id: D23:6,  John: Yeah! Let's do it. It'll be a fun experience!
+
+dialogue_id: D23:7,  James: Great. Well, what else is new in your life?
+
+dialogue_id: D23:8,  John: I bought some new gaming equipment to improve my skills. For example, new headphones.
+
+dialogue_id: D23:9,  James: Cool, which company did you choose? And what other devices did you buy?
+
+dialogue_id: D23:10,  John: I chose headphones from Sennheiser. Judging by the reviews, they have excellent sound. Also, I bought a mouse from Logitech.
+
+dialogue_id: D23:11,  James: Cool! I hope the new devices will improve your skill and you will play even better!
+
+dialogue_id: D23:12,  John: I really hope so too. Well, do you have anything new besides the great news about you and Samantha?
+
+dialogue_id: D23:13,  James: Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!
+
+dialogue_id: D23:14,  John: Cool! I’ve never heard of your desire to cook, you surprise me! How much do these cooking courses cost and what else did you cook there?
+
+dialogue_id: D23:15,  James: At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough.
+
+dialogue_id: D23:16,  John: Really cheap. It's great that you are always looking for a way to improve yourself!
+
+dialogue_id: D23:17,  James: Thanks for your support, John! I really appreciate it. I hope I can treat you to my creation once I learn a little more about cooking.
+
+dialogue_id: D23:18,  John: I look forward to it, James, you can do it!
+
+dialogue_id: D23:19,  James: Your words give me even more strength to pursue my new hobby!
+
+dialogue_id: D23:20,  John: That's why we are friends, to support each other! Well, I have to go, bye!
+
+dialogue_id: D23:21,  James: Take care, John, bye!
+

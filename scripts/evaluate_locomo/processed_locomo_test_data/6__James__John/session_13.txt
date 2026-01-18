@@ -1,0 +1,43 @@
+A conversation between James and John. This conversation takes place on 2022-06-13T16:30:00.
+
+The specific content of the conversation is:
+dialogue_id: D13:1,  John: Hey James, long time no talk! A lot has happened during this time. Let me fill you in.
+
+dialogue_id: D13:2,  James: Hey John! Awesome to hear from you. Yeah, a lot has happened. Let's catch up!
+
+dialogue_id: D13:3,  John: I finally got my dream job! After lots of interviews and late nights, I got the offer and was ecstatic. Can't wait to start my journey!
+
+dialogue_id: D13:4,  James: Wow, John! Congrats on getting your dream job. I'm super stoked for you. When do you start?
+
+dialogue_id: D13:5,  John: Thank you! ! I'm starting next month.
+
+dialogue_id: D13:6,  James: It can be rough getting started, but I'm sure you'll do great. Don't be afraid to seek help if you need it. Can't wait to hear about your experience! By the way, I recently started a course that combines my passion for gaming and programming. It's fun and challenging, and it has definitely increased my excitement for both.
+
+dialogue_id: D13:7,  John: Cool! That sounds awesome. Combining your love of gaming and coding sounds like a dream. Tell me more! Are there any interesting projects you're working on?
+
+dialogue_id: D13:8,  James: Yes, we are currently working on a new part of the football simulator. I was working on collecting player databases. It wasn't easy, but I did it!
+
+dialogue_id: D13:9,  John: Cool! Did you choose this course because you love football?
+
+dialogue_id: D13:10,  James: Not least because of this. I love football, but, of course, the most important reason is to improve yourself. But it’s nice if it’s also connected with something you like.
+
+dialogue_id: D13:11,  John: I completely agree! By the way, did you watch the Liverpool vs Chelsea match?
+
+dialogue_id: D13:12,  James: Of course, they played well! As I like to say, there is no sport better than football, no club better than Liverpool! I don't miss a single match of theirs!
+
+dialogue_id: D13:13,  John: It looks like you really root for this team!
+
+dialogue_id: D13:14,  James: Absolutely! They are forever in my heart, they are a great team. I hope they become champions next season!
+
+dialogue_id: D13:15,  John: As a Manchester City fan, I can't agree with you. You'll see, our two teams will fight for the championship, and mine will win!
+
+dialogue_id: D13:16,  James: I'm sure you're wrong, John. Manchester City are in bad form and their transfer policy is terrible!
+
+dialogue_id: D13:17,  John: You may be right, but the City manager can handle it, you'll see!
+
+dialogue_id: D13:18,  James: I bet we'll be higher than you in the final standings!
+
+dialogue_id: D13:19,  John: I'll take the bet, James! This will be a great battle!
+
+dialogue_id: D13:20,  James: Sure, John!
+

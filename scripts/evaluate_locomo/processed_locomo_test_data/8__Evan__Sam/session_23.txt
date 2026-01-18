@@ -1,0 +1,83 @@
+A conversation between Evan and Sam. This conversation takes place on 2024-01-06T13:32:00.
+
+The specific content of the conversation is:
+dialogue_id: D23:1,  Evan: <image_message>Evan send an image.
+Image description: couple families announcement
+a photo of a man and a woman standing on a rocky beach</image_message> Hey Sam, guess what? My partner and I told our extended fam about our marriage yesterday – it was so special! We've been totally overwhelmed by all their love and support.
+
+dialogue_id: D23:2,  Sam: Congrats on the news, Evan! You two look so happy in the pic. These moments make life so wonderful; super stoked for you!
+
+dialogue_id: D23:3,  Evan: Thanks, Sam! It was an awesome moment, and I feel really lucky to have found someone who gets me. Plus, our families are really happy for us - that's the best part!
+
+dialogue_id: D23:4,  Sam: Wow, Evan. It's awesome that you've found someone who gets you! Having your family's support must feel great.
+
+dialogue_id: D23:5,  Evan: Definitely, family support is so important. Knowing they're happy about our marriage is awesome and so comforting.
+
+dialogue_id: D23:6,  Sam: Yeah, it's awesome to have that support. It definitely brings more happiness and joy.
+
+dialogue_id: D23:7,  Evan: Yeah Sam, that means a lot to me. Our bond just keeps getting stronger and it brings such a good feeling to our lives. Family really is everything.
+
+dialogue_id: D23:8,  Sam: Agree, Evan! Family is everything - they bring so much love and happiness. They're always there for us no matter what. I'm grateful for their support and love.
+
+dialogue_id: D23:9,  Evan: For sure, Sam. That's what makes family so special. They bring so much love and happiness. It's great having their support and knowing they're always there for us. I feel really fortunate to have their never-ending love and support.
+
+dialogue_id: D23:10,  Sam: Yeah, definitely, Evan. We both have amazing families that are always there for us. Always a blessing.
+
+dialogue_id: D23:11,  Evan: Yeah, Sam. Our families give us so much joy, support, and love. They're a real blessing! I don't know what I'd do without them.
+
+dialogue_id: D23:12,  Sam: Hey, Evan. My family has been my rock through everything. Don't know what I'd do without them.
+
+dialogue_id: D23:13,  Evan: <image_message>Evan send an image.
+Image description: family gathering
+a photo of a group of people sitting at a table with food</image_message> Yeah, they are our rock. We're blessed to have them.
+
+dialogue_id: D23:14,  Sam: Wow, you guys are awesome! What's cooking tonight?
+
+dialogue_id: D23:15,  Evan: Thanks, Sam! We're having a family get-together tonight and enjoying some homemade lasagna. Super excited! By the way, I've started a new diet—limiting myself to just two ginger snaps a day. What's on your menu tonight?	
+
+dialogue_id: D23:16,  Sam: <image_message>Sam send an image.
+Image description: lasagna garlic bread
+a photo of a plate of food with bread and meat</image_message> That's a great discipline, Evan! We're keeping it light tonight, just some homemade lasagna. Can't compete with your ginger snap limit though!
+
+dialogue_id: D23:17,  Evan: Oh this must be very hearty and delicious, well I'll have to stick to the diet plan, even with the family gathering!
+
+dialogue_id: D23:18,  Sam: <image_message>Sam send an image.
+Image description: homemade key lime pie
+a photo of a pie with raspberries and limes on top</image_message> Yeah, the lasagna was pretty awesome, but check out what I had for dessert, I'm sure you're drooling!
+
+dialogue_id: D23:19,  Evan: Looks yummy! Did you make that?
+
+dialogue_id: D23:20,  Sam: No, I didn't make it. This is actually a pic from my cousin's wedding. It's super special.
+
+dialogue_id: D23:21,  Evan: <image_message>Evan send an image.
+Image description: wedding cake
+a photo of a wedding cake with candles and flowers on a table</image_message> Wow Sam! Weddings are indeed special. This looks great, yum!
+
+dialogue_id: D23:22,  Sam: Ooh, nice cake! Reminds me of special occasions. Do you have any upcoming plans?
+
+dialogue_id: D23:23,  Evan: <image_message>Evan send an image.
+Image description: snowy landscape canada honeymoon
+a photo of a stream running through a snowy forest filled with snow</image_message> Thanks Sam! We're off to Canada next month for our honeymoon. So excited to create some awesome memories. Looking forward to exploring the beautiful snowy landscapes there.
+
+dialogue_id: D23:24,  Sam: Wow, that looks great! What are your plans for the trip?
+
+dialogue_id: D23:25,  Evan: We're planning to ski, try the local cuisine, and enjoy the beautiful views. We're really excited!
+
+dialogue_id: D23:26,  Sam: <image_message>Sam send an image.
+Image description: ski canada poutine
+a photo of a container of french fries covered in caramel</image_message> Sounds amazing, Ev! Skiing, trying local dishes, and enjoying the breathtaking views - the perfect honeymoon. Have an incredible time creating unforgettable memories!
+
+dialogue_id: D23:27,  Evan: Yeah, Sam! Gonna try some poutine while we're there - can't wait!
+
+dialogue_id: D23:28,  Sam: Never tried it? Can't say I blame you, it's kind of a Canadian thing. Let me know how you like it!
+
+dialogue_id: D23:29,  Evan: Sure thing, Sam! Let's see if it lives up to the hype. I'll let you know what happens!
+
+dialogue_id: D23:30,  Sam: Yeah, Evan! Let me know all about it. Don't forget the details!
+
+dialogue_id: D23:31,  Evan: Cool, Sam. I'll keep you posted. Talk soon!
+
+dialogue_id: D23:32,  Sam: Awesome, Evan! Catch you soon. Have a great trip!
+
+dialogue_id: D23:33,  Evan: Thanks, Sam! Catch you later. Have a great one!
+

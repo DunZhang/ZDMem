@@ -1,0 +1,89 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-09-17T13:24:00.
+
+The specific content of the conversation is:
+dialogue_id: D29:1,  Deborah: Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see.
+
+dialogue_id: D29:2,  Jolene: Wow, Deborah, that's awesome! Keep up the great work, and here's hoping for more events like this in the future!
+
+dialogue_id: D29:3,  Deborah:  Gardening is really amazing. It brings us together in such a cool way. It was awesome to share my love of plants and help people take care of the world. So, what about you? Anything new happened lately?
+
+dialogue_id: D29:4,  Jolene: We tried a scuba diving lesson last Friday and had an awesome time! We found a cool dive spot we can explore together. Trying new things opens up a world of adventure - maybe one day I'll be a certified diver. Anything fun going on with you?
+
+dialogue_id: D29:5,  Deborah: That sounds amazing, Jolene! I've been interested in underwater life, but I haven't had the chance to try scuba diving yet. Recently, I've been spending time remembering my mom. Last Sunday, I visited her old house and sat on a bench. It was a comforting experience, as if I could feel her presence guide me and remind me of her love.
+
+dialogue_id: D29:6,  Jolene: Visiting your mom's old home sounds like it was really special. Is there something special you remember about her?
+
+dialogue_id: D29:7,  Deborah: <image_message>Deborah send an image.
+Image description: peach cobbler delicious warm recipe
+a photo of a bowl of food with a spoon in it</image_message> Thanks, Jolene! It was really special. My mom had a big passion for cooking. She would make amazing meals for us, each one full of love and warmth. I can still remember the smell of her special dish, it would fill the house and bring us all together.
+
+dialogue_id: D29:8,  Jolene: Mmm, that looks delicious, Deb! So sweet how cooking with your mom brought everyone together. What's your best memory of cooking with her?
+
+dialogue_id: D29:9,  Deborah: <image_message>Deborah send an image.
+Image description: pineapple birthday cake 1 candle
+a photo of a pineapple cake with a smiley face on it</image_message> I loved it when she would bake pineapple birthday cakes for me when I was a kid. It always made me feel so special.
+
+dialogue_id: D29:10,  Jolene: No wonder it made you feel special. 
+
+dialogue_id: D29:11,  Deborah: Have you ever had something like that with someone close?
+
+dialogue_id: D29:12,  Jolene: <image_message>Jolene send an image.
+Image description: homemade cookies tray
+a photo of four chocolate chip cookies on a baking sheet</image_message> I used to bake cookies with someone close to me.
+
+dialogue_id: D29:13,  Deborah: What's your favorite cookie to make?
+
+dialogue_id: D29:14,  Jolene: The warm, gooey chocolate and soft, buttery cookie are a match made in heaven.
+
+dialogue_id: D29:15,  Deborah: I really want to eat this now.
+
+dialogue_id: D29:16,  Jolene: <image_message>Jolene send an image.
+Image description: memory book pictures notes
+a photo of a person holding a book open on a bed</image_message> Well look what I have here!
+
+dialogue_id: D29:17,  Deborah:  Is there anything special about it or the photo?
+
+dialogue_id: D29:18,  Jolene: It takes me to another world when I read it!
+
+dialogue_id: D29:19,  Deborah: <image_message>Deborah send an image.
+Image description: cozy reading nook bookshelf books
+a photo of a living room with a couch and a book shelf</image_message> Did I show you that I have a big bookshelf too?
+
+dialogue_id: D29:20,  Jolene: I think not, I really like it!
+
+dialogue_id: D29:21,  Deborah: <image_message>Deborah send an image.
+Image description: reading nook cozy inviting book bookmark heart shaped pendant
+a photo of a bathroom with a black and white wall and a wooden stool</image_message> Having a space like this is important for escaping reality and relaxing with a book. Do you have any books that really moved you?
+
+dialogue_id: D29:22,  Jolene: My bathroom has an aesthetic vibe. Once I read a self-discovery book there and it really resonated with me.
+
+dialogue_id: D29:23,  Deborah: <image_message>Deborah send an image.
+Image description: sunset beach
+a photo of a person walking on the beach with a surfboard</image_message> Wow! A special book that speaks to you and helps with self-discovery? That's awesome. Plus, having a cozy nook to chill? That's my best one!
+
+dialogue_id: D29:24,  Jolene: Sounds nice, Deb! A cozy nook is a must! The beach is a great place for finding peace and relaxation. Have you ever tried surfing?
+
+dialogue_id: D29:25,  Deborah: <image_message>Deborah send an image.
+Image description: surfer riding wave surfing
+a photo of a man riding a surfboard on a wave in the ocean</image_message> Certainly! Here's the confirmation.
+
+dialogue_id: D29:26,  Jolene: How cool! But I never decided to try it.
+
+dialogue_id: D29:27,  Deborah: It's okay, maybe we can try it together sometime!
+
+dialogue_id: D29:28,  Jolene: <image_message>Jolene send an image.
+Image description: surfboard palm tree
+a photo of a surfboard painted with a palm tree on it</image_message> I already know what fate awaits me if I do this!
+
+dialogue_id: D29:29,  Deborah: Have you ever been interested in this or do you know nothing about it?
+
+dialogue_id: D29:30,  Jolene: Just started learning, but haven't gone yet. Want to come with me sometime?
+
+dialogue_id: D29:31,  Deborah: It'll be an adventure! Let's make it happen soon!
+
+dialogue_id: D29:32,  Jolene: So glad, all that remains is to agree and choose the right time for both of us.
+
+dialogue_id: D29:33,  Deborah:  Can't wait. What day works for you? I'm really excited!
+
+dialogue_id: D29:34,  Jolene: Let's plan for next month - I'll check my schedule and let you know. Can't wait!
+

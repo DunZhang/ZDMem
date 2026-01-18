@@ -1,0 +1,35 @@
+A conversation between Deborah and Jolene. This conversation takes place on 2023-08-12T20:50:00.
+
+The specific content of the conversation is:
+dialogue_id: D17:1,  Deborah: Since we last spoke, I made a meditation guide for my yoga retreat. How about you?
+
+dialogue_id: D17:2,  Jolene: I have been stressed since I lost my work files. I was so overwhelmed...but meditation kept me chill and I got my clarity back, thank goodness. Really appreciate the practice!
+
+dialogue_id: D17:3,  Deborah: It's amazing how it can give you peace and calm in times like that. If you ever need any support, just let me know - we're in this together!
+
+dialogue_id: D17:4,  Jolene: <image_message>Jolene send an image.
+Image description: meditation quote journal
+a photo of two notebooks with a blue cover and a white strip</image_message>  Appreciate your support! BTW, I wanted to share this with you.
+
+dialogue_id: D17:5,  Deborah: Your creativity is amazing! 
+
+dialogue_id: D17:6,  Jolene: Thanks, Deb! I was inspired by my love for space and engines, so I designed these notebooks with elements like galaxies and circuitry. I think they turned out really cool!
+
+dialogue_id: D17:7,  Deborah: You have such a knack for turning these into art. They make me feel excited just by looking at them. Your creativity is amazing! Does that usually inspire your engineering projects too?
+
+dialogue_id: D17:8,  Jolene: Seeing art and design in various things gives me a unique perspective on problems.
+
+dialogue_id: D17:9,  Deborah: Got any neat projects or ideas you're pumped about?
+
+dialogue_id: D17:10,  Jolene:  Working on a cool project now - a prototype that could revolutionize aerial surveillance. Can't wait to see the results!
+
+dialogue_id: D17:11,  Deborah: I admire your ambition to make a difference. Do you have any specific plans or goals for this project?
+
+dialogue_id: D17:12,  Jolene: My aim is to devise a more productive and affordable aerial surveillance system. It'll help with responding to emergencies and monitoring the environment. It'll make the world a better, safer place.
+
+dialogue_id: D17:13,  Deborah: I love your commitment. Keep going!
+
+dialogue_id: D17:14,  Jolene: Thanks, Deb! Your support means a lot. I'll keep pushing and doing my best to make a difference.
+
+dialogue_id: D17:15,  Deborah: You got this!
+
