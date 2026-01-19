@@ -1,41 +1,92 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-07-11T10:05:00.
 
 The specific content of the conversation is:
-dialogue_id: D12:1,  Andrew: <image_message>Andrew send an image.
+dialogue_id: D12:1
+Andrew: <image_message>Andrew send an image.
 Image description: new puppy toby city
 a photo of a dog sitting on a leash in a room</image_message> Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?
 
-dialogue_id: D12:2,  Audrey: OMG! Toby looks so adorable! Congrats on your new addition. I'm sure you're really happy right now! I so happy for you!
 
-dialogue_id: D12:3,  Andrew: Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike.
 
-dialogue_id: D12:4,  Audrey: Yeah you're really stressed then! When work's non-stop, it's hard to get outdoors. Hiking is a great way to relax and take in nature. Do you have plans to go hiking soon? We should plan a trip for both of us and our pups!
+dialogue_id: D12:2
+Audrey: OMG! Toby looks so adorable! Congrats on your new addition. I'm sure you're really happy right now! I so happy for you!
 
-dialogue_id: D12:5,  Andrew: Yeah work's been stressful lately and I need a break. I have plans for a hike next month and thought it'd be cool if you and the pups could come along. We can enjoy nature and have a fun time!
 
-dialogue_id: D12:6,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D12:3
+Andrew: Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike.
+
+
+
+dialogue_id: D12:4
+Audrey: Yeah you're really stressed then! When work's non-stop, it's hard to get outdoors. Hiking is a great way to relax and take in nature. Do you have plans to go hiking soon? We should plan a trip for both of us and our pups!
+
+
+
+dialogue_id: D12:5
+Andrew: Yeah work's been stressful lately and I need a break. I have plans for a hike next month and thought it'd be cool if you and the pups could come along. We can enjoy nature and have a fun time!
+
+
+
+dialogue_id: D12:6
+Audrey: <image_message>Audrey send an image.
 Image description: personalized dog tags engraved names dogs
 a photo of a group of wooden keychains with engraved names</image_message> Sounds great! I'm in for the hike, and my dogs can come too. Thanks for inviting us! I made these personalized tags for them. Take a look! 
 
-dialogue_id: D12:7,  Andrew: Wow, those look great! Did you make them? It's really cool!
 
-dialogue_id: D12:8,  Audrey: Thanks! Yeah, I made them myself. I wanted each one to be special and fit their personalities.
 
-dialogue_id: D12:9,  Andrew: Wow, that's so cool. You really put so much love into making them, which makes them extra special.
+dialogue_id: D12:7
+Andrew: Wow, those look great! Did you make them? It's really cool!
 
-dialogue_id: D12:10,  Audrey: Thanks! I did put a lot of love into making these tags. I want my pets to feel seen and loved.
 
-dialogue_id: D12:11,  Andrew: It really are the small things like these show we care a ton about out pets.
 
-dialogue_id: D12:12,  Audrey: Yep! Small acts of love like that make a big difference in our relationships with our furry pals. Let's make sure they know how much we care!
+dialogue_id: D12:8
+Audrey: Thanks! Yeah, I made them myself. I wanted each one to be special and fit their personalities.
 
-dialogue_id: D12:13,  Andrew: Definitely! They bring us so much joy, so it's only fair that we show them how special they are. Can't wait for our hike - and for Toby and your pups to meet!
 
-dialogue_id: D12:14,  Audrey: Can't wait either! It's going to be loads of fun and a great memory.
 
-dialogue_id: D12:15,  Andrew: Yep! It'll be an adventure alright. 
+dialogue_id: D12:9
+Andrew: Wow, that's so cool. You really put so much love into making them, which makes them extra special.
 
-dialogue_id: D12:16,  Audrey: Counting down the days 'til our hike! Gotta get them ready soon!
 
-dialogue_id: D12:17,  Andrew: Same here! It's gonna be awesome. Let's talk later k?
+
+dialogue_id: D12:10
+Audrey: Thanks! I did put a lot of love into making these tags. I want my pets to feel seen and loved.
+
+
+
+dialogue_id: D12:11
+Andrew: It really are the small things like these show we care a ton about out pets.
+
+
+
+dialogue_id: D12:12
+Audrey: Yep! Small acts of love like that make a big difference in our relationships with our furry pals. Let's make sure they know how much we care!
+
+
+
+dialogue_id: D12:13
+Andrew: Definitely! They bring us so much joy, so it's only fair that we show them how special they are. Can't wait for our hike - and for Toby and your pups to meet!
+
+
+
+dialogue_id: D12:14
+Audrey: Can't wait either! It's going to be loads of fun and a great memory.
+
+
+
+dialogue_id: D12:15
+Andrew: Yep! It'll be an adventure alright. 
+
+
+
+dialogue_id: D12:16
+Audrey: Counting down the days 'til our hike! Gotta get them ready soon!
+
+
+
+dialogue_id: D12:17
+Andrew: Same here! It's gonna be awesome. Let's talk later k?
+
+
 

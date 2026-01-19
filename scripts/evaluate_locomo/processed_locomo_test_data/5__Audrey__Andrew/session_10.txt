@@ -1,73 +1,160 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-07-03T20:32:00.
 
 The specific content of the conversation is:
-dialogue_id: D10:1,  Audrey: Hey! It's been a while. I'm taking a dog training course and it's challenging but rewarding. My dogs are doing better already. What's new with you?
+dialogue_id: D10:1
+Audrey: Hey! It's been a while. I'm taking a dog training course and it's challenging but rewarding. My dogs are doing better already. What's new with you?
 
-dialogue_id: D10:2,  Andrew: Hey great to hear from you! Life's thrown me a few curveballs lately. Still can't seem to find any dog-friendly spots to rent. That's a bummer. Have you been able to do any exploring on new trails?
 
-dialogue_id: D10:3,  Audrey: Aw, sorry about the search for dog-friendly spots. I haven't had a ton of time for new trails either. The dog-training course has been a big time sink but it's paid off because they're doing great.
 
-dialogue_id: D10:4,  Andrew: That's great news! It must feel so rewarding to see them doing well. I understand how it feels on missing the peace of being out on the trails, but for now, it's just urban adventures then.
+dialogue_id: D10:2
+Andrew: Hey great to hear from you! Life's thrown me a few curveballs lately. Still can't seem to find any dog-friendly spots to rent. That's a bummer. Have you been able to do any exploring on new trails?
 
-dialogue_id: D10:5,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D10:3
+Audrey: Aw, sorry about the search for dog-friendly spots. I haven't had a ton of time for new trails either. The dog-training course has been a big time sink but it's paid off because they're doing great.
+
+
+
+dialogue_id: D10:4
+Andrew: That's great news! It must feel so rewarding to see them doing well. I understand how it feels on missing the peace of being out on the trails, but for now, it's just urban adventures then.
+
+
+
+dialogue_id: D10:5
+Audrey: <image_message>Audrey send an image.
 Image description: dogs playing park
 a photo of two dogs running in a field with a ball in their mouth</image_message> Seeing them do well is super rewarding! They give me so much love and happiness. I get how frustrating it can be not to find pet-friendly spots. Nature is so calming and restorative with them around. See how happy they are when they're out.
 
-dialogue_id: D10:6,  Andrew: I don't think I ever asked what breed they are right? Also, what do they enjoy doing the most? Looks like they're having a blast!
 
-dialogue_id: D10:7,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D10:6
+Andrew: I don't think I ever asked what breed they are right? Also, what do they enjoy doing the most? Looks like they're having a blast!
+
+
+
+dialogue_id: D10:7
+Audrey: <image_message>Audrey send an image.
 Image description: dogs curled up together
 a photo of two dogs curled up in a dog bed</image_message> They're all mutts. Two of them are Jack Russell mixes and the other two are Chihuahua mixes. They love running and playing fetch, you should see them sometimes.
 
-dialogue_id: D10:8,  Andrew: They look so comfy in that bed. It's clear they're well loved. How old are they? How are they getting along now?
 
-dialogue_id: D10:9,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D10:8
+Andrew: They look so comfy in that bed. It's clear they're well loved. How old are they? How are they getting along now?
+
+
+
+dialogue_id: D10:9
+Audrey: <image_message>Audrey send an image.
 Image description: dogs cuddling together playdate at home
 a photo of two dogs laying on a couch with a blanket</image_message> They're all 3-year-old and they are a great pack. We had a doggy playdate last Friday. It was a bit crazy but still lots of fun!
 
-dialogue_id: D10:10,  Andrew: They look adorable! Doggy playdates sound like a lot of fun. Glad they all get along.
 
-dialogue_id: D10:11,  Audrey: Thanks! They really are my universe. So anything new you've been into lately?
 
-dialogue_id: D10:12,  Andrew: Lately I've been finding new hobbies since I can't hike. I've been getting into cooking more and trying out new recipes - it's been enjoyable. Do you enjoy cooking? Any favorite recipes?
+dialogue_id: D10:10
+Andrew: They look adorable! Doggy playdates sound like a lot of fun. Glad they all get along.
 
-dialogue_id: D10:13,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D10:11
+Audrey: Thanks! They really are my universe. So anything new you've been into lately?
+
+
+
+dialogue_id: D10:12
+Andrew: Lately I've been finding new hobbies since I can't hike. I've been getting into cooking more and trying out new recipes - it's been enjoyable. Do you enjoy cooking? Any favorite recipes?
+
+
+
+dialogue_id: D10:13
+Audrey: <image_message>Audrey send an image.
 Image description: homemade chicken pot pie
 a photo of a pie on a wooden board with a knife</image_message> I love cooking! My favorite recipe is Chicken Pot Pie. It's so cozy and delicious, especially on a cold day. If you want, I can share the recipe with you.
 
-dialogue_id: D10:14,  Andrew: Mmm that looks nice! Mind sharing the recipe so I can give it a try? What inspired you to make it?
 
-dialogue_id: D10:15,  Audrey: Sure! Let me send you the recipe in a bit. You really should give it a try! It's my family's recipe that's been around for years. The flavors always remind me of my grandma's kitchen - makes me think of all the conversations we used to have at the table. I hope you like it! Oh, and how's the cooking going?
 
-dialogue_id: D10:16,  Andrew: Thanks! I'll give it a try. Cooking has been helping me de-stress and be creative. I'm still a rookie, but I'm having fun experimenting. So what makes you like cooking so much?
+dialogue_id: D10:14
+Andrew: Mmm that looks nice! Mind sharing the recipe so I can give it a try? What inspired you to make it?
 
-dialogue_id: D10:17,  Audrey: I love trying out new recipes and experimenting in the kitchen - it's like an escape for me. It's great for de-stressing and letting my creativity flow.
 
-dialogue_id: D10:18,  Andrew: Oh I feel you! It gives me an escape and allows me to try something new. Plus, there's always the bonus of enjoying the food afterwards. It's slowly becoming one of my favorite hobbies, as it's really relaxing and allows me to express my creativity.
 
-dialogue_id: D10:19,  Audrey: <image_message>Audrey send an image.
+dialogue_id: D10:15
+Audrey: Sure! Let me send you the recipe in a bit. You really should give it a try! It's my family's recipe that's been around for years. The flavors always remind me of my grandma's kitchen - makes me think of all the conversations we used to have at the table. I hope you like it! Oh, and how's the cooking going?
+
+
+
+dialogue_id: D10:16
+Andrew: Thanks! I'll give it a try. Cooking has been helping me de-stress and be creative. I'm still a rookie, but I'm having fun experimenting. So what makes you like cooking so much?
+
+
+
+dialogue_id: D10:17
+Audrey: I love trying out new recipes and experimenting in the kitchen - it's like an escape for me. It's great for de-stressing and letting my creativity flow.
+
+
+
+dialogue_id: D10:18
+Andrew: Oh I feel you! It gives me an escape and allows me to try something new. Plus, there's always the bonus of enjoying the food afterwards. It's slowly becoming one of my favorite hobbies, as it's really relaxing and allows me to express my creativity.
+
+
+
+dialogue_id: D10:19
+Audrey: <image_message>Audrey send an image.
 Image description: beautifully plated dish cooking self-care
 a photo of a plate of food with a lot of vegetables</image_message> Agreed! Cooking and eating the food is so rewarding; it's like a form of self-care. I love throwing on some music, pouring a glass of wine, and just going with the flow in the kitchen. It's so therapeutic. See how beautiful this dish is?
 
-dialogue_id: D10:20,  Andrew: Ooo, that looks great! Cooking can be so calming, right? What's your go-to ingredient in the kitchen?
 
-dialogue_id: D10:21,  Audrey: Yeah! Cooking is definitely calming. Garlic is my go-to ingredient. I love the smell and taste it adds to dishes.
 
-dialogue_id: D10:22,  Andrew: Garlic is indeed delicious! Do you have a favorite dish that you like to make with it? If so, would you like to share the recipe?
+dialogue_id: D10:20
+Andrew: Ooo, that looks great! Cooking can be so calming, right? What's your go-to ingredient in the kitchen?
 
-dialogue_id: D10:23,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D10:21
+Audrey: Yeah! Cooking is definitely calming. Garlic is my go-to ingredient. I love the smell and taste it adds to dishes.
+
+
+
+dialogue_id: D10:22
+Andrew: Garlic is indeed delicious! Do you have a favorite dish that you like to make with it? If so, would you like to share the recipe?
+
+
+
+dialogue_id: D10:23
+Audrey: <image_message>Audrey send an image.
 Image description: roasted garlic chicken
 a photography of a pan of chicken and potatoes on a stove</image_message> Sure! Roasted Chicken is one of my favorites - sure I'll send you the recipe in a bit.
 
-dialogue_id: D10:24,  Andrew: Wow I can't wait to make it! That looks amazing. What inspired you to make it?
 
-dialogue_id: D10:25,  Audrey: I'm glad you're interested! This recipe is based on my love for Mediterranean flavors. It's a tasty dish that's easy to make and loaded with healthy stuff like chicken, garlic, lemon, and herbs. It's my favorite comfort meal!
 
-dialogue_id: D10:26,  Andrew: Wow, that sounds delicious and healthy! I'm always looking for new meal ideas, especially ones that are healthier. Really appreciate you sharing this with me, thanks!
+dialogue_id: D10:24
+Andrew: Wow I can't wait to make it! That looks amazing. What inspired you to make it?
 
-dialogue_id: D10:27,  Audrey: No problem! I hope you enjoy making and eating it. Let me know how it turns out!
 
-dialogue_id: D10:28,  Andrew: Yep, will do! I'll keep you posted. Talk later!
 
-dialogue_id: D10:29,  Audrey: Excited to hear about it. Talk later!
+dialogue_id: D10:25
+Audrey: I'm glad you're interested! This recipe is based on my love for Mediterranean flavors. It's a tasty dish that's easy to make and loaded with healthy stuff like chicken, garlic, lemon, and herbs. It's my favorite comfort meal!
+
+
+
+dialogue_id: D10:26
+Andrew: Wow, that sounds delicious and healthy! I'm always looking for new meal ideas, especially ones that are healthier. Really appreciate you sharing this with me, thanks!
+
+
+
+dialogue_id: D10:27
+Audrey: No problem! I hope you enjoy making and eating it. Let me know how it turns out!
+
+
+
+dialogue_id: D10:28
+Andrew: Yep, will do! I'll keep you posted. Talk later!
+
+
+
+dialogue_id: D10:29
+Audrey: Excited to hear about it. Talk later!
+
+
 

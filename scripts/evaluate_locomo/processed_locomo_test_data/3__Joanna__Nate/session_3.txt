@@ -1,55 +1,130 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-02-07T09:27:00.
 
 The specific content of the conversation is:
-dialogue_id: D3:1,  Joanna: Hey Nate, long time no see! The screenplay I sent in to the film festival has been on my mind all day everyday. I keep bouncing between crazy emotions like relief, excitement and worry! Fingers crossed a producer or director falls in love with it and it ends up on the big screen - that would be awesome!
+dialogue_id: D3:1
+Joanna: Hey Nate, long time no see! The screenplay I sent in to the film festival has been on my mind all day everyday. I keep bouncing between crazy emotions like relief, excitement and worry! Fingers crossed a producer or director falls in love with it and it ends up on the big screen - that would be awesome!
 
-dialogue_id: D3:2,  Nate: Hey Joanna! It is a big deal! I'm sure its been a wild ride. Sending some positive vibes and hoping someone likes it enough to get it on the big screen - that would be awesome!
 
-dialogue_id: D3:3,  Joanna: Thanks Nate, your support really means a lot. I put a lot of effort into it and I'm crossing my fingers. What about you? Anything new and exciting happening in your life?
 
-dialogue_id: D3:4,  Nate: <image_message>Nate send an image.
+dialogue_id: D3:2
+Nate: Hey Joanna! It is a big deal! I'm sure its been a wild ride. Sending some positive vibes and hoping someone likes it enough to get it on the big screen - that would be awesome!
+
+
+
+dialogue_id: D3:3
+Joanna: Thanks Nate, your support really means a lot. I put a lot of effort into it and I'm crossing my fingers. What about you? Anything new and exciting happening in your life?
+
+
+
+dialogue_id: D3:4
+Nate: <image_message>Nate send an image.
 Image description: homemade coconut milk ice cream
 a photo of a bowl of ice cream with a spoon in it</image_message> Thanks, Joanna. Not much has changed for me, but I just discovered that I can make coconut milk icecream and gave it a try. It was actually pretty good, so I'm proud of myself.
 
-dialogue_id: D3:5,  Joanna: Looks delish! Glad you tried something new and it went well. What did you think of it?
 
-dialogue_id: D3:6,  Nate: Super good! It was rich and creamy - might be my new favorite snack!
 
-dialogue_id: D3:7,  Joanna: Great! I love when you try something new and it actually works out. Will you give it another go?
+dialogue_id: D3:5
+Joanna: Looks delish! Glad you tried something new and it went well. What did you think of it?
 
-dialogue_id: D3:8,  Nate: Yep, it could be fun! I'm looking forward to trying out different flavors and toppings.
 
-dialogue_id: D3:9,  Joanna: Yum! Sounds great. Got any favorite flavors for dairy-free desserts?
 
-dialogue_id: D3:10,  Nate: I love coconut milk, but I also enjoy chocolate and mixed berry flavors.
+dialogue_id: D3:6
+Nate: Super good! It was rich and creamy - might be my new favorite snack!
 
-dialogue_id: D3:11,  Joanna: Wow, those sound great! Who can say no to chocolate and berries? I'm tempted to try dairy-free flavors now!
 
-dialogue_id: D3:12,  Nate: Well I also made a dairy-free chocolate cake with berries on it the other day, maybe you would like that!
 
-dialogue_id: D3:13,  Joanna: Wow! That sounds yummy! You're so talented. Thanks for sharing your amazing creations! I should really try making one or just pay you a visit and try one for myself!
+dialogue_id: D3:7
+Joanna: Great! I love when you try something new and it actually works out. Will you give it another go?
 
-dialogue_id: D3:14,  Nate: I couldn't agree more! It's always fun experimenting in the kitchen.
 
-dialogue_id: D3:15,  Joanna: I can tell! Your cooking skills are awesome. Seen any good movies lately?
 
-dialogue_id: D3:16,  Nate: Not recently. Any good ones you'd recommend?
+dialogue_id: D3:8
+Nate: Yep, it could be fun! I'm looking forward to trying out different flavors and toppings.
 
-dialogue_id: D3:17,  Joanna: I just watched "Little Women" and it was amazing! It's a great story about sisterhood, love, and reaching for your dreams. Definitely a must-see!
 
-dialogue_id: D3:18,  Nate: Oh, that sounds like a great one! I'll definitely add it to my list. Thanks for the recommendation!
 
-dialogue_id: D3:19,  Joanna: Anytime! I'm always down to give movie reccomendations.
+dialogue_id: D3:9
+Joanna: Yum! Sounds great. Got any favorite flavors for dairy-free desserts?
 
-dialogue_id: D3:20,  Nate: Good to know! I'll be sure to give you a shout whenever I run out of things to watch!
 
-dialogue_id: D3:21,  Joanna: Sounds great! Let me know what you think of it when your done!
 
-dialogue_id: D3:22,  Nate: You bet! You'll be the first to know.
+dialogue_id: D3:10
+Nate: I love coconut milk, but I also enjoy chocolate and mixed berry flavors.
 
-dialogue_id: D3:23,  Joanna: Awesome! Enjoy yourself!
 
-dialogue_id: D3:24,  Nate: You too, take care!
 
-dialogue_id: D3:25,  Joanna: Later, take care!
+dialogue_id: D3:11
+Joanna: Wow, those sound great! Who can say no to chocolate and berries? I'm tempted to try dairy-free flavors now!
+
+
+
+dialogue_id: D3:12
+Nate: Well I also made a dairy-free chocolate cake with berries on it the other day, maybe you would like that!
+
+
+
+dialogue_id: D3:13
+Joanna: Wow! That sounds yummy! You're so talented. Thanks for sharing your amazing creations! I should really try making one or just pay you a visit and try one for myself!
+
+
+
+dialogue_id: D3:14
+Nate: I couldn't agree more! It's always fun experimenting in the kitchen.
+
+
+
+dialogue_id: D3:15
+Joanna: I can tell! Your cooking skills are awesome. Seen any good movies lately?
+
+
+
+dialogue_id: D3:16
+Nate: Not recently. Any good ones you'd recommend?
+
+
+
+dialogue_id: D3:17
+Joanna: I just watched "Little Women" and it was amazing! It's a great story about sisterhood, love, and reaching for your dreams. Definitely a must-see!
+
+
+
+dialogue_id: D3:18
+Nate: Oh, that sounds like a great one! I'll definitely add it to my list. Thanks for the recommendation!
+
+
+
+dialogue_id: D3:19
+Joanna: Anytime! I'm always down to give movie reccomendations.
+
+
+
+dialogue_id: D3:20
+Nate: Good to know! I'll be sure to give you a shout whenever I run out of things to watch!
+
+
+
+dialogue_id: D3:21
+Joanna: Sounds great! Let me know what you think of it when your done!
+
+
+
+dialogue_id: D3:22
+Nate: You bet! You'll be the first to know.
+
+
+
+dialogue_id: D3:23
+Joanna: Awesome! Enjoy yourself!
+
+
+
+dialogue_id: D3:24
+Nate: You too, take care!
+
+
+
+dialogue_id: D3:25
+Joanna: Later, take care!
+
+
 

@@ -1,55 +1,124 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-03-02T19:18:00.
 
 The specific content of the conversation is:
-dialogue_id: D8:1,  Deborah: Hey Jolene, Anna got me a vegan stir-fry the other day - tofu and veg with ginger and soy sauce. It was really tasty! Food is such a wonderful source of pleasure and nourishment. What dishes are comforting to you?
+dialogue_id: D8:1
+Deborah: Hey Jolene, Anna got me a vegan stir-fry the other day - tofu and veg with ginger and soy sauce. It was really tasty! Food is such a wonderful source of pleasure and nourishment. What dishes are comforting to you?
 
-dialogue_id: D8:2,  Jolene: One of my favorite dishes is lasagna! Comfort food can be a great pick-me-up. I've got a lot going on with my studies and exams.
 
-dialogue_id: D8:3,  Deborah: Have you been able to find time for yourself lately?
 
-dialogue_id: D8:4,  Jolene: I've been trying to squeeze in some me-time. Last Friday, I did yoga and meditation to relax. Did you find time for yourself too?
+dialogue_id: D8:2
+Jolene: One of my favorite dishes is lasagna! Comfort food can be a great pick-me-up. I've got a lot going on with my studies and exams.
 
-dialogue_id: D8:5,  Deborah:  I also did the same, it helped me reset my mind. How does it make you feel?
 
-dialogue_id: D8:6,  Jolene: It's amazing how a few quiet moments can work wonders for the soul.
 
-dialogue_id: D8:7,  Deborah: Have you been able to get outside lately?
+dialogue_id: D8:3
+Deborah: Have you been able to find time for yourself lately?
 
-dialogue_id: D8:8,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D8:4
+Jolene: I've been trying to squeeze in some me-time. Last Friday, I did yoga and meditation to relax. Did you find time for yourself too?
+
+
+
+dialogue_id: D8:5
+Deborah:  I also did the same, it helped me reset my mind. How does it make you feel?
+
+
+
+dialogue_id: D8:6
+Jolene: It's amazing how a few quiet moments can work wonders for the soul.
+
+
+
+dialogue_id: D8:7
+Deborah: Have you been able to get outside lately?
+
+
+
+dialogue_id: D8:8
+Jolene: <image_message>Jolene send an image.
 Image description: snake park walk seraphina
 a photo of a lizard laying on the ground surrounded by leaves</image_message> I did take Seraphim to the park last Sunday. She loved it and here's a pic.
 
-dialogue_id: D8:9,  Deborah: Looks like you guys had fun!
 
-dialogue_id: D8:10,  Jolene: We explored new places. People are surprised when they see a tamed snake. What do you like about being outdoors?
 
-dialogue_id: D8:11,  Deborah: Hmm... The birds chirping and the breeze gently blowing! It reminds me of what really matters.
+dialogue_id: D8:9
+Deborah: Looks like you guys had fun!
 
-dialogue_id: D8:12,  Jolene: Yep, it's like a reminder to slow down and appreciate the little things.
 
-dialogue_id: D8:13,  Deborah: Is there anything you want to be more mindful of right now?
 
-dialogue_id: D8:14,  Jolene: I need to be more mindful of my stress levels and take care of my mental health. Sometimes I get too caught up in my studies and forget to prioritize self-care.
+dialogue_id: D8:10
+Jolene: We explored new places. People are surprised when they see a tamed snake. What do you like about being outdoors?
 
-dialogue_id: D8:15,  Deborah:  Life can get hectic and it's easy to forget about ourselves. 
 
-dialogue_id: D8:16,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D8:11
+Deborah: Hmm... The birds chirping and the breeze gently blowing! It reminds me of what really matters.
+
+
+
+dialogue_id: D8:12
+Jolene: Yep, it's like a reminder to slow down and appreciate the little things.
+
+
+
+dialogue_id: D8:13
+Deborah: Is there anything you want to be more mindful of right now?
+
+
+
+dialogue_id: D8:14
+Jolene: I need to be more mindful of my stress levels and take care of my mental health. Sometimes I get too caught up in my studies and forget to prioritize self-care.
+
+
+
+dialogue_id: D8:15
+Deborah:  Life can get hectic and it's easy to forget about ourselves. 
+
+
+
+dialogue_id: D8:16
+Jolene: <image_message>Jolene send an image.
 Image description: to-do list overwhelming exams deadlines
 a photo of a desk with a notebook and a computer monitor</image_message> Exams and deadlines got me feeling overwhelmed. Just look at my to-do list! It seems never-ending... Trying my best but it's been challenging.
 
-dialogue_id: D8:17,  Deborah: Your efforts will bear fruit, don't give up!
 
-dialogue_id: D8:18,  Jolene: Thanks, Deb. Any tips on studying or time management?
 
-dialogue_id: D8:19,  Deborah: My tip is to break it into smaller pieces and set goals for yourself. For time management, planners or schedulers help you stay organized and give you time for yourself. Let me know if you need help with a study plan!
+dialogue_id: D8:17
+Deborah: Your efforts will bear fruit, don't give up!
 
-dialogue_id: D8:20,  Jolene: I appreciate your help with that.
 
-dialogue_id: D8:21,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D8:18
+Jolene: Thanks, Deb. Any tips on studying or time management?
+
+
+
+dialogue_id: D8:19
+Deborah: My tip is to break it into smaller pieces and set goals for yourself. For time management, planners or schedulers help you stay organized and give you time for yourself. Let me know if you need help with a study plan!
+
+
+
+dialogue_id: D8:20
+Jolene: I appreciate your help with that.
+
+
+
+dialogue_id: D8:21
+Deborah: <image_message>Deborah send an image.
 Image description: mug believe in yourself
 a photo of a yellow coffee cup with a handwritten message</image_message> Take care and good luck with your exams. I'll give you a mug just like this one! It encourages.
 
-dialogue_id: D8:22,  Jolene: Thanks, Deb! This really cheered me up. All the best with your classes. Bye!
 
-dialogue_id: D8:23,  Deborah: Thanks, Jolene! Glad I could bring a smile to your face. Take care and make sure to give yourself some time to relax. Bye!
+
+dialogue_id: D8:22
+Jolene: Thanks, Deb! This really cheered me up. All the best with your classes. Bye!
+
+
+
+dialogue_id: D8:23
+Deborah: Thanks, Jolene! Glad I could bring a smile to your face. Take care and make sure to give yourself some time to relax. Bye!
+
+
 

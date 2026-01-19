@@ -1,7 +1,7 @@
 # Task
-[llm_memory_design_v5.md](llm_memory_design_v5.md) 是当前记忆系统的算法介绍，当前目录（`ZDMem`）则包含该系统源码。
+[llm_memory_design_v7.md](llm_memory_design_v7.md) 是当前记忆系统的算法介绍，当前目录（`ZDMem`）则包含该系统源码。
 
-你的目的则是要考虑优化这个系统，主要从记忆更新抽取和检索2大部分优化。
+你的目的则是要考虑优化这个系统，主要从记忆抽取和检索2大部分优化。
 
 # 优化思路
 直接看源码固然是一种方法，但是难度较大，缺乏高质量的测试数据注定无法保证优化效果。
@@ -22,7 +22,7 @@ Locomo数据主要包括2部分：
 我们使用类似于RAG的方法进行测试：
 Step1, 记忆获取，对于每一对人，从他们的所有对话中抽取相关记忆，这里就要使用我们的记忆系统
 Step2, 预测答案，对于qa数据中的每一个q，搜索相关的记忆，然后让LLM基于记忆回答问题
-Step3, 评估效果，LLM as Judge, 给定LLM正确答案和预测答案，判断预测答案是否正确
+Step3, 评估效果，LLM as Judge, 给定LLM正确答案和预测答案，判断预测答案是否正确， 注意LLM as Judge也有判断错误的时候，所以对于badcase你自己也要看下是不是判断合理
 Step4, 优化系统，认真分析错误的预测，尝试进行优化
 
 ## 执行说明
@@ -30,7 +30,7 @@ Step4, 优化系统，认真分析错误的预测，尝试进行优化
 
 Step1参考示例代码`ZDMem/examples/example_usage.py`，核心是使用`process_memories`抽取记忆，使用`hybrid_search`搜索记忆。
 
-Step2和Step3需要自行编写prompt完成。
+Step2和Step3需要自行编写prompt和写代码完成。
 
 test_qa.json中的evidence字段（如"D1:2"表示session_1.txt中dialogue_id为D1:2的对话）可作为参考信息，也可用于辅助判断记忆是否覆盖了关键信息。
 

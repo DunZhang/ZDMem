@@ -1,49 +1,112 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-03-18T18:59:00.
 
 The specific content of the conversation is:
-dialogue_id: D5:1,  Joanna: Hey Nate, it's been a minute! I wrapped up my second script, and the feels have been wild. Sometimes I'm so relieved, but other times I just feel anxious about what comes next. It's a mix of excitement and terror, thinking about my work getting noticed and hitting the big screen.
+dialogue_id: D5:1
+Joanna: Hey Nate, it's been a minute! I wrapped up my second script, and the feels have been wild. Sometimes I'm so relieved, but other times I just feel anxious about what comes next. It's a mix of excitement and terror, thinking about my work getting noticed and hitting the big screen.
 
-dialogue_id: D5:2,  Nate: Hey Joanna! Awesome to hear from you! Congrats on wrapping up a second one! All that hard work and dedication will definitely shine through and get noticed, no doubt. Hope you've been able to take some time to relax after everything!
 
-dialogue_id: D5:3,  Joanna: Thanks Nate! It's been a wild ride. I've been decompressing, but it's hard to switch off. There's always this tug-of-war of hope and doubt.
 
-dialogue_id: D5:4,  Nate: <image_message>Nate send an image.
+dialogue_id: D5:2
+Nate: Hey Joanna! Awesome to hear from you! Congrats on wrapping up a second one! All that hard work and dedication will definitely shine through and get noticed, no doubt. Hope you've been able to take some time to relax after everything!
+
+
+
+dialogue_id: D5:3
+Joanna: Thanks Nate! It's been a wild ride. I've been decompressing, but it's hard to switch off. There's always this tug-of-war of hope and doubt.
+
+
+
+dialogue_id: D5:4
+Nate: <image_message>Nate send an image.
 Image description: adorable photo turtles walk grassy area
 a photography of two tortoises laying on the ground in a jungle</image_message> It's normal to have doubts, but you've worked hard and put tons of passion into it. Believe in yourself and things will work out. Here, look at this cute pic - walking them always reminds me to enjoy the small stuff!
 
-dialogue_id: D5:5,  Joanna: That pic's adorable! They always look so relaxed outside. What made you choose them as pets?
 
-dialogue_id: D5:6,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D5:5
+Joanna: That pic's adorable! They always look so relaxed outside. What made you choose them as pets?
+
+
+
+dialogue_id: D5:6
+Nate: <image_message>Nate send an image.
 Image description: turtles basking sun
 a photography of three turtles sitting on rocks in a pond</image_message> I'm drawn to turtles. They're unique and their slow pace is a nice change from the rush of life. They're also low-maintenance and calming. Check out this moment I snapped!
 
-dialogue_id: D5:7,  Joanna: They look so peaceful! It's amazing how these creatures bring so much calm and joy. Is taking care of them tough?
 
-dialogue_id: D5:8,  Nate: No, not really. Just keep their area clean, feed them properly, and make sure they get enough light. It's actually kind of fun.
 
-dialogue_id: D5:9,  Joanna: Sounds great! Having pets must be a wonderful experience.
+dialogue_id: D5:7
+Joanna: They look so peaceful! It's amazing how these creatures bring so much calm and joy. Is taking care of them tough?
 
-dialogue_id: D5:10,  Nate: Pets definitely bring tons of joy. They are always there for us and they're so cute! Relaxing with them is a great way to chill.
 
-dialogue_id: D5:11,  Joanna: I wish I wasn't allergic! I would get two turtles today if I could! I found out recently I'm allergic to cockroaches as well, so who knows if I'll ever get a pet.
 
-dialogue_id: D5:12,  Nate: Sorry! Maybe there are other animals you could consider! In the meantime though, I'll be sure to send you pics of my turtles so you can still watch them grow without getting too close.
+dialogue_id: D5:8
+Nate: No, not really. Just keep their area clean, feed them properly, and make sure they get enough light. It's actually kind of fun.
 
-dialogue_id: D5:13,  Joanna: Great idea! I'm already really invested in those little guys!
 
-dialogue_id: D5:14,  Nate: Pets really seem to do that to everyone don't they! So, what about your script now? Any ideas for the next steps?
 
-dialogue_id: D5:15,  Joanna: I've been doing my fair share of research and networking non-stop for it. It's tough, but I'm determined to make it happen.
+dialogue_id: D5:9
+Joanna: Sounds great! Having pets must be a wonderful experience.
 
-dialogue_id: D5:16,  Nate: Great idea! that should hopefully get some more eyes on it. Keep up the hard work!
 
-dialogue_id: D5:17,  Joanna: Thanks so much, Nate! Your support means a lot. I'll keep working at it and hopefully the next steps will become clearer soon.
 
-dialogue_id: D5:18,  Nate: Just make sure you don't quit - the path forward will show up soon. You got this!
+dialogue_id: D5:10
+Nate: Pets definitely bring tons of joy. They are always there for us and they're so cute! Relaxing with them is a great way to chill.
 
-dialogue_id: D5:19,  Joanna: Appreciated! I think just having someone to support me throughout the whole process is such a blessing. It gives me the motivation to keep pushing forward.
 
-dialogue_id: D5:20,  Nate: Glad to hear my support makes a difference, Joanna. I'm here for you!
 
-dialogue_id: D5:21,  Joanna: Always good to hear! See you later!
+dialogue_id: D5:11
+Joanna: I wish I wasn't allergic! I would get two turtles today if I could! I found out recently I'm allergic to cockroaches as well, so who knows if I'll ever get a pet.
+
+
+
+dialogue_id: D5:12
+Nate: Sorry! Maybe there are other animals you could consider! In the meantime though, I'll be sure to send you pics of my turtles so you can still watch them grow without getting too close.
+
+
+
+dialogue_id: D5:13
+Joanna: Great idea! I'm already really invested in those little guys!
+
+
+
+dialogue_id: D5:14
+Nate: Pets really seem to do that to everyone don't they! So, what about your script now? Any ideas for the next steps?
+
+
+
+dialogue_id: D5:15
+Joanna: I've been doing my fair share of research and networking non-stop for it. It's tough, but I'm determined to make it happen.
+
+
+
+dialogue_id: D5:16
+Nate: Great idea! that should hopefully get some more eyes on it. Keep up the hard work!
+
+
+
+dialogue_id: D5:17
+Joanna: Thanks so much, Nate! Your support means a lot. I'll keep working at it and hopefully the next steps will become clearer soon.
+
+
+
+dialogue_id: D5:18
+Nate: Just make sure you don't quit - the path forward will show up soon. You got this!
+
+
+
+dialogue_id: D5:19
+Joanna: Appreciated! I think just having someone to support me throughout the whole process is such a blessing. It gives me the motivation to keep pushing forward.
+
+
+
+dialogue_id: D5:20
+Nate: Glad to hear my support makes a difference, Joanna. I'm here for you!
+
+
+
+dialogue_id: D5:21
+Joanna: Always good to hear! See you later!
+
+
 

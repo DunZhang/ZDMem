@@ -1,43 +1,91 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-02-22T16:12:00.
 
 The specific content of the conversation is:
-dialogue_id: D6:1,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D6:1
+Jolene: <image_message>Jolene send an image.
 Image description: friends toast drinks
 a photo of a plate of food and a glass of wine</image_message> Hey Deborah, totally buzzing! Had a great night out last night - dinner, and drinks with my friends. So glad I got to let my hair down. You?
 
-dialogue_id: D6:2,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D6:2
+Deborah: <image_message>Deborah send an image.
 Image description: bench flowers nostalgia
 a photo of a garden with a bunch of flowers in buckets</image_message> Sounds great, Jolene! I just visited this place and it was so calming. Nostalgic too.
 
-dialogue_id: D6:3,  Jolene: Wow, those flowers are beautiful! What type are they? It looks so peaceful there.
 
-dialogue_id: D6:4,  Deborah: The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.
 
-dialogue_id: D6:5,  Jolene: Sorry to hear about your friend, Deb. Losing someone can be really tough. How are you holding up?
+dialogue_id: D6:3
+Jolene: Wow, those flowers are beautiful! What type are they? It looks so peaceful there.
 
-dialogue_id: D6:6,  Deborah: Thanks for the kind words. It's been tough, but I'm comforted by remembering our time together. It reminds me of how special life is.
 
-dialogue_id: D6:7,  Jolene: Memories can give us so much comfort and joy.
 
-dialogue_id: D6:8,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D6:4
+Deborah: The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.
+
+
+
+dialogue_id: D6:5
+Jolene: Sorry to hear about your friend, Deb. Losing someone can be really tough. How are you holding up?
+
+
+
+dialogue_id: D6:6
+Deborah: Thanks for the kind words. It's been tough, but I'm comforted by remembering our time together. It reminds me of how special life is.
+
+
+
+dialogue_id: D6:7
+Jolene: Memories can give us so much comfort and joy.
+
+
+
+dialogue_id: D6:8
+Deborah: <image_message>Deborah send an image.
 Image description: friend hike laughing
 a photo of two women are riding on a motorcycle on a dirt road</image_message> Memories keep our loved ones close. This is the last photo with Karlie which was taken last summer when we hiked. It was our last one. We had such a great time! Every time I see it, I can't help but smile.
 
-dialogue_id: D6:9,  Jolene: Wow, looks like a great trip! Where else have you traveled?
 
-dialogue_id: D6:10,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D6:9
+Jolene: Wow, looks like a great trip! Where else have you traveled?
+
+
+
+dialogue_id: D6:10
+Deborah: <image_message>Deborah send an image.
 Image description: bali yoga beach
 a photo of a swing on a beach with a blue sky</image_message> I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.
 
-dialogue_id: D6:11,  Jolene: Wow, that's great! Is yoga on the beach a thing? I've been wanting to try it.
 
-dialogue_id: D6:12,  Deborah: The sound of the waves and the fresh air is wonderful!
 
-dialogue_id: D6:13,  Jolene: I'll definitely give it a go! It sounds peaceful. Thanks!
+dialogue_id: D6:11
+Jolene: Wow, that's great! Is yoga on the beach a thing? I've been wanting to try it.
 
-dialogue_id: D6:14,  Deborah: Let me know how it goes. Enjoy it!
 
-dialogue_id: D6:15,  Jolene: I'll keep you posted if I decide to go there.
 
-dialogue_id: D6:16,  Deborah: Take care!
+dialogue_id: D6:12
+Deborah: The sound of the waves and the fresh air is wonderful!
+
+
+
+dialogue_id: D6:13
+Jolene: I'll definitely give it a go! It sounds peaceful. Thanks!
+
+
+
+dialogue_id: D6:14
+Deborah: Let me know how it goes. Enjoy it!
+
+
+
+dialogue_id: D6:15
+Jolene: I'll keep you posted if I decide to go there.
+
+
+
+dialogue_id: D6:16
+Deborah: Take care!
+
+
 

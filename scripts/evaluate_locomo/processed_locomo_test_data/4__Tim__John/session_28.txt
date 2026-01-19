@@ -1,53 +1,116 @@
 A conversation between Tim and John. This conversation takes place on 2024-01-07T17:24:00.
 
 The specific content of the conversation is:
-dialogue_id: D28:1,  Tim: Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.
+dialogue_id: D28:1
+Tim: Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.
 
-dialogue_id: D28:2,  John: Congrats, Tim! That's amazing news. So, where are you going to stay?
 
-dialogue_id: D28:3,  Tim: <image_message>Tim send an image.
+
+dialogue_id: D28:2
+John: Congrats, Tim! That's amazing news. So, where are you going to stay?
+
+
+
+dialogue_id: D28:3
+Tim: <image_message>Tim send an image.
 Image description: galway colorful street arts scene traditional irish music
 a photo of a woman standing on the side of a street</image_message> Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere.
 
-dialogue_id: D28:4,  John: Awesome, Galway looks amazing! Is there anything in particular that you're keen to check out while you're there?
 
-dialogue_id: D28:5,  Tim: <image_message>Tim send an image.
+
+dialogue_id: D28:4
+John: Awesome, Galway looks amazing! Is there anything in particular that you're keen to check out while you're there?
+
+
+
+dialogue_id: D28:5
+Tim: <image_message>Tim send an image.
 Image description: cliffs moher sunset
 a photo of a cliff overlooking the ocean at sunset</image_message> Yep! I'm so excited to explore the nature - it looks amazing!
 
-dialogue_id: D28:6,  John: Wow, great view! Have you visited any other places?
 
-dialogue_id: D28:7,  Tim: <image_message>Tim send an image.
+
+dialogue_id: D28:6
+John: Wow, great view! Have you visited any other places?
+
+
+
+dialogue_id: D28:7
+Tim: <image_message>Tim send an image.
 Image description: cliffs moher ocean cliffs
 a photo of a person standing on a cliff overlooking the ocean</image_message> I want to visit The Cliffs of Moher. It has amazing ocean views and awesome cliffs.
 
-dialogue_id: D28:8,  John: Wow, that's awesome! I could stop by there after my season.
 
-dialogue_id: D28:9,  Tim: Cool, let me know if you're around!
 
-dialogue_id: D28:10,  John: <image_message>John send an image.
+dialogue_id: D28:8
+John: Wow, that's awesome! I could stop by there after my season.
+
+
+
+dialogue_id: D28:9
+Tim: Cool, let me know if you're around!
+
+
+
+dialogue_id: D28:10
+John: <image_message>John send an image.
 Image description: charity basketball tournament children
 a photo of a boy dribbling a basketball on a court</image_message> Yep, I'll let you know. Oh, I held a benefit basketball game last week.
 
-dialogue_id: D28:11,  Tim: Wow! How did the game go?
 
-dialogue_id: D28:12,  John: The game turned out to be a total success! Lots of people showed up and had a great time, plus we were able to raise some money for charity.
 
-dialogue_id: D28:13,  Tim: Great job organizing the event. That's really making a difference!
+dialogue_id: D28:11
+Tim: Wow! How did the game go?
 
-dialogue_id: D28:14,  John: Thanks! It's amazing how basketball brings people together and creates a positive impact!
 
-dialogue_id: D28:15,  Tim: You rock! Keep it up!
 
-dialogue_id: D28:16,  John: Thanks, Tim! It's awesome to see how sports can unite people. By the way, what book are you currently reading?
+dialogue_id: D28:12
+John: The game turned out to be a total success! Lots of people showed up and had a great time, plus we were able to raise some money for charity.
 
-dialogue_id: D28:17,  Tim: I'm currently reading a fantasy novel called "The Name of the Wind" by Patrick Rothfuss. It's really good!
 
-dialogue_id: D28:18,  John: "The Name of the Wind" sounds cool. I'll add it to my list. Thanks!
 
-dialogue_id: D28:19,  Tim: I hope you enjoy it! Let me know your thoughts.
+dialogue_id: D28:13
+Tim: Great job organizing the event. That's really making a difference!
 
-dialogue_id: D28:20,  John: Will do! Thanks for the recommendation!
 
-dialogue_id: D28:21,  Tim: No problem. Talk to you soon!
+
+dialogue_id: D28:14
+John: Thanks! It's amazing how basketball brings people together and creates a positive impact!
+
+
+
+dialogue_id: D28:15
+Tim: You rock! Keep it up!
+
+
+
+dialogue_id: D28:16
+John: Thanks, Tim! It's awesome to see how sports can unite people. By the way, what book are you currently reading?
+
+
+
+dialogue_id: D28:17
+Tim: I'm currently reading a fantasy novel called "The Name of the Wind" by Patrick Rothfuss. It's really good!
+
+
+
+dialogue_id: D28:18
+John: "The Name of the Wind" sounds cool. I'll add it to my list. Thanks!
+
+
+
+dialogue_id: D28:19
+Tim: I hope you enjoy it! Let me know your thoughts.
+
+
+
+dialogue_id: D28:20
+John: Will do! Thanks for the recommendation!
+
+
+
+dialogue_id: D28:21
+Tim: No problem. Talk to you soon!
+
+
 

@@ -1,55 +1,118 @@
 A conversation between James and John. This conversation takes place on 2022-09-18T18:02:00.
 
 The specific content of the conversation is:
-dialogue_id: D24:1,  John: <image_message>John send an image.
+dialogue_id: D24:1
+John: <image_message>John send an image.
 Image description: game project in progress
 a photo of a table with a laptop and a game on it</image_message> Hey James! Long time no see! A lot's changed since we talked. I started getting into board games. I tried one last week and it turned out to be a lot of fun. What's new with you?
 
-dialogue_id: D24:2,  James: <image_message>James send an image.
+
+
+dialogue_id: D24:2
+James: <image_message>James send an image.
 Image description: notebook sketches game ideas coding challenges friends
 a photo of a notebook with writing on it sitting on a table</image_message> Hey John! Cool, what kind of board game is this? I had a lot to do all this time. And in order not to forget to do something, I started writing down everything I needed in a notebook.
 
-dialogue_id: D24:3,  John: This game is called "Dungeons of the Dragon", very exciting! I'm really glad you're writing down what you need to do in a notebook. This will definitely help you not to forget anything! How did you come up with this idea? In general, where do you get ideas?
 
-dialogue_id: D24:4,  James: Thanks, John! I get them from various sources like books, movies, and even dreams.
 
-dialogue_id: D24:5,  John: Wow, dreams have inspired you? That's interesting. Have any specific dreams guided your ideas?
+dialogue_id: D24:3
+John: This game is called "Dungeons of the Dragon", very exciting! I'm really glad you're writing down what you need to do in a notebook. This will definitely help you not to forget anything! How did you come up with this idea? In general, where do you get ideas?
 
-dialogue_id: D24:6,  James: A few weeks ago I had this crazy dream that led to some creative ideas. It was so vivid I woke up with some interesting thoughts!
 
-dialogue_id: D24:7,  John: Wow, dreams can be so awesome! Are there any specific details you remember from that one?
 
-dialogue_id: D24:8,  James: I remember there was a medieval castle with its own labyrinth full of puzzles and traps. It felt like playing a video game in real life!
+dialogue_id: D24:4
+James: Thanks, John! I get them from various sources like books, movies, and even dreams.
 
-dialogue_id: D24:9,  John: Wow, exploring a castle with puzzles and traps sounds awesome! Have you got any sketches or notes from that experience? I'd love to take a look!
 
-dialogue_id: D24:10,  James: <image_message>James send an image.
+
+dialogue_id: D24:5
+John: Wow, dreams have inspired you? That's interesting. Have any specific dreams guided your ideas?
+
+
+
+dialogue_id: D24:6
+James: A few weeks ago I had this crazy dream that led to some creative ideas. It was so vivid I woke up with some interesting thoughts!
+
+
+
+dialogue_id: D24:7
+John: Wow, dreams can be so awesome! Are there any specific details you remember from that one?
+
+
+
+dialogue_id: D24:8
+James: I remember there was a medieval castle with its own labyrinth full of puzzles and traps. It felt like playing a video game in real life!
+
+
+
+dialogue_id: D24:9
+John: Wow, exploring a castle with puzzles and traps sounds awesome! Have you got any sketches or notes from that experience? I'd love to take a look!
+
+
+
+dialogue_id: D24:10
+James: <image_message>James send an image.
 Image description: castle labyrinth puzzles notebook sketch handwritten notes dream experience
 a photo of a notepad with a drawing of a guitar</image_message> Yep! I made some sketches and notes. Hang on, let me grab them.
 
-dialogue_id: D24:11,  John: Nice sketch! Do you like music, or is it related to your castle dream?
 
-dialogue_id: D24:12,  James: <image_message>James send an image.
+
+dialogue_id: D24:11
+John: Nice sketch! Do you like music, or is it related to your castle dream?
+
+
+
+dialogue_id: D24:12
+James: <image_message>James send an image.
 Image description: gaming setup headphones speakers
 a photo of a desk with a laptop, headphones, and a monitor</image_message> Thanks! Music is a big part of my life - nothing to do with castles though. What kind of music do you like? Do you play any instruments?
 
-dialogue_id: D24:13,  John: Cool! I'm into electronic and rock music. I used to play drums when I was younger, but haven't in a while. Do you play any instruments?
 
-dialogue_id: D24:14,  James: Yeah, rock's awesome! I used to play a guitar when I was younger but haven't in a while.
 
-dialogue_id: D24:15,  John: <image_message>John send an image.
+dialogue_id: D24:13
+John: Cool! I'm into electronic and rock music. I used to play drums when I was younger, but haven't in a while. Do you play any instruments?
+
+
+
+dialogue_id: D24:14
+James: Yeah, rock's awesome! I used to play a guitar when I was younger but haven't in a while.
+
+
+
+dialogue_id: D24:15
+John: <image_message>John send an image.
 Image description: drum set
 a photo of a drum set up in a recording studio</image_message> Playing drums when I was younger was a fun way to let off steam. Here's a photo of an old drum set I used to play on.
 
-dialogue_id: D24:16,  James: Cool! Have you ever been in a band or just jammed with friends?
 
-dialogue_id: D24:17,  John: I've jammed with friends before, it was a lot of fun!
 
-dialogue_id: D24:18,  James: Sounds awesome! Jamming with friends is always a blast. Do you have any recordings or videos of those sessions?
+dialogue_id: D24:16
+James: Cool! Have you ever been in a band or just jammed with friends?
 
-dialogue_id: D24:19,  John: Nah, it was more about the experience and the moment. No recordings or videos from the jams.
 
-dialogue_id: D24:20,  James: No problem! It's nice to just enjoy the experience without worrying about collecting videos or recordings. By the way, I started streaming games. No details yet, I hope everything works out.
 
-dialogue_id: D24:21,  John: I'll keep my fingers crossed for you! You will definitely succeed, I look forward to the details!
+dialogue_id: D24:17
+John: I've jammed with friends before, it was a lot of fun!
+
+
+
+dialogue_id: D24:18
+James: Sounds awesome! Jamming with friends is always a blast. Do you have any recordings or videos of those sessions?
+
+
+
+dialogue_id: D24:19
+John: Nah, it was more about the experience and the moment. No recordings or videos from the jams.
+
+
+
+dialogue_id: D24:20
+James: No problem! It's nice to just enjoy the experience without worrying about collecting videos or recordings. By the way, I started streaming games. No details yet, I hope everything works out.
+
+
+
+dialogue_id: D24:21
+John: I'll keep my fingers crossed for you! You will definitely succeed, I look forward to the details!
+
+
 

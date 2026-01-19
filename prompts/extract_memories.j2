@@ -1,0 +1,45 @@
+## Task
+Identify semantically coherent dialogue segments that contain information worth remembering long-term (personal information, preferences, relationships, events, opinions, skills, health status, etc.).
+
+## Output Format
+JSON array, each element contains:
+- `start_dial_id`: The dialogue ID where this semantic segment begins (e.g., "D1:1")
+- `end_dial_id`: The dialogue ID where this semantic segment ends (e.g., "D1:9")
+
+Example output (note: segments can overlap to ensure complete coverage):
+```json
+[
+  {"start_dial_id": "D1:1", "end_dial_id": "D1:9"},
+  {"start_dial_id": "D1:7", "end_dial_id": "D1:15"},
+  {"start_dial_id": "D1:14", "end_dial_id": "D1:19"}
+]
+```
+
+## Core Rules
+
+**1. Complete Coverage (CRITICAL)**: The union of all output segments MUST cover ALL dialogues. No dialogue should be left out. Overlapping between segments is allowed and encouraged when dialogues belong to multiple topics.
+
+**2. Recall Priority**: Better to identify more segments than to miss important ones. When in doubt, include the dialogue.
+
+**3. Semantic Coherence**: Each segment should cover a single coherent topic or related set of information. Examples:
+   - A discussion about someone's job loss and new business plans
+   - A conversation about dance competition achievements
+   - Plans for an upcoming event
+
+**4. Segment Boundaries**:
+   - Start at the dialogue where a new topic/memory-worthy information begins
+   - End at the dialogue where that topic naturally concludes
+   - Adjacent dialogues on the same topic should be in one segment
+   - Segments CAN and SHOULD overlap if a dialogue is relevant to multiple topics
+   - Even greetings/farewells should be included in adjacent segments to ensure complete coverage
+
+**5. Handling Low-Value Dialogues**: Even for pure greetings or filler content, include them in the nearest relevant segment to maintain complete coverage. Only mark them as separate low-priority segments if they are isolated.
+
+---
+
+## Begin Task
+
+**Dialogue Text**:
+{{ text }}
+
+Please identify all semantic segments and return as JSON array starting with ```json. If no new segments need to be extracted, return empty array `[]`.

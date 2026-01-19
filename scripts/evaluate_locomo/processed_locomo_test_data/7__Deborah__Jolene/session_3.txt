@@ -1,35 +1,80 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-02-01T19:03:00.
 
 The specific content of the conversation is:
-dialogue_id: D3:1,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D3:1
+Jolene: <image_message>Jolene send an image.
 Image description: robotics project
 a photo of a table with a robot on it and a laptop</image_message> Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve.
 
-dialogue_id: D3:2,  Deborah: Hey Jolene! It's great to hear from you. It sounds challenging but interesting! It must be really putting your creative and problem-solving skills to the test. How did you feel when you first received the project? Are you enjoying working on it?
 
-dialogue_id: D3:3,  Jolene: When I got it, I felt a mix of emotions - excited and nervous. But now, I'm really enjoying it! It's like trying to solve a puzzle, figuring out the best design and programming. Seeing the robot come together is awesome too!
 
-dialogue_id: D3:4,  Deborah: That's awesome, Jolene! You're enjoying the process. It must be really satisfying to see it come together. Keep up the good work! Oh, by the way, I met my new neighbor Anna yesterday!
+dialogue_id: D3:2
+Deborah: Hey Jolene! It's great to hear from you. It sounds challenging but interesting! It must be really putting your creative and problem-solving skills to the test. How did you feel when you first received the project? Are you enjoying working on it?
 
-dialogue_id: D3:5,  Jolene: How did you two meet?
 
-dialogue_id: D3:6,  Deborah: It happened at yoga in the park.
 
-dialogue_id: D3:7,  Jolene: Wow, that's awesome! It's great connecting with people who have similar interests. Did you two talk about it?
+dialogue_id: D3:3
+Jolene: When I got it, I felt a mix of emotions - excited and nervous. But now, I'm really enjoying it! It's like trying to solve a puzzle, figuring out the best design and programming. Seeing the robot come together is awesome too!
 
-dialogue_id: D3:8,  Deborah: Yeah, we talked about how it has improved our lives and the sense of community it gives.
 
-dialogue_id: D3:9,  Jolene: Sounds great!
 
-dialogue_id: D3:10,  Deborah: Have you ever thought about resuming yoga?
+dialogue_id: D3:4
+Deborah: That's awesome, Jolene! You're enjoying the process. It must be really satisfying to see it come together. Keep up the good work! Oh, by the way, I met my new neighbor Anna yesterday!
 
-dialogue_id: D3:11,  Jolene: Well... we planned to play the console with my partner.
 
-dialogue_id: D3:12,  Deborah: It's also good that you have something to do together.
 
-dialogue_id: D3:13,  Jolene: Thanks for the kind words!
+dialogue_id: D3:5
+Jolene: How did you two meet?
 
-dialogue_id: D3:14,  Deborah: Gotta run bye!
 
-dialogue_id: D3:15,  Jolene: See you soon!
+
+dialogue_id: D3:6
+Deborah: It happened at yoga in the park.
+
+
+
+dialogue_id: D3:7
+Jolene: Wow, that's awesome! It's great connecting with people who have similar interests. Did you two talk about it?
+
+
+
+dialogue_id: D3:8
+Deborah: Yeah, we talked about how it has improved our lives and the sense of community it gives.
+
+
+
+dialogue_id: D3:9
+Jolene: Sounds great!
+
+
+
+dialogue_id: D3:10
+Deborah: Have you ever thought about resuming yoga?
+
+
+
+dialogue_id: D3:11
+Jolene: Well... we planned to play the console with my partner.
+
+
+
+dialogue_id: D3:12
+Deborah: It's also good that you have something to do together.
+
+
+
+dialogue_id: D3:13
+Jolene: Thanks for the kind words!
+
+
+
+dialogue_id: D3:14
+Deborah: Gotta run bye!
+
+
+
+dialogue_id: D3:15
+Jolene: See you soon!
+
+
 

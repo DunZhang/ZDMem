@@ -1,39 +1,84 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-09-03T14:14:00.
 
 The specific content of the conversation is:
-dialogue_id: D24:1,  Deborah: Hey Jolene, just catching up. I went to a cool event last week with the aim to support each other - pretty inspiring. Have you been connecting with anyone lately?
+dialogue_id: D24:1
+Deborah: Hey Jolene, just catching up. I went to a cool event last week with the aim to support each other - pretty inspiring. Have you been connecting with anyone lately?
 
-dialogue_id: D24:2,  Jolene: Hey Deb, great to hear from you! I've been focusing on studying and my relationship with my partner. We're taking little trips to the beach, it's a great way to relax. How about you, anything new going on?
 
-dialogue_id: D24:3,  Deborah: I was busy too - went to a community meetup last Friday. We shared stories and it was nice to feel how connected we are. It made me think about how important relationships are. How about you, how are things going in that area?
 
-dialogue_id: D24:4,  Jolene: I'm really thankful for my significant other right now. It's great to have someone encouraging my goals! How are things with your friends and family? Any updates on that front?
+dialogue_id: D24:2
+Jolene: Hey Deb, great to hear from you! I've been focusing on studying and my relationship with my partner. We're taking little trips to the beach, it's a great way to relax. How about you, anything new going on?
 
-dialogue_id: D24:5,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D24:3
+Deborah: I was busy too - went to a community meetup last Friday. We shared stories and it was nice to feel how connected we are. It made me think about how important relationships are. How about you, how are things going in that area?
+
+
+
+dialogue_id: D24:4
+Jolene: I'm really thankful for my significant other right now. It's great to have someone encouraging my goals! How are things with your friends and family? Any updates on that front?
+
+
+
+dialogue_id: D24:5
+Deborah: <image_message>Deborah send an image.
 Image description: yoga pose mother daughter
 a photo of a woman sitting on a yoga mat with two children</image_message> Relationships with family and friends are so vital. My yoga pals have been my second family - we've held each other up through a lot. The other day I found this old photo. That was when I first started doing yoga. My mum was my biggest fan and source of motivation. She'd often come to my classes with me.
 
-dialogue_id: D24:6,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D24:6
+Jolene: <image_message>Jolene send an image.
 Image description: gaming console my first
 a photo of a nintendo game console and a game controller</image_message> Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.
 
-dialogue_id: D24:7,  Deborah: Cool that they shared that with you. Did you learn on your own or did they teach you?
 
-dialogue_id: D24:8,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D24:7
+Deborah: Cool that they shared that with you. Did you learn on your own or did they teach you?
+
+
+
+dialogue_id: D24:8
+Jolene: <image_message>Jolene send an image.
 Image description: video game screenshot playing with mom
 a photo of a nintendo wii game system with a game on the screen</image_message> I taught myself, but my dad was always supportive and my mom would play games with me. 
 
-dialogue_id: D24:9,  Deborah: That's awesome! Sounds like you had a lot of support from your parents. What was your favorite game to play with mom?
 
-dialogue_id: D24:10,  Jolene: One of my favorites was "Monster Hunter: World". The immersive story and open-world gaming are amazing!
 
-dialogue_id: D24:11,  Deborah:  It can be so freeing when you get immersed in a game like that. 
+dialogue_id: D24:9
+Deborah: That's awesome! Sounds like you had a lot of support from your parents. What was your favorite game to play with mom?
 
-dialogue_id: D24:12,  Jolene: Yeah! It's my way to de-stress and take a break from life.
 
-dialogue_id: D24:13,  Deborah: What's up this month? Anything fun happening for you?
 
-dialogue_id: D24:14,  Jolene: Got a lot of finals coming up this month, so I've been studying real hard. It's been quite stressful, but it'll be worth it in the end. Thinking about taking a trip somewhere to relax and recharge afterward.
+dialogue_id: D24:10
+Jolene: One of my favorites was "Monster Hunter: World". The immersive story and open-world gaming are amazing!
 
-dialogue_id: D24:15,  Deborah: Good luck with it! Let me know if there's anything I can do to assist you.
+
+
+dialogue_id: D24:11
+Deborah:  It can be so freeing when you get immersed in a game like that. 
+
+
+
+dialogue_id: D24:12
+Jolene: Yeah! It's my way to de-stress and take a break from life.
+
+
+
+dialogue_id: D24:13
+Deborah: What's up this month? Anything fun happening for you?
+
+
+
+dialogue_id: D24:14
+Jolene: Got a lot of finals coming up this month, so I've been studying real hard. It's been quite stressful, but it'll be worth it in the end. Thinking about taking a trip somewhere to relax and recharge afterward.
+
+
+
+dialogue_id: D24:15
+Deborah: Good luck with it! Let me know if there's anything I can do to assist you.
+
+
 

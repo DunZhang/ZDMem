@@ -5,7 +5,7 @@
     "evidence": [
       "D18:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When was John in Seattle for a game?",
@@ -33,7 +33,7 @@
     "evidence": [
       "D9:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Tim excited to see at Universal Studios?",
@@ -41,7 +41,7 @@
     "evidence": [
       "D10:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of deal did John get in December?",
@@ -49,7 +49,7 @@
     "evidence": [
       "D25:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of writing does Tim do?",
@@ -68,7 +68,7 @@
     "evidence": [
       "D29:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John like about Lebron James?",
@@ -85,7 +85,7 @@
     "evidence": [
       "D27:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What would be a good hobby related to his travel dreams for Tim to pick up?",
@@ -104,7 +104,7 @@
     "evidence": [
       "D12:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Has Tim been to North Carolina and/or Tennesee states in the US?",
@@ -128,7 +128,7 @@
     "evidence": [
       "D22:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which week did Tim visit the UK for the Harry Potter Conference?",
@@ -153,7 +153,7 @@
     "evidence": [
       "D3:29"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What challenge did John encounter during pre-season training?",
@@ -161,7 +161,7 @@
     "evidence": [
       "D1:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How long has Tim been playing the piano for, as of December 2023?",
@@ -169,7 +169,7 @@
     "evidence": [
       "D21:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What instruments does Tim play?",
@@ -186,7 +186,7 @@
     "evidence": [
       "D22:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which popular music composer's tunes does Tim enjoy playing on the piano?",
@@ -229,7 +229,7 @@
     "evidence": [
       "D4:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What organization is John teaming up with for his charity work?",
@@ -237,7 +237,7 @@
     "evidence": [
       "D6:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was Johns's reaction to sealing the deal with the beverage company?",
@@ -245,7 +245,7 @@
     "evidence": [
       "D29:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is John's position on the team he signed with?",
@@ -253,7 +253,7 @@
     "evidence": [
       "D1:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many times has John injured his ankle?",
@@ -280,7 +280,7 @@
     "evidence": [
       "D1:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of picture did Tim share as part of their Harry Potter book collection?",
@@ -288,7 +288,7 @@
     "evidence": [
       "D2:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which city is John excited to have a game at?",
@@ -296,7 +296,7 @@
     "evidence": [
       "D3:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which movie does Tim mention they enjoy watching during Thanksgiving?",
@@ -304,7 +304,7 @@
     "evidence": [
       "D8:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did John's teammates sign the basketball they gave him?",
@@ -312,7 +312,7 @@
     "evidence": [
       "D7:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of soup did John make recently?",
@@ -321,7 +321,7 @@
       "D10:4",
       "D10:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John's team win at the end of the season?",
@@ -329,7 +329,7 @@
     "evidence": [
       "D13:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is one cause that John supports with his influence and resources?",
@@ -337,7 +337,7 @@
     "evidence": [
       "D26:21"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What instrument is Tim learning to play in December 2023?",
@@ -345,7 +345,7 @@
     "evidence": [
       "D21:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What year did John start surfing?",
@@ -369,7 +369,7 @@
     "evidence": [
       "D27:28"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When is Tim attending a book conference?",
@@ -385,7 +385,7 @@
     "evidence": [
       "D15:34"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What spice did John add to the soup for flavor?",
@@ -393,7 +393,7 @@
     "evidence": [
       "D10:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which popular time management technique does Tim use to prepare for exams?",
@@ -410,7 +410,7 @@
     "evidence": [
       "D7:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What new fantasy TV series is Tim excited about?",
@@ -418,7 +418,7 @@
     "evidence": [
       "D26:36"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When does John plan on traveling with his team on a team trip?",
@@ -443,7 +443,7 @@
     "evidence": [
       "D25:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which US states might Tim be in during September 2023 based on his plans of visiting Universal Studios?",
@@ -459,7 +459,7 @@
     "evidence": [
       "D5:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John do to supplement his basketball training?",
@@ -484,7 +484,7 @@
     "evidence": [
       "D23:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What has John been able to help the younger players achieve?",
@@ -492,7 +492,7 @@
     "evidence": [
       "D14:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did Tim do after reading the stories about the Himalayan trek?",
@@ -500,7 +500,7 @@
     "evidence": [
       "D26:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What city did Tim suggest to John for the team trip next month?",
@@ -508,7 +508,7 @@
     "evidence": [
       "D11:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John find rewarding about mentoring the younger players?",
@@ -516,7 +516,7 @@
     "evidence": [
       "D14:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What outdoor activities does John enjoy?",
@@ -544,7 +544,7 @@
     "evidence": [
       "D29:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where was the photoshoot done for John's gear deal?",
@@ -552,7 +552,7 @@
     "evidence": [
       "D25:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which country was Tim visiting in the second week of November?",
@@ -576,7 +576,7 @@
     "evidence": [
       "D7:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What J.K. Rowling quote does Tim resonate with?",
@@ -584,7 +584,7 @@
     "evidence": [
       "D15:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of deals did John sign with Nike and Gatorade?",
@@ -592,7 +592,7 @@
     "evidence": [
       "D3:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How was John's experience in New York City?",
@@ -600,7 +600,7 @@
     "evidence": [
       "D9:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When will Tim leave for Ireland?",
@@ -617,7 +617,7 @@
       "D16:9",
       "D16:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What are John's goals for his career that are not related to his basketball skills?",
@@ -643,7 +643,7 @@
     "evidence": [
       "D27:33"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was the highest number of points John scored in a game recently?",
@@ -651,7 +651,7 @@
     "evidence": [
       "D3:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which US cities does John mention visiting to Tim?",
@@ -669,7 +669,7 @@
     "evidence": [
       "D19:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How long does John usually hold the yoga pose he shared with Tim?",
@@ -677,7 +677,7 @@
     "evidence": [
       "D20:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which basketball team does Tim support?",
@@ -685,7 +685,7 @@
     "evidence": [
       "D12:21"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John celebrate at a restaurant with teammates?",
@@ -693,7 +693,7 @@
     "evidence": [
       "D3:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What year did Tim go to the Smoky Mountains?",
@@ -709,7 +709,7 @@
     "evidence": [
       "D17:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John achieve a career-high assist performance?",
@@ -745,7 +745,7 @@
       "D8:14",
       "D8:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of seminars is John conducting?",
@@ -753,7 +753,7 @@
     "evidence": [
       "D26:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is a Star Wars book that Tim might enjoy?",
@@ -790,7 +790,7 @@
     "evidence": [
       "D28:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which two fantasy novels does Tim particularly enjoy writing about?",
@@ -798,7 +798,7 @@
     "evidence": [
       "D4:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was the setback Tim faced in his writing project on 21 November, 2023?",
@@ -806,7 +806,7 @@
     "evidence": [
       "D19:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What sports does John like besides basketball?",
@@ -825,7 +825,7 @@
     "evidence": [
       "D16:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the main intention behind Tim wanting to attend the book conference?",
@@ -833,7 +833,7 @@
     "evidence": [
       "D7:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John share with the person he skyped about?",
@@ -841,7 +841,7 @@
     "evidence": [
       "D5:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which language is Tim learning?",
@@ -849,7 +849,7 @@
     "evidence": [
       "D27:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is John's number one goal in his basketball career?",
@@ -857,7 +857,7 @@
     "evidence": [
       "D6:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which Star Wars-related locations would Tim enjoy during his visit to Ireland?",
@@ -891,7 +891,7 @@
     "evidence": [
       "D15:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "According to John, who is his favorite character from Lord of the Rings?",
@@ -899,7 +899,7 @@
     "evidence": [
       "D27:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of yoga for building core strength might John benefit from?",
@@ -915,7 +915,7 @@
     "evidence": [
       "D9:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What new activity has Tim started learning in August 2023?",
@@ -923,7 +923,7 @@
     "evidence": [
       "D8:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What month did Tim plan on going to Universal Studios?",
@@ -966,7 +966,7 @@
     "evidence": [
       "D11:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Tim capture the photography of the sunset over the mountain range?",
@@ -974,7 +974,7 @@
     "evidence": [
       "D14:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which book was John reading during his recovery from an ankle injury?",
@@ -991,7 +991,7 @@
     "evidence": [
       "D19:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What hobby is a therapy for John when away from the court?",
@@ -999,7 +999,7 @@
     "evidence": [
       "D15:30"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John organize a basketball camp for kids?",
@@ -1015,7 +1015,7 @@
     "evidence": [
       "D19:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was Tim's huge writing issue last week,as mentioned on November 6, 2023?",
@@ -1023,7 +1023,7 @@
     "evidence": [
       "D16:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who is Tim and John's favorite basketball player?",
@@ -1051,7 +1051,7 @@
     "evidence": [
       "D27:28"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of meal does John often cook using a slow cooker?",
@@ -1060,7 +1060,7 @@
       "D15:32",
       "D15:33"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does John say his team handles tough opponents?",
@@ -1068,7 +1068,7 @@
     "evidence": [
       "D13:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did John describe the views during their road trip out on the European coastline?",
@@ -1076,7 +1076,7 @@
     "evidence": [
       "D17:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which month was John in Italy?",
@@ -1092,7 +1092,7 @@
     "evidence": [
       "D21:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Anthony and John end up playing during the charity event?",
@@ -1100,7 +1100,7 @@
     "evidence": [
       "D4:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which city in Ireland will Tim be staying in during his semester abroad?",
@@ -1108,7 +1108,7 @@
     "evidence": [
       "D28:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What forum did Tim join recently?",
@@ -1116,7 +1116,7 @@
     "evidence": [
       "D2:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John get married at a greenhouse?",
@@ -1143,7 +1143,7 @@
     "evidence": [
       "D11:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of game did John have a career-high in assists in?",
@@ -1151,7 +1151,7 @@
     "evidence": [
       "D23:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What aspects of the Harry Potter universe will be discussed in John's fan project collaborations?",
@@ -1159,7 +1159,7 @@
     "evidence": [
       "D1:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What motivates John's team to get better, according to John?",
@@ -1167,7 +1167,7 @@
     "evidence": [
       "D13:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is John trying out to improve his strength and flexibility after recovery from ankle injury?",
@@ -1175,7 +1175,7 @@
     "evidence": [
       "D20:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did John overcome a mistake he made during a big game in basketball?",
@@ -1183,7 +1183,7 @@
     "evidence": [
       "D19:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did John get introduced to basketball?",
@@ -1191,7 +1191,7 @@
     "evidence": [
       "D6:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which career-high performances did John achieve in 2023?",
@@ -1208,7 +1208,7 @@
     "evidence": [
       "D28:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was the setting for John and his wife's first dance?",
@@ -1216,7 +1216,7 @@
     "evidence": [
       "D12:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Tim start playing the violin?",
@@ -1232,7 +1232,7 @@
     "evidence": [
       "D18:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was John's way of dealing with doubts and stress when he was younger?",
@@ -1240,7 +1240,7 @@
     "evidence": [
       "D23:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John want to do after his basketball career?",
@@ -1248,7 +1248,7 @@
     "evidence": [
       "D11:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John start playing professionally?",
@@ -1265,7 +1265,7 @@
     "evidence": [
       "D27:30"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What items does John collect?",
@@ -1283,7 +1283,7 @@
     "evidence": [
       "D19:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "In which month's game did John achieve a career-high score in points?",
@@ -1307,7 +1307,7 @@
     "evidence": [
       "D27:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How long has John been surfing?",
@@ -1315,7 +1315,7 @@
     "evidence": [
       "D3:27"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which TV series does Tim mention watching?",
@@ -1335,7 +1335,7 @@
       "D23:2",
       "D23:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John attend the Harry Potter trivia?",
@@ -1360,7 +1360,7 @@
     "evidence": [
       "D13:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "what are John's goals with regards to his basketball career?",
@@ -1378,7 +1378,7 @@
     "evidence": [
       "D24:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What book recommendation did Tim give to John for the trip?",
@@ -1386,7 +1386,7 @@
     "evidence": [
       "D11:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What tradition does Tim mention they love during Thanksgiving?",
@@ -1394,7 +1394,7 @@
     "evidence": [
       "D8:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which geographical locations has Tim been to?",
@@ -1412,7 +1412,7 @@
     "evidence": [
       "D15:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where was John between August 11 and August 15 2023?",
@@ -1439,7 +1439,7 @@
     "evidence": [
       "D8:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is John's favorite book series?",
@@ -1447,7 +1447,7 @@
     "evidence": [
       "D27:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does John feel about being seen as a mentor by some of the younger players?",
@@ -1455,7 +1455,7 @@
     "evidence": [
       "D14:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does John describe the game season for his team?",
@@ -1463,7 +1463,7 @@
     "evidence": [
       "D13:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John write on the whiteboard to help him stay motivated?",
@@ -1471,7 +1471,7 @@
     "evidence": [
       "D15:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which cities has John been to?",
@@ -1511,7 +1511,7 @@
     "evidence": [
       "D20:28"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What could John do after his basketball career?",

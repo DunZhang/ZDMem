@@ -1,99 +1,216 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-07-09T19:37:00.
 
 The specific content of the conversation is:
-dialogue_id: D15:1,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D15:1
+Deborah: <image_message>Deborah send an image.
 Image description: running group sunny day
 a photo of three men standing next to each other on a road</image_message> Hey Jolene! I started a running group with Anna - it's awesome connecting with people who care about fitness!
 
-dialogue_id: D15:2,  Jolene: Cool, Deb! Glad you found some people to get fit with. I'm trying to add workouts into my studying schedule, which has been tough but fun. How about you? Any challenges with the running group?
 
-dialogue_id: D15:3,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D15:2
+Jolene: Cool, Deb! Glad you found some people to get fit with. I'm trying to add workouts into my studying schedule, which has been tough but fun. How about you? Any challenges with the running group?
+
+
+
+dialogue_id: D15:3
+Deborah: <image_message>Deborah send an image.
 Image description: running group morning stretch
 a photo of a woman standing on a sidewalk with a skateboard</image_message> Oh, I'm having a blast with it! We help and push each other during our runs, which makes it so much easier to stay motivated.  I have a lot of my photos from this activity.
 
-dialogue_id: D15:4,  Jolene: Deborah, that's awesome! Being part of a supportive group must be super motivating. Finding a team that's passionate about something makes a huge difference. Just thinking about my own journey too.
 
-dialogue_id: D15:5,  Deborah: Having people who can cheer you on and give you advice really makes a difference. What has it been like for you finding supportive folks?
 
-dialogue_id: D15:6,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D15:4
+Jolene: Deborah, that's awesome! Being part of a supportive group must be super motivating. Finding a team that's passionate about something makes a huge difference. Just thinking about my own journey too.
+
+
+
+dialogue_id: D15:5
+Deborah: Having people who can cheer you on and give you advice really makes a difference. What has it been like for you finding supportive folks?
+
+
+
+dialogue_id: D15:6
+Jolene: <image_message>Jolene send an image.
 Image description: couples playing video games
 a photo of a man and a woman sitting in a chair in front of a computer</image_message> Gaming's been tough lately, but I'm grateful I have someone who's also into it. My partner helps me stay focused on our goals. We have a lot of cute photos, I want to share with you.
 
-dialogue_id: D15:7,  Deborah:  What do you like best about gaming together?
 
-dialogue_id: D15:8,  Jolene: We get to tackle challenges and have a shared experience. It's always a blast when we're into the same game and achieve something tough. Plus, it's a great way to bond and get closer.
 
-dialogue_id: D15:9,  Deborah: Woah, that's cool! Gaming is so good for strengthening relationships. Do you two have a favorite game to play together?
+dialogue_id: D15:7
+Deborah:  What do you like best about gaming together?
 
-dialogue_id: D15:10,  Jolene: Yeah, we love playing "It takes two" together! It's a fun team-strategy game and it's competitive. Plus, it's a great way for us to bond. Do you have any activities you like doing with people?
 
-dialogue_id: D15:11,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D15:8
+Jolene: We get to tackle challenges and have a shared experience. It's always a blast when we're into the same game and achieve something tough. Plus, it's a great way to bond and get closer.
+
+
+
+dialogue_id: D15:9
+Deborah: Woah, that's cool! Gaming is so good for strengthening relationships. Do you two have a favorite game to play together?
+
+
+
+dialogue_id: D15:10
+Jolene: Yeah, we love playing "It takes two" together! It's a fun team-strategy game and it's competitive. Plus, it's a great way for us to bond. Do you have any activities you like doing with people?
+
+
+
+dialogue_id: D15:11
+Deborah: <image_message>Deborah send an image.
 Image description: group of people yoga park
 a photo of a group of people doing yoga in a park</image_message> Yep, I do running and yoga/meditation with others. Connecting with people and creating a community is great. Plus, I love organizing workshops and events to practice mindfulness and self-care. It's an awesome way to have fun, build relationships, and support each other's growth.
 
-dialogue_id: D15:12,  Jolene: Sounds like a great way to relax. What do your workshops and events involve?
 
-dialogue_id: D15:13,  Deborah: It involves various activities such as yoga, meditation, and self-reflection. They aim to cultivate self-awareness, promote mental and emotional well-being, and help individuals find inner peace. It's a space where people can connect, explore, and grow.
 
-dialogue_id: D15:14,  Jolene:  Your events are awesome for helping people connect and learn, it is so important. How has everything been going for you?
+dialogue_id: D15:12
+Jolene: Sounds like a great way to relax. What do your workshops and events involve?
 
-dialogue_id: D15:15,  Deborah: Thanks, Jolene! It's been great seeing everyone come together and support each other. It's amazing to witness the growth and transformation that happens through these workshops. I'm honored to be a part of it.
 
-dialogue_id: D15:16,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D15:13
+Deborah: It involves various activities such as yoga, meditation, and self-reflection. They aim to cultivate self-awareness, promote mental and emotional well-being, and help individuals find inner peace. It's a space where people can connect, explore, and grow.
+
+
+
+dialogue_id: D15:14
+Jolene:  Your events are awesome for helping people connect and learn, it is so important. How has everything been going for you?
+
+
+
+dialogue_id: D15:15
+Deborah: Thanks, Jolene! It's been great seeing everyone come together and support each other. It's amazing to witness the growth and transformation that happens through these workshops. I'm honored to be a part of it.
+
+
+
+dialogue_id: D15:16
+Jolene: <image_message>Jolene send an image.
 Image description: pet snake branch
 a photo of a snake on a branch with a book</image_message> Wow, Deb! I can imagine how rewarding it must be to create a space for growth and change. It's great to hear that everything's going well. You can always count on me for support! I just want to share a photo with you.
 
-dialogue_id: D15:17,  Deborah: Thanks, Jolene! Your support means a lot to me. I'm here for you too. By the way, I noticed your pet in the picture. What made you decide to get a snake?
 
-dialogue_id: D15:18,  Jolene:  I was fascinated by reptiles, and it felt like the perfect pet for me. Taking care of it has been really calming, and it's a great way to connect with nature.
 
-dialogue_id: D15:19,  Deborah:  Glad you found something that gives you peace and calm. Do you have a favorite memory with "it" to share?
+dialogue_id: D15:17
+Deborah: Thanks, Jolene! Your support means a lot to me. I'm here for you too. By the way, I noticed your pet in the picture. What made you decide to get a snake?
 
-dialogue_id: D15:20,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D15:18
+Jolene:  I was fascinated by reptiles, and it felt like the perfect pet for me. Taking care of it has been really calming, and it's a great way to connect with nature.
+
+
+
+dialogue_id: D15:19
+Deborah:  Glad you found something that gives you peace and calm. Do you have a favorite memory with "it" to share?
+
+
+
+dialogue_id: D15:20
+Jolene: <image_message>Jolene send an image.
 Image description: snake in tank
 a photo of a snake in a tank with sand and plants</image_message> I have lots of great memories, like our little 'snake adventure'. She got out and I spent hours searching, so relieved when I finally found her snuggling under the bed. It really showed how much I love her.
 
-dialogue_id: D15:21,  Deborah: What was it like when you found her? I can imagine the relief!
 
-dialogue_id: D15:22,  Jolene: Seeing her snuggled under the bed made me feel so much love and gratitude. It made me realize how important she is to me.
 
-dialogue_id: D15:23,  Deborah: They bring so much joy and remind us of what's important.
+dialogue_id: D15:21
+Deborah: What was it like when you found her? I can imagine the relief!
 
-dialogue_id: D15:24,  Jolene: Animals teach us a lot about love and gratitude, and they bring so much joy. 
 
-dialogue_id: D15:25,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D15:22
+Jolene: Seeing her snuggled under the bed made me feel so much love and gratitude. It made me realize how important she is to me.
+
+
+
+dialogue_id: D15:23
+Deborah: They bring so much joy and remind us of what's important.
+
+
+
+dialogue_id: D15:24
+Jolene: Animals teach us a lot about love and gratitude, and they bring so much joy. 
+
+
+
+dialogue_id: D15:25
+Deborah: <image_message>Deborah send an image.
 Image description: dog playing park
 a photography of two cats sitting on a couch with a blanket</image_message> I haven't introduced you to my pets yet! I don't like dogs, that's why I have cats.
 
-dialogue_id: D15:26,  Jolene: Looks like they're having a blast! How often do you take them out?
 
-dialogue_id: D15:27,  Deborah: Exercise and nature are really important to me, so I make sure to take them out for a run in the park every morning and evening.
 
-dialogue_id: D15:28,  Jolene: Wow Deb, that's great! I'd love to experience that every day.
+dialogue_id: D15:26
+Jolene: Looks like they're having a blast! How often do you take them out?
 
-dialogue_id: D15:29,  Deborah: Nature helps me find peace every day - it's so refreshing!
 
-dialogue_id: D15:30,  Jolene: It's a pity that my snakes don't run!  I'd love to do that more often. They would motivate me and together it would be more fun.
 
-dialogue_id: D15:31,  Deborah:  It's like hitting a reset button that helps me put things into perspective and gives me time to reflect.
+dialogue_id: D15:27
+Deborah: Exercise and nature are really important to me, so I make sure to take them out for a run in the park every morning and evening.
 
-dialogue_id: D15:32,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D15:28
+Jolene: Wow Deb, that's great! I'd love to experience that every day.
+
+
+
+dialogue_id: D15:29
+Deborah: Nature helps me find peace every day - it's so refreshing!
+
+
+
+dialogue_id: D15:30
+Jolene: It's a pity that my snakes don't run!  I'd love to do that more often. They would motivate me and together it would be more fun.
+
+
+
+dialogue_id: D15:31
+Deborah:  It's like hitting a reset button that helps me put things into perspective and gives me time to reflect.
+
+
+
+dialogue_id: D15:32
+Jolene: <image_message>Jolene send an image.
 Image description: sunset calm lake
 a photo of a sunset over a body of water</image_message> Yeah, I totally get it. Whenever I can, I love going for walks to take it all in. And I take photos like this
 
-dialogue_id: D15:33,  Deborah: It's amazing how nature has the power to bring us peace and clarity.
 
-dialogue_id: D15:34,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D15:33
+Deborah: It's amazing how nature has the power to bring us peace and clarity.
+
+
+
+dialogue_id: D15:34
+Jolene: <image_message>Jolene send an image.
 Image description: peaceful lake trees
 a photo of a dock on a lake with trees in the background</image_message> This photo captures the peacefulness of a lake surrounded by trees.
 
-dialogue_id: D15:35,  Deborah: Why did you choose that spot? It looks so calm.
 
-dialogue_id: D15:36,  Jolene: It's such a hidden gem! It makes me feel so peaceful and tranquil.
 
-dialogue_id: D15:37,  Deborah: Lucky you for having somewhere to relax and tune out!
+dialogue_id: D15:35
+Deborah: Why did you choose that spot? It looks so calm.
 
-dialogue_id: D15:38,  Jolene: We'll definitely go there together sometime!
 
-dialogue_id: D15:39,  Deborah: We all need a timeout!
+
+dialogue_id: D15:36
+Jolene: It's such a hidden gem! It makes me feel so peaceful and tranquil.
+
+
+
+dialogue_id: D15:37
+Deborah: Lucky you for having somewhere to relax and tune out!
+
+
+
+dialogue_id: D15:38
+Jolene: We'll definitely go there together sometime!
+
+
+
+dialogue_id: D15:39
+Deborah: We all need a timeout!
+
+
 

@@ -13,7 +13,7 @@
     "evidence": [
       "D21:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Evan take his family for a road trip on 24 May, 2023?",
@@ -21,7 +21,7 @@
     "evidence": [
       "D2:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who did Evan tell about his marriage?",
@@ -41,7 +41,7 @@
     "evidence": [
       "D1:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which two significant life events occur in Evan's life in December 2023 with his partner?",
@@ -58,7 +58,7 @@
     "evidence": [
       "D8:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What suggestions did Evan give for low-impact exercises?",
@@ -66,7 +66,7 @@
     "evidence": [
       "D24:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What new diet and lifestyle change did Sam adopt over time?",
@@ -85,7 +85,7 @@
     "evidence": [
       "D9:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Evan describe the island he grew up on?",
@@ -93,7 +93,7 @@
     "evidence": [
       "D17:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Evan spend his time with his bride after the wedding?",
@@ -128,7 +128,7 @@
     "evidence": [
       "D16:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of car did Evan get after his old Prius broke down?",
@@ -136,7 +136,7 @@
     "evidence": [
       "D1:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan suggest Sam try as a calming hobby?",
@@ -144,7 +144,7 @@
     "evidence": [
       "D10:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Considering their conversations and personal growth, what advice might Evan and Sam give to someone facing a major life transition or challenge?",
@@ -180,7 +180,7 @@
     "evidence": [
       "D20:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What advice did Evan suggest Sam seek from a doctor?",
@@ -189,7 +189,7 @@
       "D24:11",
       "D24:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Sam suggest Evan should do with his keys?",
@@ -197,7 +197,7 @@
     "evidence": [
       "D21:21"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan share a photo of that was taken on a camping trip?",
@@ -205,7 +205,7 @@
     "evidence": [
       "D25:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Sam offer Evan regarding yoga?",
@@ -213,7 +213,7 @@
     "evidence": [
       "D18:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When is Evan planning a big family reunion?",
@@ -241,7 +241,7 @@
     "evidence": [
       "D4:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What fun activity did Evan mention doing in July 2023?",
@@ -249,7 +249,7 @@
     "evidence": [
       "D8:26"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What class is Sam taking to learn how to make healthier meals?",
@@ -257,7 +257,7 @@
     "evidence": [
       "D7:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kinds of things did Evan have broken?",
@@ -277,7 +277,7 @@
     "evidence": [
       "D24:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What electronic device could Evan gift Sam to help him keep up with his fitness goals?",
@@ -322,7 +322,7 @@
     "evidence": [
       "D11:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "According to Sam, what is more important than perfection?",
@@ -330,7 +330,7 @@
     "evidence": [
       "D6:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the motto of Evan's family?",
@@ -338,7 +338,7 @@
     "evidence": [
       "D19:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Sam recently start enjoying to clear his head?",
@@ -346,7 +346,7 @@
     "evidence": [
       "D21:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Sam's friends mock him for being overweight?",
@@ -362,7 +362,7 @@
     "evidence": [
       "D11:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How often does Sam get health checkups?",
@@ -380,7 +380,7 @@
     "evidence": [
       "D3:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When will Evan and his partner have their honeymoon in Canada?",
@@ -396,7 +396,7 @@
     "evidence": [
       "D8:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which US state was Sam travelling in during October 2023?",
@@ -430,7 +430,7 @@
     "evidence": [
       "D25:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan start painting years ago due to being inspired by a friend's gift?",
@@ -438,7 +438,7 @@
     "evidence": [
       "D8:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who was injured in Evan's family?",
@@ -459,7 +459,7 @@
     "evidence": [
       "D21:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Evan's favorite food?",
@@ -487,7 +487,7 @@
     "evidence": [
       "D18:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which type of vacation would Evan prefer with his family, walking tours in metropolitan cities or camping trip in the outdoors?",
@@ -531,7 +531,7 @@
     "evidence": [
       "D7:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan find relaxing about his road trip to Jasper?",
@@ -539,7 +539,7 @@
     "evidence": [
       "D2:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan mention he had been searching for fruitlessly for half an hour?",
@@ -547,7 +547,7 @@
     "evidence": [
       "D6:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which places in Canada was Evan visiting in July 2023?",
@@ -574,7 +574,7 @@
     "evidence": [
       "D19:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which new activity does Sam take up in October 2023?",
@@ -619,7 +619,7 @@
     "evidence": [
       "D11:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Evan lose his job?",
@@ -667,7 +667,7 @@
     "evidence": [
       "D24:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What adventurous theme is emerging in Evan's life as mentioned by Sam?",
@@ -675,7 +675,7 @@
     "evidence": [
       "D14:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What health issue did Sam face that motivated him to change his lifestyle?",
@@ -719,7 +719,7 @@
     "evidence": [
       "D14:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How do Evan and Sam use creative outlets to cope with life's challenges?",
@@ -743,7 +743,7 @@
     "evidence": [
       "D21:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What challenges does Sam face in his quest for a healthier lifestyle, and how does he address them?",
@@ -786,7 +786,7 @@
     "evidence": [
       "D3:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of hobbies does Evan pursue?",
@@ -809,7 +809,7 @@
     "evidence": [
       "D4:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Sam and his mate plan to try kayaking?",
@@ -817,7 +817,7 @@
     "evidence": [
       "D13:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Evan announce his marriage to his extended family?",
@@ -851,7 +851,7 @@
     "evidence": [
       "D25:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan start doing a few years back as a stress-buster?",
@@ -859,7 +859,7 @@
     "evidence": [
       "D1:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does the bonsai tree symbolize for Evan?",
@@ -867,7 +867,7 @@
     "evidence": [
       "D5:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What personal health incidents does Evan face in 2023?",
@@ -896,7 +896,7 @@
     "evidence": [
       "D3:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of recipe did Evan request from Sam on 19 August, 2023?",
@@ -904,7 +904,7 @@
     "evidence": [
       "D7:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Evan get into painting?",
@@ -923,7 +923,7 @@
     "evidence": [
       "D5:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of unhealthy snacks does Sam enjoy eating?",
@@ -939,7 +939,7 @@
     "evidence": [
       "D9:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What frustrating issue did Sam face at the supermarket?",
@@ -947,7 +947,7 @@
     "evidence": [
       "D3:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Evan have a drunken night with his friends?",
@@ -1000,7 +1000,7 @@
     "evidence": [
       "D8:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan and his partner share with their extended family on January 5, 2024?",
@@ -1008,7 +1008,7 @@
     "evidence": [
       "D23:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Sam suggest Evan try for stress relief and flexibility?",
@@ -1016,7 +1016,7 @@
     "evidence": [
       "D18:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of healthy meals did Sam start eating after getting a health scare?",
@@ -1038,7 +1038,7 @@
     "evidence": [
       "D20:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan share with Sam after their hiking trip?",
@@ -1046,7 +1046,7 @@
     "evidence": [
       "D22:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Evan start his transformation journey two years ago?",
@@ -1054,7 +1054,7 @@
     "evidence": [
       "D15:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What advice did Evan give Sam about finding a passion?",
@@ -1062,7 +1062,7 @@
     "evidence": [
       "D1:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did Evan start one year ago?",
@@ -1070,7 +1070,7 @@
     "evidence": [
       "D12:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of subjects does Evan enjoy painting?",
@@ -1116,7 +1116,7 @@
     "evidence": [
       "D24:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Sam's persistent problem with his phone?",
@@ -1133,7 +1133,7 @@
     "evidence": [
       "D18:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of writing does Sam do to relax and cope with his health issues?",
@@ -1158,7 +1158,7 @@
     "evidence": [
       "D19:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of landscapes does Evan love painting the most?",
@@ -1166,7 +1166,7 @@
     "evidence": [
       "D8:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What recurring adventure does Evan have with strangers?",
@@ -1183,7 +1183,7 @@
     "evidence": [
       "D23:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where has Evan been on roadtrips with his family?",
@@ -1218,7 +1218,7 @@
     "evidence": [
       "D22:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is a stress reliever for Evan?",
@@ -1270,7 +1270,7 @@
     "evidence": [
       "D10:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of car does Evan drive?",
@@ -1290,7 +1290,7 @@
     "evidence": [
       "D9:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Evan suggest Sam to check out for insights into his dream?",
@@ -1298,7 +1298,7 @@
     "evidence": [
       "D6:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What new hobbies did Sam consider trying?",
@@ -1323,7 +1323,7 @@
     "evidence": [
       "D14:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What significant event happened in Sam's life towards the end of summer 2023?",
@@ -1349,7 +1349,7 @@
     "evidence": [
       "D5:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What advice did Evan give to Sam to avoid injuries while starting weightlifting?",
@@ -1357,7 +1357,7 @@
     "evidence": [
       "D12:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity does Evan do to keep himself busy while healing his knee?",
@@ -1365,7 +1365,7 @@
     "evidence": [
       "D11:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What gift did Evan receive from a close friend?",
@@ -1373,7 +1373,7 @@
     "evidence": [
       "D16:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When Evan get back from a vacation with his SO?",
@@ -1408,7 +1408,7 @@
     "evidence": [
       "D22:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What accidents has Evan's son faced lately?",

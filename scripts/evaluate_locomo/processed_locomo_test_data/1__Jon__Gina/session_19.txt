@@ -1,31 +1,73 @@
 A conversation between Jon and Gina. This conversation takes place on 2023-07-23T18:46:00.
 
 The specific content of the conversation is:
-dialogue_id: D19:1,  Jon: Hey Gina! We haven't talked in a few days. Been rehearsing hard and working on business plans. It's been stressful, but dancing has kept me going.
+dialogue_id: D19:1
+Jon: Hey Gina! We haven't talked in a few days. Been rehearsing hard and working on business plans. It's been stressful, but dancing has kept me going.
 
-dialogue_id: D19:2,  Gina: Hey Jon! Remember, just do it! You should get to the point where anyone else would quit and you're not going to stop there. No, what are you waiting for? Do it! Just do it!
 
-dialogue_id: D19:3,  Jon: Ha, ha! Thanks, Gina. Sounds familiar, who do those words belong to?
 
-dialogue_id: D19:4,  Gina: It's Shia Labeouf!
+dialogue_id: D19:2
+Gina: Hey Jon! Remember, just do it! You should get to the point where anyone else would quit and you're not going to stop there. No, what are you waiting for? Do it! Just do it!
 
-dialogue_id: D19:5,  Jon: Ahhahha, really!? Yea, that definitely him.
 
-dialogue_id: D19:6,  Gina: Hah, yeah!) But really having a creative space for dancers is so important. Last Friday at dance class with a group of friends I felt it. Your studio will be a go-to spot for self-expression. Keep up the good work and don't forget your passion for dance.
 
-dialogue_id: D19:7,  Jon: Thanks, Gina! Your words of encouragement keep me motivated. Can't wait 'til my studio starts welcoming dancers of all ages and backgrounds!
+dialogue_id: D19:3
+Jon: Ha, ha! Thanks, Gina. Sounds familiar, who do those words belong to?
 
-dialogue_id: D19:8,  Gina: I'm so happy to see my words motivating you, Jon. <3
 
-dialogue_id: D19:9,  Jon: Thanks a ton, Gina! Your help and encouragement mean a lot. Your support will help me make it happen.
 
-dialogue_id: D19:10,  Gina: You're welcome, Jon! I'm here to support you. Every step's getting you closer to your dream. Never give up! You're doing great.
+dialogue_id: D19:4
+Gina: It's Shia Labeouf!
 
-dialogue_id: D19:11,  Jon: Thanks, Gina! I won't quit. I'm gonna keep going, whatever comes my way.
 
-dialogue_id: D19:12,  Gina: Remember Jon, Just do it!
 
-dialogue_id: D19:13,  Jon: Ah ha ha, yeah, JUST DOING IT!
+dialogue_id: D19:5
+Jon: Ahhahha, really!? Yea, that definitely him.
 
-dialogue_id: D19:14,  Gina: That's the spirit! Bye!
+
+
+dialogue_id: D19:6
+Gina: Hah, yeah!) But really having a creative space for dancers is so important. Last Friday at dance class with a group of friends I felt it. Your studio will be a go-to spot for self-expression. Keep up the good work and don't forget your passion for dance.
+
+
+
+dialogue_id: D19:7
+Jon: Thanks, Gina! Your words of encouragement keep me motivated. Can't wait 'til my studio starts welcoming dancers of all ages and backgrounds!
+
+
+
+dialogue_id: D19:8
+Gina: I'm so happy to see my words motivating you, Jon. <3
+
+
+
+dialogue_id: D19:9
+Jon: Thanks a ton, Gina! Your help and encouragement mean a lot. Your support will help me make it happen.
+
+
+
+dialogue_id: D19:10
+Gina: You're welcome, Jon! I'm here to support you. Every step's getting you closer to your dream. Never give up! You're doing great.
+
+
+
+dialogue_id: D19:11
+Jon: Thanks, Gina! I won't quit. I'm gonna keep going, whatever comes my way.
+
+
+
+dialogue_id: D19:12
+Gina: Remember Jon, Just do it!
+
+
+
+dialogue_id: D19:13
+Jon: Ah ha ha, yeah, JUST DOING IT!
+
+
+
+dialogue_id: D19:14
+Gina: That's the spirit! Bye!
+
+
 

@@ -1,37 +1,85 @@
 A conversation between Jon and Gina. This conversation takes place on 2023-01-29T14:32:00.
 
 The specific content of the conversation is:
-dialogue_id: D2:1,  Gina: Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!
+dialogue_id: D2:1
+Gina: Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!
 
-dialogue_id: D2:2,  Jon: Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.
 
-dialogue_id: D2:3,  Gina: Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?
 
-dialogue_id: D2:4,  Jon: <image_message>Jon send an image.
+dialogue_id: D2:2
+Jon: Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.
+
+
+
+dialogue_id: D2:3
+Gina: Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?
+
+
+
+dialogue_id: D2:4
+Jon: <image_message>Jon send an image.
 Image description: dance studio natural lighting spacious room large windows dance mirrors
 a photo of a bathroom with a blue floor and a pink wall</image_message> Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool.
 
-dialogue_id: D2:5,  Gina: Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once.
 
-dialogue_id: D2:6,  Jon: It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.
 
-dialogue_id: D2:7,  Gina: Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?
+dialogue_id: D2:5
+Gina: Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once.
 
-dialogue_id: D2:8,  Jon: Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean.
 
-dialogue_id: D2:9,  Gina: Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!
 
-dialogue_id: D2:10,  Jon: Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!
+dialogue_id: D2:6
+Jon: It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.
 
-dialogue_id: D2:11,  Gina: Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!
 
-dialogue_id: D2:12,  Jon: Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!
 
-dialogue_id: D2:13,  Gina: Thanks, Jon! Appreciate your support!
+dialogue_id: D2:7
+Gina: Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?
 
-dialogue_id: D2:14,  Jon: Let's keep going and chase our dreams!
 
-dialogue_id: D2:15,  Gina: Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen.
 
-dialogue_id: D2:16,  Jon: Success is almost here. We got this!
+dialogue_id: D2:8
+Jon: Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean.
+
+
+
+dialogue_id: D2:9
+Gina: Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!
+
+
+
+dialogue_id: D2:10
+Jon: Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!
+
+
+
+dialogue_id: D2:11
+Gina: Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!
+
+
+
+dialogue_id: D2:12
+Jon: Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!
+
+
+
+dialogue_id: D2:13
+Gina: Thanks, Jon! Appreciate your support!
+
+
+
+dialogue_id: D2:14
+Jon: Let's keep going and chase our dreams!
+
+
+
+dialogue_id: D2:15
+Gina: Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen.
+
+
+
+dialogue_id: D2:16
+Jon: Success is almost here. We got this!
+
+
 

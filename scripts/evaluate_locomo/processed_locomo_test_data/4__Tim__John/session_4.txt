@@ -1,36 +1,81 @@
 A conversation between Tim and John. This conversation takes place on 2023-08-02T16:17:00.
 
 The specific content of the conversation is:
-dialogue_id: D4:1,  Tim: Hey John! How've you been? Something awesome happened - I'm writing articles about fantasy novels for an online mag. It's so rewarding!
+dialogue_id: D4:1
+Tim: Hey John! How've you been? Something awesome happened - I'm writing articles about fantasy novels for an online mag. It's so rewarding!
 
-dialogue_id: D4:2,  John: Hey Tim! Congrats on the opportunity to write about what you're into! How did it happen?
 
-dialogue_id: D4:3,  Tim: Thanks! I found this opportunity on a fantasy lit forum and thought it'd be perfect since I love fantasy. I shared my ideas with the magazine and they liked them! It's been awesome to spread my love of fantasy.
 
-dialogue_id: D4:4,  John: Congratulations! That's awesome. What kind of articles have you been writing?
+dialogue_id: D4:2
+John: Hey Tim! Congrats on the opportunity to write about what you're into! How did it happen?
 
-dialogue_id: D4:5,  Tim: Thanks! I've been writing about different fantasy novels, studying characters, themes, and making book recommendations.
 
-dialogue_id: D4:6,  John: Awesome! Must be so rewarding to delve into your books and chat about them. Do you have any favorite books you love writing about?
 
-dialogue_id: D4:7,  Tim: For sure! Harry Potter and Game of Thrones are amazing - I'm totally hooked! I could chat about them forever!
+dialogue_id: D4:3
+Tim: Thanks! I found this opportunity on a fantasy lit forum and thought it'd be perfect since I love fantasy. I shared my ideas with the magazine and they liked them! It's been awesome to spread my love of fantasy.
 
-dialogue_id: D4:8,  John: <image_message>John send an image.
+
+
+dialogue_id: D4:4
+John: Congratulations! That's awesome. What kind of articles have you been writing?
+
+
+
+dialogue_id: D4:5
+Tim: Thanks! I've been writing about different fantasy novels, studying characters, themes, and making book recommendations.
+
+
+
+dialogue_id: D4:6
+John: Awesome! Must be so rewarding to delve into your books and chat about them. Do you have any favorite books you love writing about?
+
+
+
+dialogue_id: D4:7
+Tim: For sure! Harry Potter and Game of Thrones are amazing - I'm totally hooked! I could chat about them forever!
+
+
+
+dialogue_id: D4:8
+John: <image_message>John send an image.
 Image description: harry potter signed book
 a photo of a book with a picture of a person holding a bookmark</image_message> Oh yeah, I remember you telling me about Harry Potter! I've got a funny story. Anthony and I went to this charity thing and ended up in this intense Harry Potter trivia contest. We did alright, but there was this one super-nerd there that took home this as a prize.
 
 
-dialogue_id: D4:9,  Tim: That looks great! The signature is sweet! Have you been reading anything?
 
-dialogue_id: D4:10,  John: I've been reading this inspiring book, it reminds me to keep dreaming.
 
-dialogue_id: D4:11,  Tim: Books can really inspire and help us keep our dreams alive. Keep it up!
+dialogue_id: D4:9
+Tim: That looks great! The signature is sweet! Have you been reading anything?
 
-dialogue_id: D4:12,  John: Thanks! They really do. I want to keep reaching for new goals.
 
-dialogue_id: D4:13,  Tim: Same here!
 
-dialogue_id: D4:14,  John: Have fun with your writing! Catch you later!
+dialogue_id: D4:10
+John: I've been reading this inspiring book, it reminds me to keep dreaming.
 
-dialogue_id: D4:15,  Tim: Thanks! I'll enjoy writing them. Take care and talk soon!
+
+
+dialogue_id: D4:11
+Tim: Books can really inspire and help us keep our dreams alive. Keep it up!
+
+
+
+dialogue_id: D4:12
+John: Thanks! They really do. I want to keep reaching for new goals.
+
+
+
+dialogue_id: D4:13
+Tim: Same here!
+
+
+
+dialogue_id: D4:14
+John: Have fun with your writing! Catch you later!
+
+
+
+dialogue_id: D4:15
+Tim: Thanks! I'll enjoy writing them. Take care and talk soon!
+
+
 

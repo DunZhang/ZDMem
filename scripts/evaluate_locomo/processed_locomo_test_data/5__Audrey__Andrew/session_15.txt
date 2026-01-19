@@ -1,53 +1,110 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-08-16T21:58:00.
 
 The specific content of the conversation is:
-dialogue_id: D15:1,  Audrey: <image_message>Audrey send an image.
+dialogue_id: D15:1
+Audrey: <image_message>Audrey send an image.
 Image description: tattoo four dogs arm
 a photo of a person with a tattoo on their hand</image_message> Hey Andrew, since we last spoke I got another tattoo of my four dogs on my arm! They really mean a lot to me so I thought it'd be nice to have them with me wherever I go. What've you been up to?
 
-dialogue_id: D15:2,  Andrew: Wow that's so cool! I recently went to a farm with my girlfriend to get some fresh veggies for dinner, and it was really nice. Have you been thinking about getting more fur babies or is four enough?
 
-dialogue_id: D15:3,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D15:2
+Andrew: Wow that's so cool! I recently went to a farm with my girlfriend to get some fresh veggies for dinner, and it was really nice. Have you been thinking about getting more fur babies or is four enough?
+
+
+
+dialogue_id: D15:3
+Audrey: <image_message>Audrey send an image.
 Image description: four dogs playing park
 a photography of a group of people walking with dogs in a park</image_message> Sounds great! I'd love to have more, but four is enough for now. They keep me busy and I want to make sure I give each of them the attention they deserve - four dogs is already a lot! I took them all to the vet and got them checked up, it was such a havoc that next time I'll bring them one by one.
 
-dialogue_id: D15:4,  Andrew: Oof, that vet trip must have been chaotic. Yeah I'm sure they keep you busy! That photo you shared was sweet - do they have a favorite spot to relax?
 
-dialogue_id: D15:5,  Audrey: Yeah, for sure. They each have their favorite spot to chill. Pepper loves lounging on the couch, Pixie always curls up in her bed, Precious has her chair, and Panda loves to relax on his rug! They all have their own little cozy spots.
 
-dialogue_id: D15:6,  Andrew: <image_message>Andrew send an image.
+dialogue_id: D15:4
+Andrew: Oof, that vet trip must have been chaotic. Yeah I'm sure they keep you busy! That photo you shared was sweet - do they have a favorite spot to relax?
+
+
+
+dialogue_id: D15:5
+Audrey: Yeah, for sure. They each have their favorite spot to chill. Pepper loves lounging on the couch, Pixie always curls up in her bed, Precious has her chair, and Panda loves to relax on his rug! They all have their own little cozy spots.
+
+
+
+dialogue_id: D15:6
+Andrew: <image_message>Andrew send an image.
 Image description: cozy dog bed blanket
 a photo of a dog laying on a fluffy blanket on the floor</image_message> That sounds adorable! Pets always find their own little spots and it brings so much joy and comfort. Here's Toby at his favorite spot.
 
-dialogue_id: D15:7,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D15:7
+Audrey: <image_message>Audrey send an image.
 Image description: pepper pixie dogs cuddling fluffy blanket
 a photography of two dogs laying on a blanket on a couch</image_message> Yeah, they sure know how to get comfy! Here's a pic of them snuggling on my favorite blanket.
 
-dialogue_id: D15:8,  Andrew: Aww, they're so adorable! They look so cozy. Do they always sleep like that?
 
-dialogue_id: D15:9,  Audrey: Yeah, they always sleep like that. They cuddle up together, especially when it's time to nap. They really are best friends.
 
-dialogue_id: D15:10,  Andrew: Wow that's awesome! It must be great having furry friends to keep each other company.
+dialogue_id: D15:8
+Andrew: Aww, they're so adorable! They look so cozy. Do they always sleep like that?
 
-dialogue_id: D15:11,  Audrey: Yeah, they're always there for each other. Seeing them together makes me so happy.
 
-dialogue_id: D15:12,  Andrew: That sounds wonderful. No wonder it brings you so much happiness to have them around!
 
-dialogue_id: D15:13,  Audrey: Yeah they mean the world to me, so I can't imagine life without them.
+dialogue_id: D15:9
+Audrey: Yeah, they always sleep like that. They cuddle up together, especially when it's time to nap. They really are best friends.
 
-dialogue_id: D15:14,  Andrew: <image_message>Andrew send an image.
+
+
+dialogue_id: D15:10
+Andrew: Wow that's awesome! It must be great having furry friends to keep each other company.
+
+
+
+dialogue_id: D15:11
+Audrey: Yeah, they're always there for each other. Seeing them together makes me so happy.
+
+
+
+dialogue_id: D15:12
+Andrew: That sounds wonderful. No wonder it brings you so much happiness to have them around!
+
+
+
+dialogue_id: D15:13
+Audrey: Yeah they mean the world to me, so I can't imagine life without them.
+
+
+
+dialogue_id: D15:14
+Andrew: <image_message>Andrew send an image.
 Image description: man hugging dog
 a photo of a man laying on a couch with a dog</image_message> Totally get it, pets bring such joy and feel like family. I can't imagine life without them.
 
-dialogue_id: D15:15,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D15:15
+Audrey: <image_message>Audrey send an image.
 Image description: person lying grass dogs
 a photography of a woman sitting in a field with two dogs</image_message> Yep, pets are family. It's so sweet to see the connection between them. Here's a photo of me lying on the grass with them.
 
-dialogue_id: D15:16,  Andrew: Wow, that's a great pic! Looks like you guys had a really good time outside.
 
-dialogue_id: D15:17,  Audrey: Oh yeah it was a great day - we had tons of fun outside.
 
-dialogue_id: D15:18,  Andrew: Glad you had a blast with them. Cherish those memories!
+dialogue_id: D15:16
+Andrew: Wow, that's a great pic! Looks like you guys had a really good time outside.
 
-dialogue_id: D15:19,  Audrey: Thanks! I'll always cherish those moments. They really make life so much brighter.
+
+
+dialogue_id: D15:17
+Audrey: Oh yeah it was a great day - we had tons of fun outside.
+
+
+
+dialogue_id: D15:18
+Andrew: Glad you had a blast with them. Cherish those memories!
+
+
+
+dialogue_id: D15:19
+Audrey: Thanks! I'll always cherish those moments. They really make life so much brighter.
+
+
 

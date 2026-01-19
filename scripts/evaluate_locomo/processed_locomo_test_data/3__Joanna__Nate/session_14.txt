@@ -1,57 +1,138 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-06-03T17:44:00.
 
 The specific content of the conversation is:
-dialogue_id: D14:1,  Joanna: Nate, after finishing my screenplay I got a rejection letter from a major company. It really bummed me out.
+dialogue_id: D14:1
+Joanna: Nate, after finishing my screenplay I got a rejection letter from a major company. It really bummed me out.
 
-dialogue_id: D14:2,  Nate: Sorry to hear that, Joanna. Rejection stinks, but it doesn't mean you're not talented. Don't give up on your dreams!
 
-dialogue_id: D14:3,  Joanna: Thanks, Nate. It can feel like a step back sometimes. But I appreciate your kind words and encouragement.
 
-dialogue_id: D14:4,  Nate: Sure, just make sure you keep going and believing in yourself. Did something happen with the company?
+dialogue_id: D14:2
+Nate: Sorry to hear that, Joanna. Rejection stinks, but it doesn't mean you're not talented. Don't give up on your dreams!
 
-dialogue_id: D14:5,  Joanna: They just sent me a generic rejection letter without much feedback. It's disheartening not knowing why it didn't work out.
 
-dialogue_id: D14:6,  Nate: Ugh, that's so frustrating. But don't get discouraged, just keep going.
 
-dialogue_id: D14:7,  Joanna: Yeah, you're right. I won't let this bring me down. Thanks for your support. What have you been up to lately?
+dialogue_id: D14:3
+Joanna: Thanks, Nate. It can feel like a step back sometimes. But I appreciate your kind words and encouragement.
 
-dialogue_id: D14:8,  Nate: I've been doing great - I just won another regional video game tournament last week! It was so cool, plus I met some new people. Connecting with fellow gamers is always awesome.
 
-dialogue_id: D14:9,  Joanna: Way to go, Nate! Congratulations on your victory in the tournament! It must feel great to be recognized for your gaming skills.
 
-dialogue_id: D14:10,  Nate: Thanks, Joanna! Winning was a huge confidence boost and shows my hard work paid off. I'm really happy with my progress.
+dialogue_id: D14:4
+Nate: Sure, just make sure you keep going and believing in yourself. Did something happen with the company?
 
-dialogue_id: D14:11,  Joanna: I am as well! It's great to hear from you about your tournaments throughout the years!
 
-dialogue_id: D14:12,  Nate: Thanks! I has been a while since my first tournament hasn't it? I appreciate your support!
 
-dialogue_id: D14:13,  Joanna: Anytime Nate! I'm here for you every step of the way.
+dialogue_id: D14:5
+Joanna: They just sent me a generic rejection letter without much feedback. It's disheartening not knowing why it didn't work out.
 
-dialogue_id: D14:14,  Nate: I talked to some of the guys at the tournament afterwards, and they said they wanted to hang out later!
 
-dialogue_id: D14:15,  Joanna: Sounds like fun! It's good to have friends that share your interests!
 
-dialogue_id: D14:16,  Nate: For sure! They asked for some tips in how to improve their game, so I said I could help.
+dialogue_id: D14:6
+Nate: Ugh, that's so frustrating. But don't get discouraged, just keep going.
 
-dialogue_id: D14:17,  Joanna: Good on you for helping strangers out! Stepping outside your comfort zone is always great.
 
-dialogue_id: D14:18,  Nate: Thanks, I just like helping people. Do you have any plans for the weekend?
 
-dialogue_id: D14:19,  Joanna: Yep, I'm hiking with some buddies this weekend. We're checking out a new trail with a rad waterfall. Can't wait! Do you have any fun plans?
+dialogue_id: D14:7
+Joanna: Yeah, you're right. I won't let this bring me down. Thanks for your support. What have you been up to lately?
 
-dialogue_id: D14:20,  Nate: Sounds great! Have fun with that. I'm organizing a gaming party two weekends later - it'll be hectic but fun!
 
-dialogue_id: D14:21,  Joanna: Oh? Are you going to invite your tournament friends?
 
-dialogue_id: D14:22,  Nate: Definitely! And some old friends and teamates from other tournaments.
+dialogue_id: D14:8
+Nate: I've been doing great - I just won another regional video game tournament last week! It was so cool, plus I met some new people. Connecting with fellow gamers is always awesome.
 
-dialogue_id: D14:23,  Joanna: Sounds like fun, Nate! I wish you the best on your party. Have a blast!
 
-dialogue_id: D14:24,  Nate: Thanks Joanna! I'm sure it'll be a blast. I'm even getting everyone custom controller decorations just for coming!
 
-dialogue_id: D14:25,  Joanna: Wow, I bet they'll love that! What a sweet idea.
+dialogue_id: D14:9
+Joanna: Way to go, Nate! Congratulations on your victory in the tournament! It must feel great to be recognized for your gaming skills.
 
-dialogue_id: D14:26,  Nate: I know right? Have a great hike. Take lots of pics! See ya later!
 
-dialogue_id: D14:27,  Joanna: Thanks Nate! See you later!
+
+dialogue_id: D14:10
+Nate: Thanks, Joanna! Winning was a huge confidence boost and shows my hard work paid off. I'm really happy with my progress.
+
+
+
+dialogue_id: D14:11
+Joanna: I am as well! It's great to hear from you about your tournaments throughout the years!
+
+
+
+dialogue_id: D14:12
+Nate: Thanks! I has been a while since my first tournament hasn't it? I appreciate your support!
+
+
+
+dialogue_id: D14:13
+Joanna: Anytime Nate! I'm here for you every step of the way.
+
+
+
+dialogue_id: D14:14
+Nate: I talked to some of the guys at the tournament afterwards, and they said they wanted to hang out later!
+
+
+
+dialogue_id: D14:15
+Joanna: Sounds like fun! It's good to have friends that share your interests!
+
+
+
+dialogue_id: D14:16
+Nate: For sure! They asked for some tips in how to improve their game, so I said I could help.
+
+
+
+dialogue_id: D14:17
+Joanna: Good on you for helping strangers out! Stepping outside your comfort zone is always great.
+
+
+
+dialogue_id: D14:18
+Nate: Thanks, I just like helping people. Do you have any plans for the weekend?
+
+
+
+dialogue_id: D14:19
+Joanna: Yep, I'm hiking with some buddies this weekend. We're checking out a new trail with a rad waterfall. Can't wait! Do you have any fun plans?
+
+
+
+dialogue_id: D14:20
+Nate: Sounds great! Have fun with that. I'm organizing a gaming party two weekends later - it'll be hectic but fun!
+
+
+
+dialogue_id: D14:21
+Joanna: Oh? Are you going to invite your tournament friends?
+
+
+
+dialogue_id: D14:22
+Nate: Definitely! And some old friends and teamates from other tournaments.
+
+
+
+dialogue_id: D14:23
+Joanna: Sounds like fun, Nate! I wish you the best on your party. Have a blast!
+
+
+
+dialogue_id: D14:24
+Nate: Thanks Joanna! I'm sure it'll be a blast. I'm even getting everyone custom controller decorations just for coming!
+
+
+
+dialogue_id: D14:25
+Joanna: Wow, I bet they'll love that! What a sweet idea.
+
+
+
+dialogue_id: D14:26
+Nate: I know right? Have a great hike. Take lots of pics! See ya later!
+
+
+
+dialogue_id: D14:27
+Joanna: Thanks Nate! See you later!
+
+
 

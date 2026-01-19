@@ -1,75 +1,165 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-09-15T15:09:00.
 
 The specific content of the conversation is:
-dialogue_id: D28:1,  Deborah: Since speaking last, I reconnected with my mom's old friends. Their stories made me tear up and reminded me how lucky I am to have had her.
+dialogue_id: D28:1
+Deborah: Since speaking last, I reconnected with my mom's old friends. Their stories made me tear up and reminded me how lucky I am to have had her.
 
-dialogue_id: D28:2,  Jolene:  It's great that you could reconnect with them. Hearing stories about our loved ones can be tough but also comforting.
 
-dialogue_id: D28:3,  Deborah: Hearing stories about my mom was emotional. It was both happy and sad to hear things I hadn't heard before. It was a mix of emotions, but overall it was comforting to reconnect with her friends.
 
-dialogue_id: D28:4,  Jolene: It can bring up a range of emotions, and it's okay to feel a mix of happiness and sadness. Those moments with her friends must've been meaningful to you.
+dialogue_id: D28:2
+Jolene:  It's great that you could reconnect with them. Hearing stories about our loved ones can be tough but also comforting.
 
-dialogue_id: D28:5,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D28:3
+Deborah: Hearing stories about my mom was emotional. It was both happy and sad to hear things I hadn't heard before. It was a mix of emotions, but overall it was comforting to reconnect with her friends.
+
+
+
+dialogue_id: D28:4
+Jolene: It can bring up a range of emotions, and it's okay to feel a mix of happiness and sadness. Those moments with her friends must've been meaningful to you.
+
+
+
+dialogue_id: D28:5
+Deborah: <image_message>Deborah send an image.
 Image description: photo mother friends
 a photo of two women in pajamas taking a selfie in a mirror</image_message> Wow, it was so special. A glimpse into her life beyond what I knew. Through their eyes, I appreciate her more. Here I am and my mom.
 
-dialogue_id: D28:6,  Jolene: That looks like a blast! What did you and your mom's friends do on that day?
 
-dialogue_id: D28:7,  Deborah: We reminisced and looked through her photos. It was really sweet.
 
-dialogue_id: D28:8,  Jolene: Looking at old photos must have been so nostalgic! It's great that you could share that experience with friends. It's amazing how photos and memories can give us a deeper appreciation for the people we love.
+dialogue_id: D28:6
+Jolene: That looks like a blast! What did you and your mom's friends do on that day?
 
-dialogue_id: D28:9,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D28:7
+Deborah: We reminisced and looked through her photos. It was really sweet.
+
+
+
+dialogue_id: D28:8
+Jolene: Looking at old photos must have been so nostalgic! It's great that you could share that experience with friends. It's amazing how photos and memories can give us a deeper appreciation for the people we love.
+
+
+
+dialogue_id: D28:9
+Deborah: <image_message>Deborah send an image.
 Image description: sunset beach
 a photo of a person walking on the beach with a surfboard</image_message> Pictures really have a way of bringing back memories and making us appreciate the special bond we have with our loved ones. They remind me of how strong love is and how amazing human relationships can be. Just like this one.
 
-dialogue_id: D28:10,  Jolene: Wow, what a gorgeous pic! Do you have any special memories of that beach or just love surfing in general?
 
-dialogue_id: D28:11,  Deborah: That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.
 
-dialogue_id: D28:12,  Jolene: What pleasant memories.
+dialogue_id: D28:10
+Jolene: Wow, what a gorgeous pic! Do you have any special memories of that beach or just love surfing in general?
 
-dialogue_id: D28:13,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D28:11
+Deborah: That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.
+
+
+
+dialogue_id: D28:12
+Jolene: What pleasant memories.
+
+
+
+dialogue_id: D28:13
+Deborah: <image_message>Deborah send an image.
 Image description: surfing yoga beach
 a photo of a woman doing a yoga pose on the beach</image_message> Here is another photo from my classes.
 
-dialogue_id: D28:14,  Jolene: Wow, that yoga pose looks amazing! Does it help you relax?
 
-dialogue_id: D28:15,  Deborah: Oh yeah! Doing this on the beach is so peaceful - the ocean, sand, and fresh air create a super relaxing atmosphere. The perfect way to take care of myself.
 
-dialogue_id: D28:16,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D28:14
+Jolene: Wow, that yoga pose looks amazing! Does it help you relax?
+
+
+
+dialogue_id: D28:15
+Deborah: Oh yeah! Doing this on the beach is so peaceful - the ocean, sand, and fresh air create a super relaxing atmosphere. The perfect way to take care of myself.
+
+
+
+dialogue_id: D28:16
+Jolene: <image_message>Jolene send an image.
 Image description: meditation mat candles essential oils
 a photography of a couple of towels sitting on top of a table</image_message>  I like to create my own serene yoga space with candles and oils for extra chill vibes. Also, we tried a new style of meditation in Thailand - with flowers.
 
-dialogue_id: D28:17,  Deborah: Oh, same for me!
 
-dialogue_id: D28:18,  Jolene: I find calm when I do yoga or meditate. I use essential oils and put on some soft, soothing music in the background to create a peaceful atmosphere. It really helps me chill out and center myself.
 
-dialogue_id: D28:19,  Deborah:  It's amazing how our environment can enhance our practice.
+dialogue_id: D28:17
+Deborah: Oh, same for me!
 
-dialogue_id: D28:20,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D28:18
+Jolene: I find calm when I do yoga or meditate. I use essential oils and put on some soft, soothing music in the background to create a peaceful atmosphere. It really helps me chill out and center myself.
+
+
+
+dialogue_id: D28:19
+Deborah:  It's amazing how our environment can enhance our practice.
+
+
+
+dialogue_id: D28:20
+Jolene: <image_message>Jolene send an image.
 Image description: cozy corner yoga mat cushions small plant
 a photo of a bed with a colorful blanket and pillows</image_message> Yeah, totally! Our surroundings can really affect our mood and how much zen we can get from our routine. Creating a place that feels safe and chill is key.
 
-dialogue_id: D28:21,  Deborah: Wow, that looks so comfy and inviting! Where do you usually go to relax in your house?
 
-dialogue_id: D28:22,  Jolene: In my room, I usually go to relax and feel at ease. After a busy day, it's my little haven for peace and rest - the perfect spot to relax and recharge.
 
-dialogue_id: D28:23,  Deborah: Sounds like your room does the job. That's awesome.
+dialogue_id: D28:21
+Deborah: Wow, that looks so comfy and inviting! Where do you usually go to relax in your house?
 
-dialogue_id: D28:24,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D28:22
+Jolene: In my room, I usually go to relax and feel at ease. After a busy day, it's my little haven for peace and rest - the perfect spot to relax and recharge.
+
+
+
+dialogue_id: D28:23
+Deborah: Sounds like your room does the job. That's awesome.
+
+
+
+dialogue_id: D28:24
+Jolene: <image_message>Jolene send an image.
 Image description: pet snake curled up branch
 a photo of a person holding a snake in a container</image_message>  Here are my pals keeping me company.
 
-dialogue_id: D28:25,  Deborah: Hey, that's Susie or Seraphim? How long has he been hanging out with you?
 
-dialogue_id: D28:26,  Jolene: It`s Susie! I've had her for two years now. 
 
-dialogue_id: D28:27,  Deborah: It's awesome how pets can bring us comfort and peace when we need it.
+dialogue_id: D28:25
+Deborah: Hey, that's Susie or Seraphim? How long has he been hanging out with you?
 
-dialogue_id: D28:28,  Jolene: Susie is a great companion.
 
-dialogue_id: D28:29,  Deborah: The love pets give is priceless.
 
-dialogue_id: D28:30,  Jolene: Plus, they make life a lot brighter!
+dialogue_id: D28:26
+Jolene: It`s Susie! I've had her for two years now. 
+
+
+
+dialogue_id: D28:27
+Deborah: It's awesome how pets can bring us comfort and peace when we need it.
+
+
+
+dialogue_id: D28:28
+Jolene: Susie is a great companion.
+
+
+
+dialogue_id: D28:29
+Deborah: The love pets give is priceless.
+
+
+
+dialogue_id: D28:30
+Jolene: Plus, they make life a lot brighter!
+
+
 

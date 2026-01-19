@@ -16,7 +16,7 @@ CATEGORY2STR = {
     1: "Multi-hop",
     2: "Temporal",
     3: "Open-domain",
-    4: " Single-hop"
+    4: "Single-hop"
 }
 
 
@@ -98,24 +98,40 @@ def process_locomo_data(locomo_conv_path: str, save_dir: str):
             random.shuffle(qa)
             json.dump(qa, fw, indent=2, ensure_ascii=False)
 
+        # 先收集所有session信息
+        sessions = []
         for sess_id in range(1, 9999999999):
             if not conversation.get(f"session_{sess_id}_date_time") or not conversation.get(f"session_{sess_id}"):
-                # 这代表可以结束了
                 break
-            # 开始给这段对话生成Dialogue信息
             session_time = parse_date_string(conversation.get(f"session_{sess_id}_date_time"))
+            sessions.append({
+                "session_time": session_time,
+                "messages": conversation.get(f"session_{sess_id}")
+            })
+
+        # 按session_time升序排序
+        sessions.sort(key=lambda x: x["session_time"])
+
+        # 生成文件和dial_id2content
+        dial_id2content = {}
+        for new_sess_id, session in enumerate(sessions, start=1):
+            session_time = session["session_time"]
             dialogue_string = (f"A conversation between {speaker_a} and {speaker_b}. "
                                f"This conversation takes place on {session_time.isoformat(timespec='seconds')}."
                                f"\n\nThe specific content of the conversation is:\n")
 
-            for message in conversation.get(f"session_{sess_id}"):
+            for message in session["messages"]:
                 role = message["speaker"]
                 dia_id = message["dia_id"]
                 content = message_to_string(message)
-                dialogue_string += f"dialogue_id: {dia_id},  {role}: {content}\n\n"
+                dialogue_string += f"dialogue_id: {dia_id}\n{role}: {content}\n\n\n\n"
+                dial_id2content[dia_id] = f"{session_time.isoformat(timespec='seconds')},\t{role}: {content}"
 
-            with open(join(user_save_dir, f"session_{sess_id}.txt"), "w", encoding="utf8") as fw:
+            with open(join(user_save_dir, f"session_{new_sess_id}.txt"), "w", encoding="utf8") as fw:
                 fw.writelines(dialogue_string)
+
+        with open(join(user_save_dir, "dial_id2content.json"), "w", encoding="utf8") as fw:
+            json.dump(dial_id2content, fw, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":

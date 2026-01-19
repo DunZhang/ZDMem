@@ -5,7 +5,7 @@
     "evidence": [
       "D13:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Jon decide to start his dance studio?",
@@ -14,7 +14,7 @@
       "D1:2",
       "D1:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Gina get her tattoo?",
@@ -31,7 +31,7 @@
       "D1:7",
       "D1:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Gina say about the dancers in the photo?",
@@ -39,7 +39,7 @@
     "evidence": [
       "D1:26"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When Jon is planning to open his dance studio?",
@@ -63,7 +63,7 @@
     "evidence": [
       "D15:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Jon's dance studio offer?",
@@ -88,7 +88,7 @@
     "evidence": [
       "D3:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Gina interview for a design internship?",
@@ -104,7 +104,7 @@
     "evidence": [
       "D9:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "According to Gina, what makes Jon a perfect mentor and guide?",
@@ -112,7 +112,7 @@
     "evidence": [
       "D17:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Jon's favorite style of dance?",
@@ -120,7 +120,7 @@
     "evidence": [
       "D1:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the general sentiment about the upcoming grand opening?",
@@ -129,7 +129,7 @@
       "D15:18",
       "D15:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What offer does Gina make to Jon regarding social media?",
@@ -137,7 +137,7 @@
     "evidence": [
       "D18:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Gina make a limited edition line of?",
@@ -145,7 +145,7 @@
     "evidence": [
       "D16:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Jon say about creating a special experience for customers?",
@@ -153,7 +153,7 @@
     "evidence": [
       "D3:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon start reading \"The Lean Startup\"?",
@@ -169,7 +169,7 @@
     "evidence": [
       "D3:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon go to a fair to get more exposure for his dance studio?",
@@ -201,7 +201,7 @@
     "evidence": [
       "D1:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Jon tell Gina he won't do?",
@@ -209,7 +209,7 @@
     "evidence": [
       "D14:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which city have both Jean and John visited?",
@@ -226,7 +226,7 @@
     "evidence": [
       "D15:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Gina promote her clothes store?",
@@ -246,7 +246,7 @@
       "D6:15",
       "D6:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What Jon thinks the ideal dance studio should look like?",
@@ -264,7 +264,7 @@
     "evidence": [
       "D8:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Gina describe the studio that Jon has opened?",
@@ -272,7 +272,7 @@
     "evidence": [
       "D15:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Jon's attitude towards being part of the dance festival?",
@@ -280,7 +280,7 @@
     "evidence": [
       "D1:28"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Do Jon and Gina start businesses out of what they love?",
@@ -306,7 +306,7 @@
     "evidence": [
       "D8:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Gina's favorite style of dance?",
@@ -314,7 +314,7 @@
     "evidence": [
       "D1:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Gina develop a video presentation to teach how to style her fashion pieces? ",
@@ -330,7 +330,7 @@
     "evidence": [
       "D18:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon start learning marketing and analytics tools?",
@@ -363,7 +363,7 @@
     "evidence": [
       "D15:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon visit networking events for his store?",
@@ -379,7 +379,7 @@
     "evidence": [
       "D3:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Did Jon and Gina both participate in dance competitions?",
@@ -407,7 +407,7 @@
     "evidence": [
       "D1:25"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which events has Jon participated in to promote his business venture?",
@@ -425,7 +425,7 @@
     "evidence": [
       "D12:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Gina say to Jon about the grand opening?",
@@ -433,7 +433,7 @@
     "evidence": [
       "D15:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was Gina's favorite dancing memory?",
@@ -441,7 +441,7 @@
     "evidence": [
       "D1:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How is Gina's store doing?",
@@ -449,7 +449,7 @@
     "evidence": [
       "D4:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Jon offering to the dancers at his dance studio?",
@@ -457,7 +457,7 @@
     "evidence": [
       "D13:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When Gina has lost her job at Door Dash?",
@@ -481,7 +481,7 @@
     "evidence": [
       "D12:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When is Jon's group performing at a festival?",
@@ -513,7 +513,7 @@
     "evidence": [
       "D3:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of flooring is Jon looking for in his dance studio?",
@@ -521,7 +521,7 @@
     "evidence": [
       "D2:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Gina start being recognized by fashion editors?",
@@ -537,7 +537,7 @@
     "evidence": [
       "D15:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When Jon has lost his job as a banker?",
@@ -553,7 +553,7 @@
     "evidence": [
       "D5:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Gina want her customers to feel in her store?",
@@ -562,7 +562,7 @@
       "D3:6",
       "D3:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What do Jon and Gina both have in common?",
@@ -581,7 +581,7 @@
     "evidence": [
       "D10:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon start to go to the gym?",
@@ -605,7 +605,7 @@
     "evidence": [
       "D3:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Jon's dance make him?",
@@ -613,7 +613,7 @@
     "evidence": [
       "D9:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What advice does Gina give to Jon about running a successful business?",
@@ -621,7 +621,7 @@
     "evidence": [
       "D7:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of professional experience did Gina get accepted for on May 23, 2023?",
@@ -629,7 +629,7 @@
     "evidence": [
       "D12:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Jon host a dance competition?",
@@ -661,7 +661,7 @@
     "evidence": [
       "D15:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Gina decide to start her own clothing store?",

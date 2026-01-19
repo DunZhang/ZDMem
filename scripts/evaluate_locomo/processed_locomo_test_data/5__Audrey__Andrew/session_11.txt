@@ -1,99 +1,213 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-07-08T09:48:00.
 
 The specific content of the conversation is:
-dialogue_id: D11:1,  Andrew: <image_message>Andrew send an image.
+dialogue_id: D11:1
+Andrew: <image_message>Andrew send an image.
 Image description: picnic friends renovated park
 a photo of a picnic table with a variety of snacks and drinks</image_message> Hey how's it going? Last Friday was amazing - I had a picnic with my girlfriend and it was so much fun! Being in the nature can be so refreshing and it always brings me joy. 
 
-dialogue_id: D11:2,  Audrey: Wow sounds like the picnic was awesome! Yeah being in the nature is so nice. My furry friends always make me happy. We had a great walk the other day - felt really good!
 
-dialogue_id: D11:3,  Andrew: <image_message>Andrew send an image.
+
+dialogue_id: D11:2
+Audrey: Wow sounds like the picnic was awesome! Yeah being in the nature is so nice. My furry friends always make me happy. We had a great walk the other day - felt really good!
+
+
+
+dialogue_id: D11:3
+Andrew: <image_message>Andrew send an image.
 Image description: dog park dogs playing
 a photo of a dog wearing a sweater sitting in the grass</image_message> That's awesome! Dogs really make life more fun doesn't it. I wish I could get one, but like I said, it's tough to find a place and find the right dog. How did you get yours?
 
-dialogue_id: D11:4,  Audrey: Thanks! I got lucky finding a breeder nearby that has the dogs I wanted. Yeah places that allows dogs are really hard to find unfortunately .
 
-dialogue_id: D11:5,  Andrew: <image_message>Andrew send an image.
+
+dialogue_id: D11:4
+Audrey: Thanks! I got lucky finding a breeder nearby that has the dogs I wanted. Yeah places that allows dogs are really hard to find unfortunately .
+
+
+
+dialogue_id: D11:5
+Andrew: <image_message>Andrew send an image.
 Image description: dog-friendly park city screenshot
 a photo of a group of dogs running around a park</image_message> Yeah it's tough. I found a few parks where you can take your pup on a leash, but it's not the same as having an open area where they can run and play. If I find something, I'll let you know. 
 
-dialogue_id: D11:6,  Audrey: Cool, I should join you for a hike and bring my dogs. It would be great to have a chance where they can run freely.
 
-dialogue_id: D11:7,  Andrew: <image_message>Andrew send an image.
+
+dialogue_id: D11:6
+Audrey: Cool, I should join you for a hike and bring my dogs. It would be great to have a chance where they can run freely.
+
+
+
+dialogue_id: D11:7
+Andrew: <image_message>Andrew send an image.
 Image description: hiking trail beautiful view
 a photo of a woman walking up a steep hill with a view of the ocean</image_message> Yeah definitely ! I'm down for a hike with you and your furry friends. Let's do it next month when the weather is more pleasant. Here's the trail that I think it'd be great for the dogs.
 
-dialogue_id: D11:8,  Audrey: That'd be awesome! I can't wait to take them hiking. Fingers crossed we find a spot with a great view and lots of room for them to explore and have a blast.
 
-dialogue_id: D11:9,  Andrew: <image_message>Andrew send an image.
+
+dialogue_id: D11:8
+Audrey: That'd be awesome! I can't wait to take them hiking. Fingers crossed we find a spot with a great view and lots of room for them to explore and have a blast.
+
+
+
+dialogue_id: D11:9
+Andrew: <image_message>Andrew send an image.
 Image description: hiking trails map perfect spot
 a photo of a map of a park with a lot of trees</image_message> Looking forward to seeing them have fun hiking. Let's get planning for next month! Here's the map for the trail.
 
-dialogue_id: D11:10,  Audrey: Yep! I'm gonna look into the trail for my furry friend to run around.
 
-dialogue_id: D11:11,  Andrew: Sounds good! Let's make sure the trail is safe for the dogs to run around and have fun.
 
-dialogue_id: D11:12,  Audrey: Yep! After all safety is top priority when the dogs are outside running around.
+dialogue_id: D11:10
+Audrey: Yep! I'm gonna look into the trail for my furry friend to run around.
 
-dialogue_id: D11:13,  Andrew: Agreed! It's going to be a great with the dogs!
 
-dialogue_id: D11:14,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D11:11
+Andrew: Sounds good! Let's make sure the trail is safe for the dogs to run around and have fun.
+
+
+
+dialogue_id: D11:12
+Audrey: Yep! After all safety is top priority when the dogs are outside running around.
+
+
+
+dialogue_id: D11:13
+Andrew: Agreed! It's going to be a great with the dogs!
+
+
+
+dialogue_id: D11:14
+Audrey: <image_message>Audrey send an image.
 Image description: four dogs sitting at door
 a photo of three dogs sitting on the floor with leashes</image_message> Yup! Btw, there's going to be some cool stuff happening today.
 
-dialogue_id: D11:15,  Andrew: Woah! They look so cute! What is going on here? They look ready for an adventure.
 
-dialogue_id: D11:16,  Audrey: Haha yeah! They're all set for their next outdoor adventure!
 
-dialogue_id: D11:17,  Andrew: Aw man, can't wait to meet them! They seem like a blast!
+dialogue_id: D11:15
+Andrew: Woah! They look so cute! What is going on here? They look ready for an adventure.
 
-dialogue_id: D11:18,  Audrey: Yeah, they definitely do! They really are a lot of fun.
 
-dialogue_id: D11:19,  Andrew: Oh I'm sure, dogs definitely add lots of fun to our daily life.
 
-dialogue_id: D11:20,  Audrey: <image_message>Audrey send an image.
+dialogue_id: D11:16
+Audrey: Haha yeah! They're all set for their next outdoor adventure!
+
+
+
+dialogue_id: D11:17
+Andrew: Aw man, can't wait to meet them! They seem like a blast!
+
+
+
+dialogue_id: D11:18
+Audrey: Yeah, they definitely do! They really are a lot of fun.
+
+
+
+dialogue_id: D11:19
+Andrew: Oh I'm sure, dogs definitely add lots of fun to our daily life.
+
+
+
+dialogue_id: D11:20
+Audrey: <image_message>Audrey send an image.
 Image description: dogs playing park
 a photo of two dogs running in a field with a ball in their mouth</image_message> Yep! They bring me so much joy. Can't get bored at all.
 
-dialogue_id: D11:21,  Andrew: Aww, they look adorable playing in the park! Seeing them have so much fun must be so rewarding.
 
-dialogue_id: D11:22,  Audrey: Yeah it sure does. Seeing them so happy and bouncy makes me really happy.
 
-dialogue_id: D11:23,  Andrew: Yep, they're so happy it's contagious. It makes me happy just by looking at the photos.
+dialogue_id: D11:21
+Andrew: Aww, they look adorable playing in the park! Seeing them have so much fun must be so rewarding.
 
-dialogue_id: D11:24,  Audrey: Haha that's great! They're so full of energy, always bringing a smile to my face!
 
-dialogue_id: D11:25,  Andrew: They make everyone smile. Can't wait to go hiking with them!
 
-dialogue_id: D11:26,  Audrey: Yep! It'll be great to see them enjoy themselves on the hike!
+dialogue_id: D11:22
+Audrey: Yeah it sure does. Seeing them so happy and bouncy makes me really happy.
 
-dialogue_id: D11:27,  Andrew: Yep! I can't wait to see them have fun on the hike. Super excited!
 
-dialogue_id: D11:28,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D11:23
+Andrew: Yep, they're so happy it's contagious. It makes me happy just by looking at the photos.
+
+
+
+dialogue_id: D11:24
+Audrey: Haha that's great! They're so full of energy, always bringing a smile to my face!
+
+
+
+dialogue_id: D11:25
+Andrew: They make everyone smile. Can't wait to go hiking with them!
+
+
+
+dialogue_id: D11:26
+Audrey: Yep! It'll be great to see them enjoy themselves on the hike!
+
+
+
+dialogue_id: D11:27
+Andrew: Yep! I can't wait to see them have fun on the hike. Super excited!
+
+
+
+dialogue_id: D11:28
+Audrey: <image_message>Audrey send an image.
 Image description: hiking dogs running field
 a photography of a dog playing with a group of other dogs</image_message> I'm 100% sure that it's gonna be a great day! Just take a look how happy my dogs are just at out local park.
 
-dialogue_id: D11:29,  Andrew: Aww look at them, so cute! It'll definitely be a great day! I love being outdoors and seeing others enjoy it too.
 
-dialogue_id: D11:30,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D11:29
+Andrew: Aww look at them, so cute! It'll definitely be a great day! I love being outdoors and seeing others enjoy it too.
+
+
+
+dialogue_id: D11:30
+Audrey: <image_message>Audrey send an image.
 Image description: sunset mountain hiking trip last year
 a photo of a person standing on a mountain with a view of the sky</image_message> Yeah! Being outside and seeing people happy is awesome. Here's a pic from a hike last year. Such a pretty sunset!
 
-dialogue_id: D11:31,  Andrew: Wow, that's stunning! Mind telling me where this is? 
 
-dialogue_id: D11:32,  Audrey: I hiked this last year! It was a 3 hour drive from me and the sunset was amazing!
 
-dialogue_id: D11:33,  Andrew: Nice! That sunset with the view is amazing, especially with nature around.
+dialogue_id: D11:31
+Andrew: Wow, that's stunning! Mind telling me where this is? 
 
-dialogue_id: D11:34,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D11:32
+Audrey: I hiked this last year! It was a 3 hour drive from me and the sunset was amazing!
+
+
+
+dialogue_id: D11:33
+Andrew: Nice! That sunset with the view is amazing, especially with nature around.
+
+
+
+dialogue_id: D11:34
+Audrey: <image_message>Audrey send an image.
 Image description: sunset mountain peak
 a photo of a view of a lake and mountains at sunset</image_message> It was a beautiful moment indeed! The colors were so vibrant, and it felt so peaceful. I'm so grateful for moments like these that remind me of the beauty of nature and to appreciate the small things.
 
-dialogue_id: D11:35,  Andrew: Yeah! It's incredible how nature can have such awesome surprises.
 
-dialogue_id: D11:36,  Audrey: Nature really has awesome surprises. All those vibrant colors gives me that feeling of peace - it's breathtaking!
 
-dialogue_id: D11:37,  Andrew: Yeah! It is stunning! Life's pretty awesome when we take time to appreciate these moments right?
+dialogue_id: D11:35
+Andrew: Yeah! It's incredible how nature can have such awesome surprises.
 
-dialogue_id: D11:38,  Audrey: Yep, taking a second to appreciate those moments makes like much better!
+
+
+dialogue_id: D11:36
+Audrey: Nature really has awesome surprises. All those vibrant colors gives me that feeling of peace - it's breathtaking!
+
+
+
+dialogue_id: D11:37
+Andrew: Yeah! It is stunning! Life's pretty awesome when we take time to appreciate these moments right?
+
+
+
+dialogue_id: D11:38
+Audrey: Yep, taking a second to appreciate those moments makes like much better!
+
+
 

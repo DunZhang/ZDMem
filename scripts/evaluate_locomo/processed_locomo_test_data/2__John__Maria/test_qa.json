@@ -5,7 +5,7 @@
     "evidence": [
       "D22:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What important values does John want to teach his kids through adopting a rescue dog?",
@@ -13,7 +13,7 @@
     "evidence": [
       "D17:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John go on a camping trip with Max?",
@@ -29,7 +29,7 @@
     "evidence": [
       "D1:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did John decide to run for office again?",
@@ -37,7 +37,7 @@
     "evidence": [
       "D7:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What areas of the U.S. has John been to or is planning to go to?",
@@ -54,7 +54,7 @@
     "evidence": [
       "D8:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which activity has John done apart from yoga at the studio?",
@@ -62,7 +62,7 @@
     "evidence": [
       "D25:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
@@ -70,7 +70,7 @@
     "evidence": [
       "D13:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What food item did Maria drop off at the homeless shelter?",
@@ -107,7 +107,7 @@
     "evidence": [
       "D7:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What yoga activity has Maria been trying to improve her strength and endurance?",
@@ -115,7 +115,7 @@
     "evidence": [
       "D19:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John think about trying new classes at the yoga studio?",
@@ -123,7 +123,7 @@
     "evidence": [
       "D25:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John host for the veterans in May 2023 as part of the project?",
@@ -131,7 +131,7 @@
     "evidence": [
       "D15:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did Maria take up with her friends from church in August 2023?",
@@ -139,7 +139,7 @@
     "evidence": [
       "D28:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Maria say she feels when doing upside-down yoga poses?",
@@ -147,7 +147,7 @@
     "evidence": [
       "D18:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Maria start volunteering at the homeless shelter?",
@@ -155,7 +155,7 @@
     "evidence": [
       "D27:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What are Maria's dogs' names?",
@@ -172,7 +172,7 @@
     "evidence": [
       "D23:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Maria say it was like being at the waterfall in Oregon?",
@@ -180,7 +180,7 @@
     "evidence": [
       "D18:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who did John go to yoga with?",
@@ -197,7 +197,7 @@
     "evidence": [
       "D3:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did Maria and her mom do together in May 2023?",
@@ -205,7 +205,7 @@
     "evidence": [
       "D13:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the name of John's one-year-old child?",
@@ -213,7 +213,7 @@
     "evidence": [
       "D8:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What inspired John to join the marching event for veterans' rights?",
@@ -221,7 +221,7 @@
     "evidence": [
       "D21:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "In what activity did Maria and her church friends participate in July 2023?",
@@ -229,7 +229,7 @@
     "evidence": [
       "D25:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When was John's old area hit with a flood?",
@@ -255,7 +255,7 @@
     "evidence": [
       "D31:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What might John's financial status be?",
@@ -280,7 +280,7 @@
     "evidence": [
       "D23:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What areas is John particularly interested in for policymaking?",
@@ -288,7 +288,7 @@
     "evidence": [
       "D9:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What might John's degree be in?",
@@ -304,7 +304,7 @@
     "evidence": [
       "D28:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria receive a medal from the homeless shelter?",
@@ -320,7 +320,7 @@
     "evidence": [
       "D12:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
@@ -328,7 +328,7 @@
     "evidence": [
       "D5:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What cause did the 5K charity run organized by John support?",
@@ -336,7 +336,7 @@
     "evidence": [
       "D29:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who have written notes of gratitude to Maria?",
@@ -353,7 +353,7 @@
     "evidence": [
       "D16:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What states has Maria vacationed at?",
@@ -370,7 +370,7 @@
     "evidence": [
       "D32:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What emotions did John feel during the small party with the veterans?",
@@ -378,7 +378,7 @@
     "evidence": [
       "D15:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John believe is important for children regarding veterans?",
@@ -386,7 +386,7 @@
     "evidence": [
       "D27:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Would John be considered a patriotic person?",
@@ -412,7 +412,7 @@
     "evidence": [
       "D27:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria meet Jean?",
@@ -445,7 +445,7 @@
     "evidence": [
       "D2:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Maria do to feel closer to a community and her faith?",
@@ -453,7 +453,7 @@
     "evidence": [
       "D14:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Around which US holiday did Maria get into a car accident?",
@@ -469,7 +469,7 @@
     "evidence": [
       "D12:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Would John be open to moving to another country?",
@@ -495,7 +495,7 @@
     "evidence": [
       "D17:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the name of Maria's second puppy?",
@@ -503,7 +503,7 @@
     "evidence": [
       "D31:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria donate her car?",
@@ -519,7 +519,7 @@
     "evidence": [
       "D5:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
@@ -536,7 +536,7 @@
     "evidence": [
       "D16:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
@@ -544,7 +544,7 @@
     "evidence": [
       "D26:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John take a road trip to the Pacific Northwest?",
@@ -569,7 +569,7 @@
     "evidence": [
       "D31:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activities does John's family enjoy doing together?",
@@ -577,7 +577,7 @@
     "evidence": [
       "D31:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What people has Maria met and helped while volunteering?",
@@ -607,7 +607,7 @@
     "evidence": [
       "D19:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria go hiking with her church friends?",
@@ -631,7 +631,7 @@
     "evidence": [
       "D17:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria start volunteering at the homeless shelter?",
@@ -671,7 +671,7 @@
     "evidence": [
       "D10:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What attributes describe John?",
@@ -690,7 +690,7 @@
     "evidence": [
       "D12:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why does Maria think it's important for younger generations to visit military memorials?",
@@ -698,7 +698,7 @@
     "evidence": [
       "D27:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Jean go through before meeting Maria?",
@@ -706,7 +706,7 @@
     "evidence": [
       "D7:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What music events has John attended?",
@@ -731,7 +731,7 @@
     "evidence": [
       "D29:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What event did John volunteer at last weekend?",
@@ -739,7 +739,7 @@
     "evidence": [
       "D10:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How has John's fitness improved since starting boot camps with his family?",
@@ -747,7 +747,7 @@
     "evidence": [
       "D13:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did the flood impact the homes in John's old area?",
@@ -755,7 +755,7 @@
     "evidence": [
       "D23:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What job might Maria pursue in the future?",
@@ -782,7 +782,7 @@
     "evidence": [
       "D17:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What area was hit by a flood?",
@@ -808,7 +808,7 @@
     "evidence": [
       "D17:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why does John say he feels stuck and questioning his decisions and goals?",
@@ -816,7 +816,7 @@
     "evidence": [
       "D30:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Maria make for her home to remind her of a trip to England?",
@@ -824,7 +824,7 @@
     "evidence": [
       "D8:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What desserts has Maria made?",
@@ -850,7 +850,7 @@
     "evidence": [
       "D9:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of online group did John join?",
@@ -858,7 +858,7 @@
     "evidence": [
       "D3:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
@@ -866,7 +866,7 @@
     "evidence": [
       "D29:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did John feel inspired to join the military after the visit to the hospital?",
@@ -874,7 +874,7 @@
     "evidence": [
       "D24:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What events for veterans has John participated in?",
@@ -894,7 +894,7 @@
     "evidence": [
       "D27:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Maria need to help her cousin find a new place to live?",
@@ -902,7 +902,7 @@
     "evidence": [
       "D21:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What event did John participate in to show support for veterans' rights?",
@@ -910,7 +910,7 @@
     "evidence": [
       "D21:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John do that put a strain on his wallet?",
@@ -918,7 +918,7 @@
     "evidence": [
       "D11:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does John appreciate about the veteran's hospital visit?",
@@ -926,7 +926,7 @@
     "evidence": [
       "D24:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activities has Maria done with her church friends?",
@@ -953,7 +953,7 @@
     "evidence": [
       "D2:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many weeks passed between Maria adopting Coco and Shadow?",
@@ -979,7 +979,7 @@
     "evidence": [
       "D30:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What causes does John feel passionate about supporting?",
@@ -998,7 +998,7 @@
     "evidence": [
       "D1:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of volunteering have John and Maria both done?",
@@ -1015,7 +1015,7 @@
     "evidence": [
       "D13:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria take up community work with her church friends?",
@@ -1039,7 +1039,7 @@
     "evidence": [
       "D11:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John have his first firefighter call-out?",
@@ -1055,7 +1055,7 @@
     "evidence": [
       "D19:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did John and Max enjoy together last summer?",
@@ -1063,7 +1063,7 @@
     "evidence": [
       "D30:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What martial arts has John done?",
@@ -1099,7 +1099,7 @@
     "evidence": [
       "D28:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Maria get the idea for the castle shadow box in her home?",
@@ -1107,7 +1107,7 @@
     "evidence": [
       "D8:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What has Maria done to feel closer to her faith?",
@@ -1132,7 +1132,7 @@
     "evidence": [
       "D1:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does John describe the support he received during his journey to becoming assistant manager?",
@@ -1140,7 +1140,7 @@
     "evidence": [
       "D19:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who did Maria have dinner with on May 3, 2023?",
@@ -1156,7 +1156,7 @@
     "evidence": [
       "D19:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John and the veterans do during the small party?",
@@ -1164,7 +1164,7 @@
     "evidence": [
       "D15:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What items des John mention having as a child?",
@@ -1181,7 +1181,7 @@
     "evidence": [
       "D24:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John start boot camp with his family?",
@@ -1205,7 +1205,7 @@
     "evidence": [
       "D14:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What natural disaster affected John's old area on 7 July, 2023?",
@@ -1213,7 +1213,7 @@
     "evidence": [
       "D23:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of event did John and his family attend in June 2023?",
@@ -1221,7 +1221,7 @@
     "evidence": [
       "D20:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did John take away from visiting the veteran's hospital?",
@@ -1229,7 +1229,7 @@
     "evidence": [
       "D24:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What shelters does Maria volunteer at?",
@@ -1247,7 +1247,7 @@
     "evidence": [
       "D1:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did John get his degree?",
@@ -1263,7 +1263,7 @@
     "evidence": [
       "D30:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Maria join a gym?",

@@ -1,59 +1,125 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-08-22T10:57:00.
 
 The specific content of the conversation is:
-dialogue_id: D19:1,  Nate: Woah Joanna, I won an international tournament yesterday! It was wild. Gaming has brought me so much success and now I'm able to make a living at something I'm passionate about - I'm loving it.
+dialogue_id: D19:1
+Nate: Woah Joanna, I won an international tournament yesterday! It was wild. Gaming has brought me so much success and now I'm able to make a living at something I'm passionate about - I'm loving it.
 
-dialogue_id: D19:2,  Joanna: Congrats, Nate! So proud of you for winning that tournament, that's awesome! Must feel great to turn your passion into a career.
 
-dialogue_id: D19:3,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D19:2
+Joanna: Congrats, Nate! So proud of you for winning that tournament, that's awesome! Must feel great to turn your passion into a career.
+
+
+
+dialogue_id: D19:3
+Nate: <image_message>Nate send an image.
 Image description: cute pet turtles tank
 a photo of a fish tank with a fish inside of it</image_message> I'm really stoked to see all my hard work paying off! I'm super proud of what I accomplished. On another note, my little dudes got a new tank! Check them out, they're so cute, right?!
 
-dialogue_id: D19:4,  Joanna: Wow Nate, they're adorable! I can see why you enjoy spending time with them. It looks like they have so much more room to swim now!
 
-dialogue_id: D19:5,  Nate: They're my little buddies, always calm and peaceful. It makes coming home after a long day of gaming better. The tank expansion has made them so happy! How have you been?
 
-dialogue_id: D19:6,  Joanna: <image_message>Joanna send an image.
+dialogue_id: D19:4
+Joanna: Wow Nate, they're adorable! I can see why you enjoy spending time with them. It looks like they have so much more room to swim now!
+
+
+
+dialogue_id: D19:5
+Nate: They're my little buddies, always calm and peaceful. It makes coming home after a long day of gaming better. The tank expansion has made them so happy! How have you been?
+
+
+
+dialogue_id: D19:6
+Joanna: <image_message>Joanna send an image.
 Image description: writers group meeting stack scripts desk
 a photo of a desk with a chair and a computer</image_message> I'm good! Was super nervous last week when I shared my book with my writers group but got some great feedback. My hard work is paying off, it's such an awesome feeling!
 
-dialogue_id: D19:7,  Nate: Wow Jo, you're killing it! Getting this kind of feedback means people are really connecting with your writing. Pretty cool! Did you celebrate?
 
-dialogue_id: D19:8,  Joanna: <image_message>Joanna send an image.
+
+dialogue_id: D19:7
+Nate: Wow Jo, you're killing it! Getting this kind of feedback means people are really connecting with your writing. Pretty cool! Did you celebrate?
+
+
+
+dialogue_id: D19:8
+Joanna: <image_message>Joanna send an image.
 Image description: raspberry chia pudding parfait dessert
 a photo of two desserts with spoons and a bar of chocolate</image_message> Thanks, Nate! It feels great knowing that people like my writing. I celebrated by making this delicious treat - yum! Any plans for the weekend?
 
-dialogue_id: D19:9,  Nate: I'm taking some time off this weekend to chill with my pets. Anything cool happening with you?
 
-dialogue_id: D19:10,  Joanna: I'm relaxing and recharging this weekend with a long walk and some reading. It's a good break.
 
-dialogue_id: D19:11,  Nate: Looks like we both need a break. I'm glad your able to find a way to recharge! It's so incredibly important to take time off!
+dialogue_id: D19:9
+Nate: I'm taking some time off this weekend to chill with my pets. Anything cool happening with you?
 
-dialogue_id: D19:12,  Joanna: Thanks, Nate! I've learned that taking breaks and looking after myself are important for my inspiration and mental health. It's all about finding balance.
 
-dialogue_id: D19:13,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D19:10
+Joanna: I'm relaxing and recharging this weekend with a long walk and some reading. It's a good break.
+
+
+
+dialogue_id: D19:11
+Nate: Looks like we both need a break. I'm glad your able to find a way to recharge! It's so incredibly important to take time off!
+
+
+
+dialogue_id: D19:12
+Joanna: Thanks, Nate! I've learned that taking breaks and looking after myself are important for my inspiration and mental health. It's all about finding balance.
+
+
+
+dialogue_id: D19:13
+Nate: <image_message>Nate send an image.
 Image description: bookshelf filled with books
 a photo of a bookcase filled with books and a toy car</image_message> Yeah, balance is key! It's so cool how taking care of ourselves helps us be more creative and happier. I'm always looking for something new to read. Got any book recommendations? I've got a lot of books to choose from.
 
-dialogue_id: D19:14,  Joanna: I reccomend finding a fantasy book series to read through. Most fiction series are great reads when your trying to relax.
 
-dialogue_id: D19:15,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D19:14
+Joanna: I reccomend finding a fantasy book series to read through. Most fiction series are great reads when your trying to relax.
+
+
+
+dialogue_id: D19:15
+Nate: <image_message>Nate send an image.
 Image description: a court of thorns and roses book sarah j maas
 a photo of a stack of books sitting on top of a wooden table</image_message> Good idea! How about this series?
 
-dialogue_id: D19:16,  Joanna: That's a great one! Let me know what you think when your finished!
 
-dialogue_id: D19:17,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D19:16
+Joanna: That's a great one! Let me know what you think when your finished!
+
+
+
+dialogue_id: D19:17
+Nate: <image_message>Nate send an image.
 Image description: space opera book series
 a photo of a poster of a man falling off a cliff</image_message> Sure thing! And since your recommending me a book, I thought I should do the same! I'd really recommend this series. It's got awesome battles and interesting characters.
 
-dialogue_id: D19:18,  Joanna: Wow, that series looks awesome! I'll have to check it out sometime!
 
-dialogue_id: D19:19,  Nate: You really should! The action scenes are awesome and the plot rocks. Definitely one of my favorites!
 
-dialogue_id: D19:20,  Joanna: Wow, sounds great! I'll definitely add it to my list; thanks for the recommendation!
+dialogue_id: D19:18
+Joanna: Wow, that series looks awesome! I'll have to check it out sometime!
 
-dialogue_id: D19:21,  Nate: Enjoy it! Have a good day.
 
-dialogue_id: D19:22,  Joanna: Thanks, Nate! You too! Have a great day. Take care.
+
+dialogue_id: D19:19
+Nate: You really should! The action scenes are awesome and the plot rocks. Definitely one of my favorites!
+
+
+
+dialogue_id: D19:20
+Joanna: Wow, sounds great! I'll definitely add it to my list; thanks for the recommendation!
+
+
+
+dialogue_id: D19:21
+Nate: Enjoy it! Have a good day.
+
+
+
+dialogue_id: D19:22
+Joanna: Thanks, Nate! You too! Have a great day. Take care.
+
+
 

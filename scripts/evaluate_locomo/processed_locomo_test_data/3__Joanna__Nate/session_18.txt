@@ -1,41 +1,89 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-08-14T18:12:00.
 
 The specific content of the conversation is:
-dialogue_id: D18:1,  Joanna: <image_message>Joanna send an image.
+dialogue_id: D18:1
+Joanna: <image_message>Joanna send an image.
 Image description: writing journal ideas notes
 a photo of a notebook with a bunch of stickers on it</image_message> Hey Nate, long time no talk! I've been busy with writing projects and really going all out with it. It's been the best thing ever - a mix of highs and lows - and my journal's pretty much my rock. Writing's such a huge part of me now.
 
-dialogue_id: D18:2,  Nate: Hey Joanna! Great to hear it! It's amazing how much a certain activity can become a part of our lives. Keep it up, you're inspiring! Is writing your way to solace and creativity?
 
-dialogue_id: D18:3,  Joanna: Yeah, definitely. Writing has become like an escape and a way to express my feelings. It gives me a chance to put all my thoughts and feelings down and make something good out of it. Words just have a magical way of healing.
 
-dialogue_id: D18:4,  Nate: That's really cool, I like it! It's incredible how words can turn something sad into something special. I'm glad it worked for you. Anything cool happening recently?
+dialogue_id: D18:2
+Nate: Hey Joanna! Great to hear it! It's amazing how much a certain activity can become a part of our lives. Keep it up, you're inspiring! Is writing your way to solace and creativity?
 
-dialogue_id: D18:5,  Joanna: <image_message>Joanna send an image.
+
+
+dialogue_id: D18:3
+Joanna: Yeah, definitely. Writing has become like an escape and a way to express my feelings. It gives me a chance to put all my thoughts and feelings down and make something good out of it. Words just have a magical way of healing.
+
+
+
+dialogue_id: D18:4
+Nate: That's really cool, I like it! It's incredible how words can turn something sad into something special. I'm glad it worked for you. Anything cool happening recently?
+
+
+
+dialogue_id: D18:5
+Joanna: <image_message>Joanna send an image.
 Image description: handwritten letter impact writing
 a photo of a note written to a person on a piece of paper</image_message> Yep. Last week, someone wrote me a letter after reading an online blog post I made about a hard moment in my life. Their words touched me; they said my story had brought them comfort. It was awesome to realize my words had that kind of power. It reminded me why I love writing.
 
-dialogue_id: D18:6,  Nate: Nice work, Joanna! That must feel sureal. Keep it up - you're changing lives!
 
-dialogue_id: D18:7,  Joanna: Thanks, Nate! Really appreciate your kind words. It's knowing that my writing can make a difference that keeps me going, even on tough days. So glad to have this outlet to share my stories and hopefully have an impact. How about you? Anything new since we last talked?
 
-dialogue_id: D18:8,  Nate: <image_message>Nate send an image.
+dialogue_id: D18:6
+Nate: Nice work, Joanna! That must feel sureal. Keep it up - you're changing lives!
+
+
+
+dialogue_id: D18:7
+Joanna: Thanks, Nate! Really appreciate your kind words. It's knowing that my writing can make a difference that keeps me going, even on tough days. So glad to have this outlet to share my stories and hopefully have an impact. How about you? Anything new since we last talked?
+
+
+
+dialogue_id: D18:8
+Nate: <image_message>Nate send an image.
 Image description: coconut milk ice cream homemade toppings
 a photography of a dessert with whipped cream and chocolate sauce</image_message> Thanks, Joanna! Your words mean a lot. Since we last spoke, I started teaching people how to make this. Sharing my love for dairy-free desserts has been fun and rewarding.
 
-dialogue_id: D18:9,  Joanna: Yum, Nate! I love it when you make coconut milk icecream, it's so good!
 
-dialogue_id: D18:10,  Nate: I've been really into making this lately - it's creamy, rich, dairy-free and a new recipe! Wanna try it? I can share the recipe with you if you'd like!
 
-dialogue_id: D18:11,  Joanna: I'd love to try it! Thanks for sharing your love for dairy-free desserts. I really appreciate it!
+dialogue_id: D18:9
+Joanna: Yum, Nate! I love it when you make coconut milk icecream, it's so good!
 
-dialogue_id: D18:12,  Nate: No problem, Joanna! Always happy to share them with you. Sending you the recipe now!
 
-dialogue_id: D18:13,  Joanna: Thanks, Nate! Can't wait to surprise my family with something delicious!
 
-dialogue_id: D18:14,  Nate: No problem, Joanna! Wish them luck! Let me know how it goes. Have a blast baking!
+dialogue_id: D18:10
+Nate: I've been really into making this lately - it's creamy, rich, dairy-free and a new recipe! Wanna try it? I can share the recipe with you if you'd like!
 
-dialogue_id: D18:15,  Joanna: Thanks, Nate. I'll keep you posted. Have a great day.
 
-dialogue_id: D18:16,  Nate: You too!
+
+dialogue_id: D18:11
+Joanna: I'd love to try it! Thanks for sharing your love for dairy-free desserts. I really appreciate it!
+
+
+
+dialogue_id: D18:12
+Nate: No problem, Joanna! Always happy to share them with you. Sending you the recipe now!
+
+
+
+dialogue_id: D18:13
+Joanna: Thanks, Nate! Can't wait to surprise my family with something delicious!
+
+
+
+dialogue_id: D18:14
+Nate: No problem, Joanna! Wish them luck! Let me know how it goes. Have a blast baking!
+
+
+
+dialogue_id: D18:15
+Joanna: Thanks, Nate. I'll keep you posted. Have a great day.
+
+
+
+dialogue_id: D18:16
+Nate: You too!
+
+
 

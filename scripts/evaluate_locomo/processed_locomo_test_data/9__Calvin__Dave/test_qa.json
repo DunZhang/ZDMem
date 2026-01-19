@@ -5,7 +5,7 @@
     "evidence": [
       "D30:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of music has Calvin been creating lately?",
@@ -13,7 +13,7 @@
     "evidence": [
       "D11:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Dave find satisfying about restoring old cars?",
@@ -21,7 +21,7 @@
     "evidence": [
       "D21:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where was Calvin located in the last week of October 2023?",
@@ -37,7 +37,7 @@
     "evidence": [
       "D21:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did a mishap occur with Calvin's musical gear and favorite mic?",
@@ -53,7 +53,7 @@
     "evidence": [
       "D25:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Dave buy a vintage camera?",
@@ -69,7 +69,7 @@
     "evidence": [
       "D15:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many times has Calvin had to deal with insurance paperwork?",
@@ -86,7 +86,7 @@
     "evidence": [
       "D10:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which of their family member do Calvin and Dave have nostalgic memories about?",
@@ -121,7 +121,7 @@
     "evidence": [
       "D17:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Calvin discuss with the cool artist he met at the gala?",
@@ -129,7 +129,7 @@
     "evidence": [
       "D30:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What do Dave and Calvin agree on regarding their pursuits?",
@@ -137,7 +137,7 @@
     "evidence": [
       "D26:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Calvin find energizing during the tour?",
@@ -145,7 +145,7 @@
     "evidence": [
       "D25:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Dave's way to share his passion with others?",
@@ -153,7 +153,7 @@
     "evidence": [
       "D28:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which hobby did Dave pick up in October 2023?",
@@ -177,7 +177,7 @@
     "evidence": [
       "D3:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which places or events has Calvin visited in Tokyo?",
@@ -211,7 +211,7 @@
     "evidence": [
       "D23:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does working on cars represent for Dave?",
@@ -219,7 +219,7 @@
     "evidence": [
       "D22:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What shared activities do Dave and Calvin have?",
@@ -236,7 +236,7 @@
     "evidence": [
       "D5:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What new item did Dave buy recently?",
@@ -244,7 +244,7 @@
     "evidence": [
       "D30:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What color glow did Calvin customize his guitar with?",
@@ -252,7 +252,7 @@
     "evidence": [
       "D16:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Calvin feel about performing with someone he admires?",
@@ -260,7 +260,7 @@
     "evidence": [
       "D26:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which band was Dave's favorite at the music festival in April 2023?",
@@ -268,7 +268,7 @@
     "evidence": [
       "D2:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many Ferraris does Calvin own?",
@@ -285,7 +285,7 @@
     "evidence": [
       "D18:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of photos does Dave like to capture with his new camera?",
@@ -293,7 +293,7 @@
     "evidence": [
       "D30:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin first get interested in cars?",
@@ -301,7 +301,7 @@
     "evidence": [
       "D26:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which city was Calvin visiting in August 2023?",
@@ -317,7 +317,7 @@
     "evidence": [
       "D4:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which Disney movie did Dave mention as one of his favorites?",
@@ -325,7 +325,7 @@
     "evidence": [
       "D19:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was Dave doing in San Francisco?",
@@ -350,7 +350,7 @@
     "evidence": [
       "D7:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of car did Dave work on during the workshop?",
@@ -358,7 +358,7 @@
     "evidence": [
       "D13:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was Calvin excited to do after getting his car fixed on 7 July, 2023?",
@@ -366,7 +366,7 @@
     "evidence": [
       "D10:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Calvin get his guitar customized with a shiny finish?",
@@ -374,7 +374,7 @@
     "evidence": [
       "D16:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What was the necklace Calvin received meant to remind him of?",
@@ -382,7 +382,7 @@
     "evidence": [
       "D4:26"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What design is featured on Calvin's guitar?",
@@ -390,7 +390,7 @@
     "evidence": [
       "D16:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin have a car incident?",
@@ -406,7 +406,7 @@
     "evidence": [
       "D16:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin plan on travelling to Tokyo the second time?",
@@ -422,7 +422,7 @@
     "evidence": [
       "D13:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What gives Dave a sense of achievement and purpose?",
@@ -430,7 +430,7 @@
     "evidence": [
       "D7:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Dave return from with new knowledge of different techniques of car restoration?",
@@ -471,7 +471,7 @@
     "evidence": [
       "D25:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What positive impact does Calvin mention nature has on tough times?",
@@ -479,7 +479,7 @@
     "evidence": [
       "D30:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Dave recently start a blog about?",
@@ -487,7 +487,7 @@
     "evidence": [
       "D28:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When Dave was a child, what did he and his father do in the garage?",
@@ -505,7 +505,7 @@
     "evidence": [
       "D28:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What specific location in Tokyo does Calvin mention being excited to explore?",
@@ -513,7 +513,7 @@
     "evidence": [
       "D24:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Calvin recently get that is a \"masterpiece on wheels\"?",
@@ -521,7 +521,7 @@
     "evidence": [
       "D23:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Calvin receive as a gift from another artist?",
@@ -529,7 +529,7 @@
     "evidence": [
       "D4:26"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Does Calvin wish to become more popular?",
@@ -546,7 +546,7 @@
     "evidence": [
       "D3:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Would Dave prefer working on a Dodge Charger or a Subaru Forester?",
@@ -560,7 +560,7 @@
     "evidence": [
       "D25:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What gifts has Calvin received from his artist friends?",
@@ -596,7 +596,7 @@
     "evidence": [
       "D25:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Calvin describe his process of adding electronic elements to his songs?",
@@ -604,7 +604,7 @@
     "evidence": [
       "D11:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Do all of Dave's car restoration projects go smoothly?",
@@ -641,7 +641,7 @@
     "evidence": [
       "D30:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What dish does Dave recommend Calvin to try in Tokyo?",
@@ -649,7 +649,7 @@
     "evidence": [
       "D24:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What mishaps has Calvin run into?",
@@ -675,7 +675,7 @@
     "evidence": [
       "D28:40"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Dave's favorite activity?",
@@ -702,7 +702,7 @@
     "evidence": [
       "D27:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin and Frank Ocean start collaborating?",
@@ -747,7 +747,7 @@
     "evidence": [
       "D12:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin buy his second Ferrari?",
@@ -763,7 +763,7 @@
     "evidence": [
       "D14:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Calvin and Dave meet Frank Ocean to start collaborating?",
@@ -771,7 +771,7 @@
     "evidence": [
       "D24:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Dave's new business venture as of 1 May, 2023?",
@@ -779,7 +779,7 @@
     "evidence": [
       "D4:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When was Calvin's album released?",
@@ -803,7 +803,7 @@
     "evidence": [
       "D28:34"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Dave doing to relax on weekends?",
@@ -811,7 +811,7 @@
     "evidence": [
       "D8:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Calvin and Frank Ocean record a song together?",
@@ -819,7 +819,7 @@
     "evidence": [
       "D15:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does help Calvin stay connected to the creative process?",
@@ -847,7 +847,7 @@
     "evidence": [
       "D12:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activity did Calvin enjoy during his summer drives?",
@@ -855,7 +855,7 @@
     "evidence": [
       "D20:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Based on the conversation, did Calvin and Dave have a meeting in Boston between August and November 2023? Answer in yes or no.",
@@ -869,7 +869,7 @@
     "evidence": [
       "D13:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why does Dave regularly visit parks?",
@@ -886,7 +886,7 @@
     "evidence": [
       "D21:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Calvin's biggest current goal?",
@@ -894,7 +894,7 @@
     "evidence": [
       "D12:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Calvin plan to jumpstart his inspiration?",
@@ -902,7 +902,7 @@
     "evidence": [
       "D5:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Dave's main passion?",
@@ -930,7 +930,7 @@
     "evidence": [
       "D6:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How long did Calvin plan to stay in Japan?",
@@ -938,7 +938,7 @@
     "evidence": [
       "D1:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What emotion does Dave mention feeling when he sees the relief of someone whose car he fixed?",
@@ -946,7 +946,7 @@
     "evidence": [
       "D17:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of content does Dave post on his blog that inspired others to start their own DIY projects?",
@@ -954,7 +954,7 @@
     "evidence": [
       "D28:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Dave start working on cars?",
@@ -962,7 +962,7 @@
     "evidence": [
       "D25:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Does Calvin love music tours?",
@@ -980,7 +980,7 @@
     "evidence": [
       "D26:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Calvin describe his music in relation to capturing feelings?",
@@ -988,7 +988,7 @@
     "evidence": [
       "D25:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Calvin do to relax?",
@@ -1006,7 +1006,7 @@
     "evidence": [
       "D9:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Calvin stay motivated when faced with setbacks?",
@@ -1014,7 +1014,7 @@
     "evidence": [
       "D23:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin met with local artists in Boston?",
@@ -1060,7 +1060,7 @@
     "evidence": [
       "D29:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Dave feel about the reactions of people when they see the finished restoration project?",
@@ -1068,7 +1068,7 @@
     "evidence": [
       "D19:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which cities did Dave travel to in 2023?",
@@ -1085,7 +1085,7 @@
     "evidence": [
       "D25:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Calvin book a flight ticket for on 1st September 2023?",
@@ -1093,7 +1093,7 @@
     "evidence": [
       "D17:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin visit some of the sights in Boston with a former high school friend?",
@@ -1109,7 +1109,7 @@
     "evidence": [
       "D28:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Dave see Aerosmith perform live?",
@@ -1146,7 +1146,7 @@
     "evidence": [
       "D30:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Calvin manage to save during the flood incident?",
@@ -1154,7 +1154,7 @@
     "evidence": [
       "D6:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin record a podcast with his friends?",
@@ -1190,7 +1190,7 @@
       "D20:6",
       "D20:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Calvin first travel to Tokyo?",
@@ -1206,7 +1206,7 @@
     "evidence": [
       "D18:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Calvin meet Frank Ocean?",
@@ -1214,7 +1214,7 @@
     "evidence": [
       "D15:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Does Dave's shop employ a lot of people?",
@@ -1230,7 +1230,7 @@
     "evidence": [
       "D23:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Can Dave work with engines?",
@@ -1257,7 +1257,7 @@
     "evidence": [
       "D13:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Dave aim to do with his passion for cars?",
@@ -1265,7 +1265,7 @@
     "evidence": [
       "D22:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What project did Calvin work on to chill out?",
@@ -1273,7 +1273,7 @@
     "evidence": [
       "D21:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Which part of Tokyo is described as Tokyo's Times Square by Calvin?",
@@ -1281,7 +1281,7 @@
     "evidence": [
       "D24:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of music does Dave listen to?",
@@ -1315,7 +1315,7 @@
     "evidence": [
       "D28:31"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Dave return from San Francisco?",

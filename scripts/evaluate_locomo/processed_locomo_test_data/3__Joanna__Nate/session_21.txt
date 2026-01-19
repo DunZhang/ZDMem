@@ -1,51 +1,111 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-09-14T13:43:00.
 
 The specific content of the conversation is:
-dialogue_id: D21:1,  Joanna: Hey Nate, long time no see! My laptop crashed last week and I lost all my work - super frustrating! As a writer, my laptop is like half of my lifeline so losing all progress was like a major blow.
+dialogue_id: D21:1
+Joanna: Hey Nate, long time no see! My laptop crashed last week and I lost all my work - super frustrating! As a writer, my laptop is like half of my lifeline so losing all progress was like a major blow.
 
-dialogue_id: D21:2,  Nate: Hey Joanna, sorry to hear about that. Losing so much progress must be really frustrating. Did you manage to recover anything? Maybe consider backing up your work in the future?
 
-dialogue_id: D21:3,  Joanna: Thanks for the sympathy, Nate. Nothing was recoverable, but now I have an external drive for backups. I never want to go through this again. So, how have you been? Making anything cool?
 
-dialogue_id: D21:4,  Nate: Hey Joanna, I'm no writer like you, but something pretty awesome happened. Last Monday I got to teach people vegan ice cream recipes on my own cooking show! It was a bit nerve-wracking to put myself out there, but it was a blast. Plus, I picked up a few new recipes!
+dialogue_id: D21:2
+Nate: Hey Joanna, sorry to hear about that. Losing so much progress must be really frustrating. Did you manage to recover anything? Maybe consider backing up your work in the future?
 
-dialogue_id: D21:5,  Joanna: Way to go, Nate! Congrats on the cooking show, I'll definitely be tuning in! What's your favorite dish from the show?
 
-dialogue_id: D21:6,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D21:3
+Joanna: Thanks for the sympathy, Nate. Nothing was recoverable, but now I have an external drive for backups. I never want to go through this again. So, how have you been? Making anything cool?
+
+
+
+dialogue_id: D21:4
+Nate: Hey Joanna, I'm no writer like you, but something pretty awesome happened. Last Monday I got to teach people vegan ice cream recipes on my own cooking show! It was a bit nerve-wracking to put myself out there, but it was a blast. Plus, I picked up a few new recipes!
+
+
+
+dialogue_id: D21:5
+Joanna: Way to go, Nate! Congrats on the cooking show, I'll definitely be tuning in! What's your favorite dish from the show?
+
+
+
+dialogue_id: D21:6
+Nate: <image_message>Nate send an image.
 Image description: coconut milk ice cream
 a photography of a bowl of ice cream with a spoon on a table</image_message> Coconut milk ice cream is at the top of my list. It's so smooth and creamy with a tropical coconut twist. Plus, it's dairy-free for people who can't have lactose or who want vegan options. Here's a snap of the ice cream I made.
 
-dialogue_id: D21:7,  Joanna: Wow, that looks amazing, Nate! I love the color and texture. It's great that you're making these options. Could you share the recipe? I'd love to try making it sometime!
 
-dialogue_id: D21:8,  Nate: Yeah sure! Would love to share it. Let's spread the joy of dairy-free options! Let me know when you make it!
 
-dialogue_id: D21:9,  Joanna: Cool, Nate! Gonna give it a go. Dairy-free is a must for me, especially for desserts. Last Friday, I made a deeeelish dessert with almond milk - it was good! Got any favs when it comes to dairy-free desserts?
+dialogue_id: D21:7
+Joanna: Wow, that looks amazing, Nate! I love the color and texture. It's great that you're making these options. Could you share the recipe? I'd love to try making it sometime!
 
-dialogue_id: D21:10,  Nate: Coconut milk ice cream is one of my favorites as you might be able to tell, but I also love a dairy-free chocolate mousse. It's super creamy and tastes like the real thing. What's been your favorite dairy-free sweet treat so far?
 
-dialogue_id: D21:11,  Joanna: <image_message>Joanna send an image.
+
+dialogue_id: D21:8
+Nate: Yeah sure! Would love to share it. Let's spread the joy of dairy-free options! Let me know when you make it!
+
+
+
+dialogue_id: D21:9
+Joanna: Cool, Nate! Gonna give it a go. Dairy-free is a must for me, especially for desserts. Last Friday, I made a deeeelish dessert with almond milk - it was good! Got any favs when it comes to dairy-free desserts?
+
+
+
+dialogue_id: D21:10
+Nate: Coconut milk ice cream is one of my favorites as you might be able to tell, but I also love a dairy-free chocolate mousse. It's super creamy and tastes like the real thing. What's been your favorite dairy-free sweet treat so far?
+
+
+
+dialogue_id: D21:11
+Joanna: <image_message>Joanna send an image.
 Image description: chocolate raspberry tart almond flour crust ganache fresh raspberries
 a photo of a chocolate tart with raspberries on top</image_message> Hey Nate, my favorite dairy-free treat is this amazing chocolate raspberry tart. It has an almond flour crust, chocolate ganache, and fresh raspberries - it's delicious!
 
-dialogue_id: D21:12,  Nate: That looks amazing, Joanna! I need to try baking that. What other treats do you like making?
 
-dialogue_id: D21:13,  Joanna: <image_message>Joanna send an image.
+
+dialogue_id: D21:12
+Nate: That looks amazing, Joanna! I need to try baking that. What other treats do you like making?
+
+
+
+dialogue_id: D21:13
+Joanna: <image_message>Joanna send an image.
 Image description: dairy-free chocolate cake raspberries
 a photo of a piece of chocolate cake with raspberries on a plate</image_message> Hey Nate, I love making this dairy-free chocolate cake with raspberries. It's so moist and delicious - perfect sweetness level.
 
-dialogue_id: D21:14,  Nate: That cake looks amazing, Joanna! How did you make it?
 
-dialogue_id: D21:15,  Joanna: I make it with almond flour, coconut oil, chocolate and raspberries. It's my favorite for birthdays and special days.
 
-dialogue_id: D21:16,  Nate: Yum, Joanna! Gotta try that one. Any others you want to share?
+dialogue_id: D21:14
+Nate: That cake looks amazing, Joanna! How did you make it?
 
-dialogue_id: D21:17,  Joanna: <image_message>Joanna send an image.
+
+
+dialogue_id: D21:15
+Joanna: I make it with almond flour, coconut oil, chocolate and raspberries. It's my favorite for birthdays and special days.
+
+
+
+dialogue_id: D21:16
+Nate: Yum, Joanna! Gotta try that one. Any others you want to share?
+
+
+
+dialogue_id: D21:17
+Joanna: <image_message>Joanna send an image.
 Image description: dairy-free blueberry cheesecake bars recipe
 a photo of a piece of cake with walnuts on top</image_message> Hey Nate! Here's another recipe I like. It's a delicious dessert made with blueberries, coconut milk, and a gluten-free crust. So creamy and delicious!
 
-dialogue_id: D21:18,  Nate: Wow, Joanna! That dessert looks amazing. I'll definitely have to give it a try. Thanks!
 
-dialogue_id: D21:19,  Joanna: Glad to help, Nate. Let me know if you try it. I'm sure you'll enjoy it. It was great chatting.
 
-dialogue_id: D21:20,  Nate: Thanks Joanna! I will. Bye!
+dialogue_id: D21:18
+Nate: Wow, Joanna! That dessert looks amazing. I'll definitely have to give it a try. Thanks!
+
+
+
+dialogue_id: D21:19
+Joanna: Glad to help, Nate. Let me know if you try it. I'm sure you'll enjoy it. It was great chatting.
+
+
+
+dialogue_id: D21:20
+Nate: Thanks Joanna! I will. Bye!
+
+
 

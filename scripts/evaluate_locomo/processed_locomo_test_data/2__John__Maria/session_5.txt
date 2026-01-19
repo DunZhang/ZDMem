@@ -1,39 +1,87 @@
 A conversation between John and Maria. This conversation takes place on 2023-01-28T13:17:00.
 
 The specific content of the conversation is:
-dialogue_id: D5:1,  John: Hey Maria, since we last spoke I went to that community mtg. It was really interesting hearing everyone's worries and how it affects our area. It made me realize how crucial the upgrades are, especially for the kids. I'm really upset seeing the state of our education. How do you think we can make things better?
+dialogue_id: D5:1
+John: Hey Maria, since we last spoke I went to that community mtg. It was really interesting hearing everyone's worries and how it affects our area. It made me realize how crucial the upgrades are, especially for the kids. I'm really upset seeing the state of our education. How do you think we can make things better?
 
-dialogue_id: D5:2,  Maria: Hey John, cool that you made it. You're right, it's really sad to see the state of education. We should fight for more money and resources for schools and raise awareness about the importance of education. It's not just for our kids, but for all of us too!
 
-dialogue_id: D5:3,  John: Yup, education is essential for a successful society. I totally agree that we should fight for more money and resources for our schools. It breaks my heart that our kids don't have the proper stuff they need. They deserve better.
 
-dialogue_id: D5:4,  Maria: Yeah, John. Our kids are our future; they should have the best. It kills me to think about all the kids without the proper stuff they need. It's just not right.
+dialogue_id: D5:2
+Maria: Hey John, cool that you made it. You're right, it's really sad to see the state of education. We should fight for more money and resources for schools and raise awareness about the importance of education. It's not just for our kids, but for all of us too!
 
-dialogue_id: D5:5,  John: It's definitely isn't, Maria. My kids have so much and others don't. We really need to do something about it.
 
-dialogue_id: D5:6,  Maria: <image_message>Maria send an image.
+
+dialogue_id: D5:3
+John: Yup, education is essential for a successful society. I totally agree that we should fight for more money and resources for our schools. It breaks my heart that our kids don't have the proper stuff they need. They deserve better.
+
+
+
+dialogue_id: D5:4
+Maria: Yeah, John. Our kids are our future; they should have the best. It kills me to think about all the kids without the proper stuff they need. It's just not right.
+
+
+
+dialogue_id: D5:5
+John: It's definitely isn't, Maria. My kids have so much and others don't. We really need to do something about it.
+
+
+
+dialogue_id: D5:6
+Maria: <image_message>Maria send an image.
 Image description: volunteer homeless shelter residents
 a photo of three women in green aprons holding pots and cups</image_message> Sure, it's not right that some kids get all they need while others have nothing to help them succeed. We gotta do something! Last week I volunteered at a shelter during an event for kids, and it's been a great experience.
 
-dialogue_id: D5:7,  John: Wow, Maria! That's really making a big impact. What made you decide to get involved with that?
 
-dialogue_id: D5:8,  Maria: I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.
 
-dialogue_id: D5:9,  John: Wow, Maria. That's amazing! I can imagine it's incredibly rewarding. Is there a particular moment that stands out to you as the most impactful?
+dialogue_id: D5:7
+John: Wow, Maria! That's really making a big impact. What made you decide to get involved with that?
 
-dialogue_id: D5:10,  Maria: For me, it was when I noticed a little girl around 8 sitting all alone. She seemed so sad. So, I sat with her and we talked. Turns out she had no other family - it broke my heart. I was able to give her some comfort and a listening ear. We ended up laughing and having a good time.
 
-dialogue_id: D5:11,  John: <image_message>John send an image.
+
+dialogue_id: D5:8
+Maria: I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.
+
+
+
+dialogue_id: D5:9
+John: Wow, Maria. That's amazing! I can imagine it's incredibly rewarding. Is there a particular moment that stands out to you as the most impactful?
+
+
+
+dialogue_id: D5:10
+Maria: For me, it was when I noticed a little girl around 8 sitting all alone. She seemed so sad. So, I sat with her and we talked. Turns out she had no other family - it broke my heart. I was able to give her some comfort and a listening ear. We ended up laughing and having a good time.
+
+
+
+dialogue_id: D5:11
+John: <image_message>John send an image.
 Image description: smiling child toy
 a photography of a little girl kissing a doll with a doll in her lap</image_message> Wow, what a touching moment, Maria. I'm glad you were there for her when she needed someone. I'm sure it made a big impact.
 
-dialogue_id: D5:12,  Maria: That's nice of you, John. What's the photo about?
 
-dialogue_id: D5:13,  John: It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down.
 
-dialogue_id: D5:14,  Maria: That's sweet. Spreading kindness and support can really make a difference, especially when someone is feeling down. Thanks for sharing.
+dialogue_id: D5:12
+Maria: That's nice of you, John. What's the photo about?
 
-dialogue_id: D5:15,  John: No problem, Maria. It's important to support each other when we're feeling down. You never know the difference a kind gesture can make.
 
-dialogue_id: D5:16,  Maria: Yep, kindness is key and a little compassion can really turn someone's day around. So glad we're on the same page here.
+
+dialogue_id: D5:13
+John: It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down.
+
+
+
+dialogue_id: D5:14
+Maria: That's sweet. Spreading kindness and support can really make a difference, especially when someone is feeling down. Thanks for sharing.
+
+
+
+dialogue_id: D5:15
+John: No problem, Maria. It's important to support each other when we're feeling down. You never know the difference a kind gesture can make.
+
+
+
+dialogue_id: D5:16
+Maria: Yep, kindness is key and a little compassion can really turn someone's day around. So glad we're on the same page here.
+
+
 

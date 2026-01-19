@@ -1,0 +1,84 @@
+{
+  "user_pair": "0__Caroline__Melanie",
+  "extraction_time": "2026-01-19T23:05:59.018457",
+  "total_sessions": 19,
+  "total_memories": 121,
+  "session_stats": [
+    {
+      "session": "session_1",
+      "memory_count": 5
+    },
+    {
+      "session": "session_2",
+      "memory_count": 4
+    },
+    {
+      "session": "session_3",
+      "memory_count": 4
+    },
+    {
+      "session": "session_4",
+      "memory_count": 6
+    },
+    {
+      "session": "session_5",
+      "memory_count": 5
+    },
+    {
+      "session": "session_6",
+      "memory_count": 7
+    },
+    {
+      "session": "session_7",
+      "memory_count": 6
+    },
+    {
+      "session": "session_8",
+      "memory_count": 6
+    },
+    {
+      "session": "session_9",
+      "memory_count": 4
+    },
+    {
+      "session": "session_10",
+      "memory_count": 5
+    },
+    {
+      "session": "session_11",
+      "memory_count": 5
+    },
+    {
+      "session": "session_12",
+      "memory_count": 5
+    },
+    {
+      "session": "session_13",
+      "memory_count": 17
+    },
+    {
+      "session": "session_14",
+      "memory_count": 9
+    },
+    {
+      "session": "session_15",
+      "memory_count": 7
+    },
+    {
+      "session": "session_16",
+      "memory_count": 11
+    },
+    {
+      "session": "session_17",
+      "memory_count": 3
+    },
+    {
+      "session": "session_18",
+      "memory_count": 5
+    },
+    {
+      "session": "session_19",
+      "memory_count": 7
+    }
+  ]
+}

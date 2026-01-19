@@ -1,43 +1,100 @@
 A conversation between Jon and Gina. This conversation takes place on 2023-05-27T19:18:00.
 
 The specific content of the conversation is:
-dialogue_id: D12:1,  Gina: Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!
+dialogue_id: D12:1
+Gina: Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!
 
-dialogue_id: D12:2,  Jon: Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?
 
-dialogue_id: D12:3,  Gina: Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company.
 
-dialogue_id: D12:4,  Jon: Way to go, Gina! You really stepped up. What's your plan for the future?
+dialogue_id: D12:2
+Jon: Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?
 
-dialogue_id: D12:5,  Gina: Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?
 
-dialogue_id: D12:6,  Jon: I'm currently reading "The Lean Startup" and hoping it'll give me tips for my biz.
 
-dialogue_id: D12:7,  Gina: It sounds great! Could it spark any ideas for your dance studio?
+dialogue_id: D12:3
+Gina: Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company.
 
-dialogue_id: D12:8,  Jon: <image_message>Jon send an image.
+
+
+dialogue_id: D12:4
+Jon: Way to go, Gina! You really stepped up. What's your plan for the future?
+
+
+
+dialogue_id: D12:5
+Gina: Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?
+
+
+
+dialogue_id: D12:6
+Jon: I'm currently reading "The Lean Startup" and hoping it'll give me tips for my biz.
+
+
+
+dialogue_id: D12:7
+Gina: It sounds great! Could it spark any ideas for your dance studio?
+
+
+
+dialogue_id: D12:8
+Jon: <image_message>Jon send an image.
 Image description: whiteboard business ideas
 a photo of a white board with a list of dates on it</image_message> Yeah, the book got me thinking about building a focused and efficient business. Adapting and tweaking from customer feedback is important too, so I'm gonna try it out!
 
-dialogue_id: D12:9,  Gina: Woah, Jon, that whiteboard's got a bunch of good ideas! How you gonna keep track and stay on schedule with those dates?
 
-dialogue_id: D12:10,  Jon: Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized.
 
-dialogue_id: D12:11,  Gina: Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?
+dialogue_id: D12:9
+Gina: Woah, Jon, that whiteboard's got a bunch of good ideas! How you gonna keep track and stay on schedule with those dates?
 
-dialogue_id: D12:12,  Jon: I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me.
 
-dialogue_id: D12:13,  Gina: Wow, Jon! Impressed by your commitment. How's the hunt for investors going?
 
-dialogue_id: D12:14,  Jon: Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton.
+dialogue_id: D12:10
+Jon: Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized.
 
-dialogue_id: D12:15,  Gina: Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!
 
-dialogue_id: D12:16,  Jon: Thanks! I really appreciate your help. I'm gonna keep on going and never quit.
 
-dialogue_id: D12:17,  Gina: Keep it up!
+dialogue_id: D12:11
+Gina: Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?
 
-dialogue_id: D12:18,  Jon: Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down.
 
-dialogue_id: D12:19,  Gina: Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!
+
+dialogue_id: D12:12
+Jon: I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me.
+
+
+
+dialogue_id: D12:13
+Gina: Wow, Jon! Impressed by your commitment. How's the hunt for investors going?
+
+
+
+dialogue_id: D12:14
+Jon: Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton.
+
+
+
+dialogue_id: D12:15
+Gina: Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!
+
+
+
+dialogue_id: D12:16
+Jon: Thanks! I really appreciate your help. I'm gonna keep on going and never quit.
+
+
+
+dialogue_id: D12:17
+Gina: Keep it up!
+
+
+
+dialogue_id: D12:18
+Jon: Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down.
+
+
+
+dialogue_id: D12:19
+Gina: Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!
+
+
 

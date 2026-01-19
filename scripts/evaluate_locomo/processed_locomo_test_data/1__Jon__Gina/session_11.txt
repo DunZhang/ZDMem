@@ -1,47 +1,113 @@
 A conversation between Jon and Gina. This conversation takes place on 2023-05-11T15:14:00.
 
 The specific content of the conversation is:
-dialogue_id: D11:1,  Jon: Hi! Since we last spoke I am still working on the dance studio and things are looking up!
+dialogue_id: D11:1
+Jon: Hi! Since we last spoke I am still working on the dance studio and things are looking up!
 
-dialogue_id: D11:2,  Gina: Hi! You're so inspiring taking it on and opening your own studio!
 
-dialogue_id: D11:3,  Jon: Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.
 
-dialogue_id: D11:4,  Gina: It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!
+dialogue_id: D11:2
+Gina: Hi! You're so inspiring taking it on and opening your own studio!
 
-dialogue_id: D11:5,  Jon: Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!
 
-dialogue_id: D11:6,  Gina: Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.
 
-dialogue_id: D11:7,  Jon: Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.
+dialogue_id: D11:3
+Jon: Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.
 
-dialogue_id: D11:8,  Gina: I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.
 
-dialogue_id: D11:9,  Jon: Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.
 
-dialogue_id: D11:10,  Gina: You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.
+dialogue_id: D11:4
+Gina: It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!
 
-dialogue_id: D11:11,  Jon: I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.
 
-dialogue_id: D11:12,  Gina: That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!
 
-dialogue_id: D11:13,  Jon: Thanks! Your help means a lot. Keep you posted on the dance studio progress.
+dialogue_id: D11:5
+Jon: Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!
 
-dialogue_id: D11:14,  Gina: Thanks! Really appreciate you keeping me in the loop on this cool project. Can't wait to hear more and watch it come to life! Oh, btw, I had an interview for a design internship yesterday! It was so cool.
 
-dialogue_id: D11:15,  Jon: Wow, Gina, I'm stoked about this! Taking a risk is scary, but I'm sure following my dreams will pay off in the end. How did the interview go?
 
-dialogue_id: D11:16,  Gina: It was great!
+dialogue_id: D11:6
+Gina: Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.
 
-dialogue_id: D11:17,  Jon: Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated.
 
-dialogue_id: D11:18,  Gina: Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?
 
-dialogue_id: D11:19,  Jon: Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid.
+dialogue_id: D11:7
+Jon: Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.
 
-dialogue_id: D11:20,  Gina: Yeah, Jon, I'll watch your routine! So proud of you!
 
-dialogue_id: D11:21,  Jon: Thanks a lot! Your help really means a lot. I'll get the video to you soon!
 
-dialogue_id: D11:22,  Gina: No prob! Always here to help. Can't wait to see the vid!
+dialogue_id: D11:8
+Gina: I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.
+
+
+
+dialogue_id: D11:9
+Jon: Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.
+
+
+
+dialogue_id: D11:10
+Gina: You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.
+
+
+
+dialogue_id: D11:11
+Jon: I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.
+
+
+
+dialogue_id: D11:12
+Gina: That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!
+
+
+
+dialogue_id: D11:13
+Jon: Thanks! Your help means a lot. Keep you posted on the dance studio progress.
+
+
+
+dialogue_id: D11:14
+Gina: Thanks! Really appreciate you keeping me in the loop on this cool project. Can't wait to hear more and watch it come to life! Oh, btw, I had an interview for a design internship yesterday! It was so cool.
+
+
+
+dialogue_id: D11:15
+Jon: Wow, Gina, I'm stoked about this! Taking a risk is scary, but I'm sure following my dreams will pay off in the end. How did the interview go?
+
+
+
+dialogue_id: D11:16
+Gina: It was great!
+
+
+
+dialogue_id: D11:17
+Jon: Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated.
+
+
+
+dialogue_id: D11:18
+Gina: Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?
+
+
+
+dialogue_id: D11:19
+Jon: Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid.
+
+
+
+dialogue_id: D11:20
+Gina: Yeah, Jon, I'll watch your routine! So proud of you!
+
+
+
+dialogue_id: D11:21
+Jon: Thanks a lot! Your help really means a lot. I'll get the video to you soon!
+
+
+
+dialogue_id: D11:22
+Gina: No prob! Always here to help. Can't wait to see the vid!
+
+
 

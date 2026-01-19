@@ -13,7 +13,7 @@
     "evidence": [
       "D29:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many screenplays has Joanna written?",
@@ -54,7 +54,7 @@
     "evidence": [
       "D4:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What underlying condition might Joanna have based on her allergies?",
@@ -71,7 +71,7 @@
     "evidence": [
       "D28:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What encouragement does Nate give to Joanna after her setback?",
@@ -79,7 +79,7 @@
     "evidence": [
       "D24:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Joanna travel to in July 2022?",
@@ -103,7 +103,7 @@
     "evidence": [
       "D16:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of frosting did Joanna use on the cake she made recently in May 2022?",
@@ -111,7 +111,7 @@
     "evidence": [
       "D10:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Joanna name the stuffed animal dog Tilly?",
@@ -119,7 +119,7 @@
     "evidence": [
       "D24:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What movies have both Joanna and Nate seen?",
@@ -137,7 +137,7 @@
     "evidence": [
       "D23:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Nate's favorite genre of movies?",
@@ -145,7 +145,7 @@
     "evidence": [
       "D9:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate win his fourth video game tournament?",
@@ -178,7 +178,7 @@
     "evidence": [
       "D25:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What major achievement did Joanna accomplish in January 2022?",
@@ -194,7 +194,7 @@
     "evidence": [
       "D28:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What places has Joanna submitted her work to?",
@@ -219,7 +219,7 @@
     "evidence": [
       "D21:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of movies does Nate enjoy watching the most?",
@@ -227,7 +227,7 @@
     "evidence": [
       "D1:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What recipe Nate offer to share with Joanna?",
@@ -235,7 +235,7 @@
     "evidence": [
       "D16:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who did Nate plan to invite to his gaming party in June 2022?",
@@ -243,7 +243,7 @@
     "evidence": [
       "D14:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna make a chocolate tart with raspberries?",
@@ -285,7 +285,7 @@
     "evidence": [
       "D9:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is displayed on Joanna's cork board for motivation and creativity?",
@@ -293,7 +293,7 @@
     "evidence": [
       "D15:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What inspired Joanna's new script in July 2022?",
@@ -301,7 +301,7 @@
     "evidence": [
       "D17:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate get purple hair?",
@@ -354,7 +354,7 @@
     "evidence": [
       "D6:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What pets wouldn't cause any discomfort to Joanna?",
@@ -370,7 +370,7 @@
     "evidence": [
       "D23:26"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many tournaments has Nate won?",
@@ -392,7 +392,7 @@
     "evidence": [
       "D15:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What are the main ingredients of the ice cream recipe shared by Nate?",
@@ -400,7 +400,7 @@
     "evidence": [
       "D8:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What ingredient did Nate use to make the ice cream lactose-free?",
@@ -408,7 +408,7 @@
     "evidence": [
       "D26:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate win an international tournament?",
@@ -432,7 +432,7 @@
     "evidence": [
       "D21:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna's laptop crash?",
@@ -456,7 +456,7 @@
     "evidence": [
       "D25:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What genre is Joanna's first screenplay?",
@@ -464,7 +464,7 @@
     "evidence": [
       "D2:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna make a desert with almond milk?",
@@ -481,7 +481,7 @@
       "D12:13",
       "D12:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Nate think of the coconut milk ice cream he made?",
@@ -489,7 +489,7 @@
     "evidence": [
       "D3:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What movie did Nate recently watch and enjoy on October 6, 2022?",
@@ -497,7 +497,7 @@
     "evidence": [
       "D22:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is \"Little Women\" about according to Joanna?",
@@ -505,7 +505,7 @@
     "evidence": [
       "D3:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna find in old notebooks last week that prompted her to reflect on her progress as a writer?",
@@ -513,7 +513,7 @@
     "evidence": [
       "D26:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What pets does Nate have?",
@@ -549,7 +549,7 @@
     "evidence": [
       "D9:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What project is Joanna working on in her notebook on November 9, 2022?",
@@ -557,7 +557,7 @@
     "evidence": [
       "D28:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What color did Nate choose for his hair?",
@@ -566,7 +566,7 @@
       "D7:1",
       "D7:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What advice does Joanna give to Nate about making YouTube videos?",
@@ -574,7 +574,7 @@
     "evidence": [
       "D28:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many of Joanna's writing have made it to the big screen?",
@@ -591,7 +591,7 @@
     "evidence": [
       "D23:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Joanna do while she writes?",
@@ -599,7 +599,7 @@
     "evidence": [
       "D24:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of impact does Joanna hope to have with her writing?",
@@ -607,7 +607,7 @@
     "evidence": [
       "D18:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What helps Joanna stay focused and brings her joy?",
@@ -615,7 +615,7 @@
     "evidence": [
       "D24:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What board games has Nate played?",
@@ -642,7 +642,7 @@
     "evidence": [
       "D23:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When was Joanna's second movie script shown on the big screens?",
@@ -658,7 +658,7 @@
     "evidence": [
       "D24:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What do both Joanna and Nate appreciate the beauty of?",
@@ -675,7 +675,7 @@
     "evidence": [
       "D11:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Nate take to the beach in Tampa?",
@@ -683,7 +683,7 @@
     "evidence": [
       "D29:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of lighting does Nate's gaming room have?",
@@ -691,7 +691,7 @@
     "evidence": [
       "D10:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many times has Joanna's scripts been rejected?",
@@ -708,7 +708,7 @@
     "evidence": [
       "D25:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What specific themes are explored in Joanna's new book?",
@@ -716,7 +716,7 @@
     "evidence": [
       "D17:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where did Joanna go for a road trip for research?",
@@ -724,7 +724,7 @@
     "evidence": [
       "D17:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is the type of game \"Xenoblade Chronicles\" that Nate is playing?",
@@ -732,7 +732,7 @@
     "evidence": [
       "D27:23"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Nate share a photo of as a part of his experimentation in November 2022?",
@@ -740,7 +740,7 @@
     "evidence": [
       "D29:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna contribute to that was shown on the big screen on the Sunday before October 25, 2022?",
@@ -748,7 +748,7 @@
     "evidence": [
       "D25:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna finish up the writing for her book?",
@@ -772,7 +772,7 @@
     "evidence": [
       "D17:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Nate describe the stuffed animal he got for Joanna?",
@@ -780,7 +780,7 @@
     "evidence": [
       "D13:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate get Tilly for Joanna?",
@@ -797,7 +797,7 @@
     "evidence": [
       "D11:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What activities does Nate do with his turtles?",
@@ -824,7 +824,7 @@
     "evidence": [
       "D18:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of interests do Joanna and Nate share?",
@@ -862,7 +862,7 @@
     "evidence": [
       "D3:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Who was the new addition to Nate's family in May 2022?",
@@ -887,7 +887,7 @@
     "evidence": [
       "D20:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why is Joanna experimenting with dairy-free options in her dessert recipes?",
@@ -895,7 +895,7 @@
     "evidence": [
       "D20:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What motivates Joanna to keep writing even on tough days?",
@@ -903,7 +903,7 @@
     "evidence": [
       "D18:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many video game tournaments has Nate participated in?",
@@ -927,7 +927,7 @@
     "evidence": [
       "D19:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Nate's favorite movie trilogy?",
@@ -935,7 +935,7 @@
     "evidence": [
       "D9:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate attend a cooking show?",
@@ -951,7 +951,7 @@
     "evidence": [
       "D24:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What Console does Nate own?",
@@ -975,7 +975,7 @@
     "evidence": [
       "D18:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Nate make and share with his vegan diet group?",
@@ -983,7 +983,7 @@
     "evidence": [
       "D16:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What type of ice cream does Joanna mention that Nate makes and is delicious?",
@@ -991,7 +991,7 @@
     "evidence": [
       "D18:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is something Nate gave to Joanna that brings her a lot of joy?",
@@ -1008,7 +1008,7 @@
     "evidence": [
       "D5:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What alternative career might Nate consider after gaming?",
@@ -1035,7 +1035,7 @@
     "evidence": [
       "D27:23"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna have an audition for a writing gig?",
@@ -1051,7 +1051,7 @@
     "evidence": [
       "D28:25"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
@@ -1068,7 +1068,7 @@
     "evidence": [
       "D21:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Joanna allergic to?",
@@ -1087,7 +1087,7 @@
       "D27:22",
       "D27:23"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What game was the second tournament that Nate won based on?",
@@ -1096,7 +1096,7 @@
       "D10:4",
       "D10:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate win a lot of money in a video game tournament?",
@@ -1112,7 +1112,7 @@
     "evidence": [
       "D19:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna recently watch and recommend to Nate on February 7, 2022?",
@@ -1120,7 +1120,7 @@
     "evidence": [
       "D3:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How many letters has Joanna recieved?",
@@ -1137,7 +1137,7 @@
     "evidence": [
       "D13:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Nate get his first two turtles?",
@@ -1153,7 +1153,7 @@
     "evidence": [
       "D2:12"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of cake did Joanna share a photo of that she likes making for birthdays and special days?",
@@ -1161,7 +1161,7 @@
     "evidence": [
       "D21:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna write yesterday that appeared on the big screen?",
@@ -1169,7 +1169,7 @@
     "evidence": [
       "D15:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna plan on going to Nate's to watch him play with his turtles?",
@@ -1201,7 +1201,7 @@
     "evidence": [
       "D15:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What game has Nate been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
@@ -1209,7 +1209,7 @@
     "evidence": [
       "D23:17"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What superhero is Joanna a fan of?",
@@ -1217,7 +1217,7 @@
     "evidence": [
       "D15:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
@@ -1233,7 +1233,7 @@
     "evidence": [
       "D28:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What are Nate's favorite desserts?",
@@ -1269,7 +1269,7 @@
     "evidence": [
       "D17:1"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What inspired Joanna's new screenplay on 25 February, 2022?",
@@ -1277,7 +1277,7 @@
     "evidence": [
       "D4:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Joanna do after receiving a rejection from a production company?",
@@ -1285,7 +1285,7 @@
     "evidence": [
       "D24:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What recommendations has Nate received from Joanna?",
@@ -1307,7 +1307,7 @@
     "evidence": [
       "D10:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna make for one of the ladies at her writing club?",
@@ -1315,7 +1315,7 @@
     "evidence": [
       "D22:19"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What dessert did Joanna share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
@@ -1323,7 +1323,7 @@
     "evidence": [
       "D21:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is one of Joanna's favorite movies?",
@@ -1333,7 +1333,7 @@
       "D",
       "D1:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What does Joanna do to remember happy memories?",
@@ -1350,7 +1350,7 @@
     "evidence": [
       "D17:2"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What did Joanna take a picture of near Fort Wayne last summer?",
@@ -1358,7 +1358,7 @@
     "evidence": [
       "D28:22"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Joanna's project called in the writers group?",
@@ -1366,7 +1366,7 @@
     "evidence": [
       "D9:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What animal do both Nate and Joanna like?",
@@ -1383,7 +1383,7 @@
     "evidence": [
       "D16:11"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Nate feel about Joanna's ability to bounce back from setbacks?",
@@ -1391,7 +1391,7 @@
     "evidence": [
       "D24:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How does Nate describe the process of taking care of turtles?",
@@ -1399,7 +1399,7 @@
     "evidence": [
       "D5:8"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What is Joanna inspired by?",
@@ -1420,7 +1420,7 @@
     "evidence": [
       "D28:13"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
@@ -1436,7 +1436,7 @@
     "evidence": [
       "D17:4"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What inspired Nate to start making gaming videos?",
@@ -1444,7 +1444,7 @@
     "evidence": [
       "D28:15"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How long has Nate had his first two turtles?",
@@ -1469,7 +1469,7 @@
     "evidence": [
       "D27:29"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What recipes has Joanna made?",
@@ -1501,7 +1501,7 @@
     "evidence": [
       "D19:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What things has Nate reccomended to Joanna?",
@@ -1534,7 +1534,7 @@
     "evidence": [
       "D9:14"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Where does Joanna get her ideas for the characters from?",
@@ -1542,7 +1542,7 @@
     "evidence": [
       "D25:10"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Is it likely that Nate has friends besides Joanna?",
@@ -1558,7 +1558,7 @@
     "evidence": [
       "D21:6"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "Why did Nate choose the hair color he did?",
@@ -1566,7 +1566,7 @@
     "evidence": [
       "D7:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What are Joanna's plans for her finished screenplay in January 2022?",
@@ -1574,7 +1574,7 @@
     "evidence": [
       "D2:7"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When did Joanna finish her first screenplay?",
@@ -1590,7 +1590,7 @@
     "evidence": [
       "D14:20"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "When is Nate hosting a gaming party?",
@@ -1615,7 +1615,7 @@
     "evidence": [
       "D2:3"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "How did Joanna describe the classic movie he watched?",
@@ -1623,7 +1623,7 @@
     "evidence": [
       "D23:18"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What creative activity does Nate joke about pursuing after being inspired by their hikes with Jo?",
@@ -1631,7 +1631,7 @@
     "evidence": [
       "D11:16"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of films does Joanna enjoy?",
@@ -1639,7 +1639,7 @@
     "evidence": [
       "D9:9"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What special items did Nate get for everyone at his gaming party?",
@@ -1647,7 +1647,7 @@
     "evidence": [
       "D14:24"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of writings does Joanna do?",
@@ -1683,7 +1683,7 @@
     "evidence": [
       "D28:29"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What kind of content did Joanna share that someone wrote her a letter about?",
@@ -1691,7 +1691,7 @@
     "evidence": [
       "D18:5"
     ],
-    "category": " Single-hop"
+    "category": "Single-hop"
   },
   {
     "question": "What book recommendations has Joanna given to Nate?",

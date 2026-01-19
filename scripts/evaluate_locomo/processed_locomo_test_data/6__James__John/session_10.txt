@@ -1,35 +1,80 @@
 A conversation between James and John. This conversation takes place on 2022-05-08T00:45:00.
 
 The specific content of the conversation is:
-dialogue_id: D10:1,  James: Hey John! Been a while since we chatted. Sorry 'bout not getting back sooner. How's it going? Any new games you're into?
+dialogue_id: D10:1
+James: Hey John! Been a while since we chatted. Sorry 'bout not getting back sooner. How's it going? Any new games you're into?
 
-dialogue_id: D10:2,  John: <image_message>John send an image.
+
+
+dialogue_id: D10:2
+John: <image_message>John send an image.
 Image description: charity gaming tournament friends game controllers
 a photo of a wooden table with a game controller on it</image_message> Hey James! No worries, I know you are really busy at work. I'm good, thanks for asking. Oh, I've been organizing something with my friends yesterday - it was cool! Guess what it was, I'll give you a little hint.
 
-dialogue_id: D10:3,  James: Wow, John, that looks awesome! Is it an icon of a new game?
 
-dialogue_id: D10:4,  John: Nope, not a new game. We put together a tournament for our favorite game, CS:GO. Lots showed up and we made a bunch of money for charity!
 
-dialogue_id: D10:5,  James: Wow John, organizing that tournament for charity must have been a ton of effort, but it sounds like it was so worth it!
+dialogue_id: D10:3
+James: Wow, John, that looks awesome! Is it an icon of a new game?
 
-dialogue_id: D10:6,  John: Definitely worth it! It took some planning and coordination, but seeing everyone come together for a good cause was so rewarding.
 
-dialogue_id: D10:7,  James: It must have been great to see the results of that effort. Have you considered organizing more events like that in the future?
 
-dialogue_id: D10:8,  John: Yeah, for sure! It was awesome and I want to do more events like that. It combines my interests and helps the community. Plus, it's great to get people together for some friendly competition.
+dialogue_id: D10:4
+John: Nope, not a new game. We put together a tournament for our favorite game, CS:GO. Lots showed up and we made a bunch of money for charity!
 
-dialogue_id: D10:9,  James: Combining gaming and volunteering is a great idea! So fun and fulfilling. Where did you send the collected money?
 
-dialogue_id: D10:10,  John: Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!
 
-dialogue_id: D10:11,  James: Helping animals is really important!
+dialogue_id: D10:5
+James: Wow John, organizing that tournament for charity must have been a ton of effort, but it sounds like it was so worth it!
 
-dialogue_id: D10:12,  John: I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it.
 
-dialogue_id: D10:13,  James: Glad you are helping those in need! You are doing a great job John, keep up the good work!
 
-dialogue_id: D10:14,  John: Thanks for your support, James! I won't stop there, I will do more and more good things!
+dialogue_id: D10:6
+John: Definitely worth it! It took some planning and coordination, but seeing everyone come together for a good cause was so rewarding.
 
-dialogue_id: D10:15,  James: I'm really proud of you!
+
+
+dialogue_id: D10:7
+James: It must have been great to see the results of that effort. Have you considered organizing more events like that in the future?
+
+
+
+dialogue_id: D10:8
+John: Yeah, for sure! It was awesome and I want to do more events like that. It combines my interests and helps the community. Plus, it's great to get people together for some friendly competition.
+
+
+
+dialogue_id: D10:9
+James: Combining gaming and volunteering is a great idea! So fun and fulfilling. Where did you send the collected money?
+
+
+
+dialogue_id: D10:10
+John: Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!
+
+
+
+dialogue_id: D10:11
+James: Helping animals is really important!
+
+
+
+dialogue_id: D10:12
+John: I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it.
+
+
+
+dialogue_id: D10:13
+James: Glad you are helping those in need! You are doing a great job John, keep up the good work!
+
+
+
+dialogue_id: D10:14
+John: Thanks for your support, James! I won't stop there, I will do more and more good things!
+
+
+
+dialogue_id: D10:15
+James: I'm really proud of you!
+
+
 

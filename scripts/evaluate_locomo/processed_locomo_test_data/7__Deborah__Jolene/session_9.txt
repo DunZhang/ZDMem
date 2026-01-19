@@ -1,45 +1,105 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-03-13T11:22:00.
 
 The specific content of the conversation is:
-dialogue_id: D9:1,  Deborah: Hi Jolene! We haven't corresponded for a long time!
+dialogue_id: D9:1
+Deborah: Hi Jolene! We haven't corresponded for a long time!
 
-dialogue_id: D9:2,  Jolene: Hey Deb, yeah life can get chaotic. How's it been going lately?
 
-dialogue_id: D9:3,  Deborah: So much has been going on lately. I started this yoga class in the neighborhood - it's such a good feeling! Now I get to share the exercise with my neighbors and watch it really transform them.
 
-dialogue_id: D9:4,  Jolene:  Congrats. How did you do this?
+dialogue_id: D9:2
+Jolene: Hey Deb, yeah life can get chaotic. How's it been going lately?
 
-dialogue_id: D9:5,  Deborah: <image_message>Deborah send an image.
+
+
+dialogue_id: D9:3
+Deborah: So much has been going on lately. I started this yoga class in the neighborhood - it's such a good feeling! Now I get to share the exercise with my neighbors and watch it really transform them.
+
+
+
+dialogue_id: D9:4
+Jolene:  Congrats. How did you do this?
+
+
+
+dialogue_id: D9:5
+Deborah: <image_message>Deborah send an image.
 Image description: neighborhood yoga class smiling faces
 a photo of a group of women posing for a picture</image_message> Thanks! My neighbors were interested in trying yoga, so I hosted a class for them on Friday. It was great to see everyone embrace and enjoy it. Here is our photo together.
 
-dialogue_id: D9:6,  Jolene: That's cool! What made you want to start teaching it?
 
-dialogue_id: D9:7,  Deborah: I find it calming and wanted to share that with others. Giving people peace and awareness brings me so much happiness.
 
-dialogue_id: D9:8,  Jolene: Wow, Deb! It's awesome when we can share something we love and make things better for others.
+dialogue_id: D9:6
+Jolene: That's cool! What made you want to start teaching it?
 
-dialogue_id: D9:9,  Deborah: Teaching it is awesome because it can help others and I've made such great friends through it. It's really nice for building community connections.
 
-dialogue_id: D9:10,  Jolene: That's really motivating. It's great to have support in tough times.
 
-dialogue_id: D9:11,  Deborah: It's one of life's best parts, right?
+dialogue_id: D9:7
+Deborah: I find it calming and wanted to share that with others. Giving people peace and awareness brings me so much happiness.
 
-dialogue_id: D9:12,  Jolene: Yeah, having someone to rely on is key in tough times. It really makes a difference in how we handle life. Plus, there's something I wanted to tell you.
 
-dialogue_id: D9:13,  Deborah: What's up? I'm listening. We'll figure it out.
 
-dialogue_id: D9:14,  Jolene: I'm having a hard time dealing with my Engineering assignments. It's a lot to manage and I'm struggling to keep up. Can we still talk about time management?
+dialogue_id: D9:8
+Jolene: Wow, Deb! It's awesome when we can share something we love and make things better for others.
 
-dialogue_id: D9:15,  Deborah: Sure, Jolene. Let's find a time that works for both of us.
 
-dialogue_id: D9:16,  Jolene: Let's find a time to chat - I'll check my schedule and get back to you.
 
-dialogue_id: D9:17,  Deborah: Take your time, Jolene. We'll work it out. Take care of yourself, OK?
+dialogue_id: D9:9
+Deborah: Teaching it is awesome because it can help others and I've made such great friends through it. It's really nice for building community connections.
 
-dialogue_id: D9:18,  Jolene:  I'll make sure to take it. See you soon!
 
-dialogue_id: D9:19,  Deborah:  I'm here for you if you need me. Let's catch up soon.
 
-dialogue_id: D9:20,  Jolene: Have a great day!
+dialogue_id: D9:10
+Jolene: That's really motivating. It's great to have support in tough times.
+
+
+
+dialogue_id: D9:11
+Deborah: It's one of life's best parts, right?
+
+
+
+dialogue_id: D9:12
+Jolene: Yeah, having someone to rely on is key in tough times. It really makes a difference in how we handle life. Plus, there's something I wanted to tell you.
+
+
+
+dialogue_id: D9:13
+Deborah: What's up? I'm listening. We'll figure it out.
+
+
+
+dialogue_id: D9:14
+Jolene: I'm having a hard time dealing with my Engineering assignments. It's a lot to manage and I'm struggling to keep up. Can we still talk about time management?
+
+
+
+dialogue_id: D9:15
+Deborah: Sure, Jolene. Let's find a time that works for both of us.
+
+
+
+dialogue_id: D9:16
+Jolene: Let's find a time to chat - I'll check my schedule and get back to you.
+
+
+
+dialogue_id: D9:17
+Deborah: Take your time, Jolene. We'll work it out. Take care of yourself, OK?
+
+
+
+dialogue_id: D9:18
+Jolene:  I'll make sure to take it. See you soon!
+
+
+
+dialogue_id: D9:19
+Deborah:  I'm here for you if you need me. Let's catch up soon.
+
+
+
+dialogue_id: D9:20
+Jolene: Have a great day!
+
+
 

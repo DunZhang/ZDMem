@@ -1,33 +1,72 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-04-15T19:37:00.
 
 The specific content of the conversation is:
-dialogue_id: D7:1,  Nate: Hey Jo, guess what I did? Dyed my hair last week - come see!
+dialogue_id: D7:1
+Nate: Hey Jo, guess what I did? Dyed my hair last week - come see!
 
-dialogue_id: D7:2,  Joanna: Wow, Nate! Can't wait to see it. Must feel so liberating! How're you feeling?
 
-dialogue_id: D7:3,  Nate: <image_message>Nate send an image.
+
+dialogue_id: D7:2
+Joanna: Wow, Nate! Can't wait to see it. Must feel so liberating! How're you feeling?
+
+
+
+dialogue_id: D7:3
+Nate: <image_message>Nate send an image.
 Image description: purple hair selfie
 a photography of a man with purple hair and glasses taking a selfie</image_message> I'm so stoked about it! Check it out!
 
-dialogue_id: D7:4,  Joanna: Wow, your new hair color looks amazing! What made you choose that shade? Tell me all about it!
 
-dialogue_id: D7:5,  Nate: Thanks Jo! I picked this color because it's bright and bold - like me! I wanted to stand out from the regular options.
 
-dialogue_id: D7:6,  Joanna: <image_message>Joanna send an image.
+dialogue_id: D7:4
+Joanna: Wow, your new hair color looks amazing! What made you choose that shade? Tell me all about it!
+
+
+
+dialogue_id: D7:5
+Nate: Thanks Jo! I picked this color because it's bright and bold - like me! I wanted to stand out from the regular options.
+
+
+
+dialogue_id: D7:6
+Joanna: <image_message>Joanna send an image.
 Image description: sunset hike pink blue bold
 a photo of a street with a stop sign and a cloudy sky</image_message> That's amazing, Nate! Your boldness really inspired me. It reminded me of this gorgeous sunset I saw while hiking the other day. It made me realize the importance of showing the world who we are.
 
-dialogue_id: D7:7,  Nate: Wow, that sunset looks awesome! Jealous! I bet you had a great time. Are there any more exciting trips coming up for you?
 
-dialogue_id: D7:8,  Joanna: I did! the sky was so gorgeous! Wish I had a vacation lined up, but right now my writing is consuming me. Hoping for some good news soon!
 
-dialogue_id: D7:9,  Nate: I understand, Joanna. Big projects can be so taxing. Keep me posted on how it goes, alright?
+dialogue_id: D7:7
+Nate: Wow, that sunset looks awesome! Jealous! I bet you had a great time. Are there any more exciting trips coming up for you?
 
-dialogue_id: D7:10,  Joanna: Cheers, Nate! Your support means a lot. I'll definitely keep you updated.
 
-dialogue_id: D7:11,  Nate: Sounds great, See you soon?
 
-dialogue_id: D7:12,  Joanna: Totally! Bye Nate!
+dialogue_id: D7:8
+Joanna: I did! the sky was so gorgeous! Wish I had a vacation lined up, but right now my writing is consuming me. Hoping for some good news soon!
 
-dialogue_id: D7:13,  Nate: Take care!
+
+
+dialogue_id: D7:9
+Nate: I understand, Joanna. Big projects can be so taxing. Keep me posted on how it goes, alright?
+
+
+
+dialogue_id: D7:10
+Joanna: Cheers, Nate! Your support means a lot. I'll definitely keep you updated.
+
+
+
+dialogue_id: D7:11
+Nate: Sounds great, See you soon?
+
+
+
+dialogue_id: D7:12
+Joanna: Totally! Bye Nate!
+
+
+
+dialogue_id: D7:13
+Nate: Take care!
+
+
 

@@ -1,72 +1,150 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-04-02T14:42:00.
 
 The specific content of the conversation is:
-dialogue_id: D2:1,  Audrey: <image_message>Audrey send an image.
+dialogue_id: D2:1
+Audrey: <image_message>Audrey send an image.
 Image description: new puppy Pixie
 a photo of a small white dog sitting on a carpet</image_message> Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?
 
-dialogue_id: D2:2,  Andrew: That's awesome! Pixie is so cute! Did you ever check out that hiking spot we talked about last time?
 
-dialogue_id: D2:3,  Audrey: Thanks! I know right? She's so cute! Pixie's been keeping us busy, so I haven't had a chance to check out that hiking spot yet.
 
-dialogue_id: D2:4,  Andrew: Yeah, I get it. A puppy really takes some work. Has she settled in okay? Is she getting along with the other pups?
+dialogue_id: D2:2
+Andrew: That's awesome! Pixie is so cute! Did you ever check out that hiking spot we talked about last time?
 
-dialogue_id: D2:5,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D2:3
+Audrey: Thanks! I know right? She's so cute! Pixie's been keeping us busy, so I haven't had a chance to check out that hiking spot yet.
+
+
+
+dialogue_id: D2:4
+Andrew: Yeah, I get it. A puppy really takes some work. Has she settled in okay? Is she getting along with the other pups?
+
+
+
+dialogue_id: D2:5
+Audrey: <image_message>Audrey send an image.
 Image description: pixie pepper precious panda dogs playing backyard
 a photography of a dog playing with a group of other dogs</image_message> Pixie's fitting in great! It took her a few days to get used to the other dogs, but now they're awesome friends. They love playing and exploring the house - so cute!
 
 
-dialogue_id: D2:6,  Andrew: That's awesome! Is Pepper adjusting well to her?
 
-dialogue_id: D2:7,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D2:6
+Andrew: That's awesome! Is Pepper adjusting well to her?
+
+
+
+dialogue_id: D2:7
+Audrey: <image_message>Audrey send an image.
 Image description: pepper pixie playing together
 a photography of two dogs standing in the grass near a fence</image_message> Pepper took a bit to get used to her, but now they're always together!
 
-dialogue_id: D2:8,  Andrew: That's great to hear! I'm considering getting a dog too, but it can be challenging finding a dog-friendly place in the city. Do you have any tips on finding such a place?
 
-dialogue_id: D2:9,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D2:8
+Andrew: That's great to hear! I'm considering getting a dog too, but it can be challenging finding a dog-friendly place in the city. Do you have any tips on finding such a place?
+
+
+
+dialogue_id: D2:9
+Audrey: <image_message>Audrey send an image.
 Image description: dog-friendly website
 a photography of a dog sitting in a field of flowers</image_message> We used websites that helped us find a place that allowed dogs. They had filters that made it super easy. Found a perfect spot thanks to them!
 
-dialogue_id: D2:10,  Andrew: Wow, that's so cool! I'll give those websites a try, thanks for the info!
 
-dialogue_id: D2:11,  Audrey: You got it! I hope you find a great spot soon!
 
-dialogue_id: D2:12,  Andrew: Thanks! Fingers crossed for the apartment and that furry friend.
+dialogue_id: D2:10
+Andrew: Wow, that's so cool! I'll give those websites a try, thanks for the info!
 
-dialogue_id: D2:13,  Audrey: I'm keeping my fingers crossed for you to find a great furry friend and an apartment.
 
-dialogue_id: D2:14,  Andrew: Hope I find one soon. Can't wait!
 
-dialogue_id: D2:15,  Audrey: You'll love them! They're great for cuddles and companionship.
+dialogue_id: D2:11
+Audrey: You got it! I hope you find a great spot soon!
 
-dialogue_id: D2:16,  Andrew: <image_message>Andrew send an image.
+
+
+dialogue_id: D2:12
+Andrew: Thanks! Fingers crossed for the apartment and that furry friend.
+
+
+
+dialogue_id: D2:13
+Audrey: I'm keeping my fingers crossed for you to find a great furry friend and an apartment.
+
+
+
+dialogue_id: D2:14
+Andrew: Hope I find one soon. Can't wait!
+
+
+
+dialogue_id: D2:15
+Audrey: You'll love them! They're great for cuddles and companionship.
+
+
+
+dialogue_id: D2:16
+Andrew: <image_message>Andrew send an image.
 Image description: dog couch
 a photo of a dog sitting on a couch in a living room</image_message> It'd be so great to have a furry buddy to cuddle and hang with. Here's a photo of my family's dog on a couch. 
 
-dialogue_id: D2:17,  Audrey: <image_message>Audrey send an image.
+
+
+dialogue_id: D2:17
+Audrey: <image_message>Audrey send an image.
 Image description: None
 a photography of a dog laying on a couch with a pillow</image_message> Our furry friends make great cuddle buddies. Here's one of them enjoying some lazy couch time!
 
-dialogue_id: D2:18,  Andrew: <image_message>Andrew send an image.
+
+
+dialogue_id: D2:18
+Andrew: <image_message>Andrew send an image.
 Image description: dog hiking trail
 a photo of a man walking a dog on a trail</image_message> That pic is so cute! It would be fun to hang out with a dog, cuddling away. Got me thinking of my old hiking pics and how much I miss exploring nature trails with my family's dog. Ah, the peaceful moments out in nature!
 
-dialogue_id: D2:19,  Audrey:  Taking them on hikes must be awesome! That makes me want to hike with my dogs.
 
-dialogue_id: D2:20,  Andrew: <image_message>Andrew send an image.
+
+dialogue_id: D2:19
+Audrey:  Taking them on hikes must be awesome! That makes me want to hike with my dogs.
+
+
+
+dialogue_id: D2:20
+Andrew: <image_message>Andrew send an image.
 Image description: hiking with dog rocks trail
 a photography of a man sitting on a rock with a dog</image_message> Hiking with a dog is way fun, it's a great way to bond and create memories together.
 
-dialogue_id: D2:21,  Audrey: Yeah! Exploring nature with them and making memories is awesome!
 
-dialogue_id: D2:22,  Andrew: Definitely! I miss those moments. I need to find a dog-friendly spot soon so I can get exploring again!
 
-dialogue_id: D2:23,  Audrey: Yep! I hope you find the perfect dog-friendly spot soon so you can make new memories with them.
+dialogue_id: D2:21
+Audrey: Yeah! Exploring nature with them and making memories is awesome!
 
-dialogue_id: D2:24,  Andrew: Thanks! I'll keep looking until I find it. Super excited for what's next!
 
-dialogue_id: D2:25,  Audrey: So excited for you! I can't wait to see where you and your furry friend decide to hang out. All the best!
 
-dialogue_id: D2:26,  Andrew: I'll keep you posted. Ttyl, Bye!
+dialogue_id: D2:22
+Andrew: Definitely! I miss those moments. I need to find a dog-friendly spot soon so I can get exploring again!
+
+
+
+dialogue_id: D2:23
+Audrey: Yep! I hope you find the perfect dog-friendly spot soon so you can make new memories with them.
+
+
+
+dialogue_id: D2:24
+Andrew: Thanks! I'll keep looking until I find it. Super excited for what's next!
+
+
+
+dialogue_id: D2:25
+Audrey: So excited for you! I can't wait to see where you and your furry friend decide to hang out. All the best!
+
+
+
+dialogue_id: D2:26
+Andrew: I'll keep you posted. Ttyl, Bye!
+
+
 

@@ -1,45 +1,99 @@
 A conversation between Audrey and Andrew. This conversation takes place on 2023-11-22T09:02:00.
 
 The specific content of the conversation is:
-dialogue_id: D28:1,  Audrey: Hey Andrew! Long time no talk! Last Friday I took my fur kids to the pet salon - they were so psyched and their tails were wagging like crazy! It took a while for them to calm down, but all cut up they looked so cute! 
+dialogue_id: D28:1
+Audrey: Hey Andrew! Long time no talk! Last Friday I took my fur kids to the pet salon - they were so psyched and their tails were wagging like crazy! It took a while for them to calm down, but all cut up they looked so cute! 
 
-dialogue_id: D28:2,  Andrew: Hey Audrey! Nice to hear from you. Sounds adorable! Do you have any pictures of them all groomed up?
 
-dialogue_id: D28:3,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D28:2
+Andrew: Hey Audrey! Nice to hear from you. Sounds adorable! Do you have any pictures of them all groomed up?
+
+
+
+dialogue_id: D28:3
+Audrey: <image_message>Audrey send an image.
 Image description: four dogs groomed coats wagging tails cozy rug
 a photography of a dog is standing on a table with a leash</image_message> Here's a pic of them, looking all groomed. Look at those shiny coats! To top it off, they were really good at the salon - I always worry about them in new places.
 
-dialogue_id: D28:4,  Andrew: Wow, they look great! Love seeing them happy and calm in new places.
 
-dialogue_id: D28:5,  Audrey: Thanks! It means a lot to see them happy and settled in new places. I guess I'm doing a good job as a doggy mom then, haha! Have you taken your furry friends to the groomers yet?
 
-dialogue_id: D28:6,  Andrew: <image_message>Andrew send an image.
+dialogue_id: D28:4
+Andrew: Wow, they look great! Love seeing them happy and calm in new places.
+
+
+
+dialogue_id: D28:5
+Audrey: Thanks! It means a lot to see them happy and settled in new places. I guess I'm doing a good job as a doggy mom then, haha! Have you taken your furry friends to the groomers yet?
+
+
+
+dialogue_id: D28:6
+Andrew: <image_message>Andrew send an image.
 Image description: puppy scout new bundle of joy
 a photo of a woman feeding a dog hay in a barn</image_message> No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!
 
-dialogue_id: D28:7,  Audrey: That's great news! What's the pups name?
 
-dialogue_id: D28:8,  Andrew: It took us a while to decide, but we ended up going with 'Scout' for our pup - it seemed perfect for their adventurous spirit.
 
-dialogue_id: D28:9,  Audrey: That's a great name for your pup! Fits their adventurous spirit. What's Scout's first adventure gonna be?
+dialogue_id: D28:7
+Audrey: That's great news! What's the pups name?
 
-dialogue_id: D28:10,  Andrew: Thanks! We're gonna take Scout, Toby, and Buddy to a nearby park. It's not big, but we can all have fun and get some fresh air!
 
-dialogue_id: D28:11,  Audrey: <image_message>Audrey send an image.
+
+dialogue_id: D28:8
+Andrew: It took us a while to decide, but we ended up going with 'Scout' for our pup - it seemed perfect for their adventurous spirit.
+
+
+
+dialogue_id: D28:9
+Audrey: That's a great name for your pup! Fits their adventurous spirit. What's Scout's first adventure gonna be?
+
+
+
+dialogue_id: D28:10
+Andrew: Thanks! We're gonna take Scout, Toby, and Buddy to a nearby park. It's not big, but we can all have fun and get some fresh air!
+
+
+
+dialogue_id: D28:11
+Audrey: <image_message>Audrey send an image.
 Image description: dogs playing fetch park
 a photography of a dog running with a tennis ball in its mouth</image_message> Sounds like a great start for Scout! Start small, and gradually give them more exposure. They'll have a great time, just make sure to keep them leashed.
 
-dialogue_id: D28:12,  Andrew: Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven.
 
-dialogue_id: D28:13,  Audrey: Wow, that's so great that you two are creating a safe and fun space for Scout. It's really important they have a place that makes them feel secure. Slowly introduce Scout to Toby and Buddy, it takes time for the pups to get used to each other too! Scout is so lucky to have you and your girlfriend! 
 
-dialogue_id: D28:14,  Andrew: Thanks! We feel so lucky to have Scout. It's been amazing having so many furry friends! How are your dogs doing now? 
+dialogue_id: D28:12
+Andrew: Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven.
 
-dialogue_id: D28:15,  Audrey: They're doing great! Exploring, meeting new people...they feel so loved and safe. I'm really glad they're part of my life!
 
-dialogue_id: D28:16,  Andrew: That's great to hear! Dogs truly bring so much joy and friendship. I'm glad they're happy with you.
 
-dialogue_id: D28:17,  Audrey: Thanks! They're really awesome and bring so much joy and friendship. I'm so grateful to have them in my life as a part of my family.
+dialogue_id: D28:13
+Audrey: Wow, that's so great that you two are creating a safe and fun space for Scout. It's really important they have a place that makes them feel secure. Slowly introduce Scout to Toby and Buddy, it takes time for the pups to get used to each other too! Scout is so lucky to have you and your girlfriend! 
 
-dialogue_id: D28:18,  Andrew: Yeah, it's great! Dogs are always there for us. We should count ourselves lucky to have such amazing furry friends as family member.
+
+
+dialogue_id: D28:14
+Andrew: Thanks! We feel so lucky to have Scout. It's been amazing having so many furry friends! How are your dogs doing now? 
+
+
+
+dialogue_id: D28:15
+Audrey: They're doing great! Exploring, meeting new people...they feel so loved and safe. I'm really glad they're part of my life!
+
+
+
+dialogue_id: D28:16
+Andrew: That's great to hear! Dogs truly bring so much joy and friendship. I'm glad they're happy with you.
+
+
+
+dialogue_id: D28:17
+Audrey: Thanks! They're really awesome and bring so much joy and friendship. I'm so grateful to have them in my life as a part of my family.
+
+
+
+dialogue_id: D28:18
+Andrew: Yeah, it's great! Dogs are always there for us. We should count ourselves lucky to have such amazing furry friends as family member.
+
+
 

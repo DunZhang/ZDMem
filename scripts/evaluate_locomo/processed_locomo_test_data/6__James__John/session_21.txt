@@ -1,43 +1,100 @@
 A conversation between James and John. This conversation takes place on 2022-08-26T21:18:00.
 
 The specific content of the conversation is:
-dialogue_id: D21:1,  James: <image_message>James send an image.
+dialogue_id: D21:1
+James: <image_message>James send an image.
 Image description: cute puppy playing video game controller
 a photo of a person holding a dog on a couch</image_message> Hey John! Look how cute it is. My dog came to me today while I was playing on the console. What is new?
 
-dialogue_id: D21:2,  John:  Your pup is so cute, remind me what's their name? I've been helping my younger siblings out with programming since they joined the programming course. It's really cool to see them get into it.
 
-dialogue_id: D21:3,  James:  His name's Ned and he's been awesome since I adopted him. I can't imagine life without him. It's great to hear that your siblings signed up for programming.
 
-dialogue_id: D21:4,  John: That's right, his name is Ned, how could I forget?!
+dialogue_id: D21:2
+John:  Your pup is so cute, remind me what's their name? I've been helping my younger siblings out with programming since they joined the programming course. It's really cool to see them get into it.
 
-dialogue_id: D21:5,  James: Regarding your siblings, are you already working on anything cool with them?
 
-dialogue_id: D21:6,  John: Yeah! We're working on a cool project together that involves coding. It's a game and it's helping them learn.
 
-dialogue_id: D21:7,  James: Wow, learning and gaming sounds like a fantastic combination for coding education! Can you share more details about the game?
+dialogue_id: D21:3
+James:  His name's Ned and he's been awesome since I adopted him. I can't imagine life without him. It's great to hear that your siblings signed up for programming.
 
-dialogue_id: D21:8,  John: Yeah, they're playing a simple, text-based adventure game, working on their coding skills and having fun. I'm so proud of them! Maybe they'll even create their own video games, huh? Any new game designs on your mind?
 
-dialogue_id: D21:9,  James: Wow, sounds cool John! Learning coding with a text-based adventure game is impressive stuff. As for me, I've been trying out different genres of games and now I'm dying to create a strategy game like Civilization - love how complicated and in-depth they are. Fingers crossed, one day I'll make my own awesome strategy game!
 
-dialogue_id: D21:10,  John: Wow, James, that's impressive! It's gonna be awesome. Can't wait to see what you come up with!
+dialogue_id: D21:4
+John: That's right, his name is Ned, how could I forget?!
 
-dialogue_id: D21:11,  James:  Are you free tomorrow?
 
-dialogue_id: D21:12,  John: Yes, tomorrow is my day off. Do you have any suggestions on how to spend tomorrow?
 
-dialogue_id: D21:13,  James: Yes, we can go to Starbucks for coffee if you want.
+dialogue_id: D21:5
+James: Regarding your siblings, are you already working on anything cool with them?
 
-dialogue_id: D21:14,  John: I don't mind meeting up, but why Starbucks? Maybe we can have a beer somewhere?
 
-dialogue_id: D21:15,  James: Well, how about we go to McGee's pub then? I heard they serve a great stout there!
 
-dialogue_id: D21:16,  John: Great idea, except I don't like dark beer. Maybe there's something else there?
+dialogue_id: D21:6
+John: Yeah! We're working on a cool project together that involves coding. It's a game and it's helping them learn.
 
-dialogue_id: D21:17,  James: Of course, there are also light beers!
 
-dialogue_id: D21:18,  John: Great, then I agree! See you tomorrow at McGee's Pub!
 
-dialogue_id: D21:19,  James: See you John, bye!
+dialogue_id: D21:7
+James: Wow, learning and gaming sounds like a fantastic combination for coding education! Can you share more details about the game?
+
+
+
+dialogue_id: D21:8
+John: Yeah, they're playing a simple, text-based adventure game, working on their coding skills and having fun. I'm so proud of them! Maybe they'll even create their own video games, huh? Any new game designs on your mind?
+
+
+
+dialogue_id: D21:9
+James: Wow, sounds cool John! Learning coding with a text-based adventure game is impressive stuff. As for me, I've been trying out different genres of games and now I'm dying to create a strategy game like Civilization - love how complicated and in-depth they are. Fingers crossed, one day I'll make my own awesome strategy game!
+
+
+
+dialogue_id: D21:10
+John: Wow, James, that's impressive! It's gonna be awesome. Can't wait to see what you come up with!
+
+
+
+dialogue_id: D21:11
+James:  Are you free tomorrow?
+
+
+
+dialogue_id: D21:12
+John: Yes, tomorrow is my day off. Do you have any suggestions on how to spend tomorrow?
+
+
+
+dialogue_id: D21:13
+James: Yes, we can go to Starbucks for coffee if you want.
+
+
+
+dialogue_id: D21:14
+John: I don't mind meeting up, but why Starbucks? Maybe we can have a beer somewhere?
+
+
+
+dialogue_id: D21:15
+James: Well, how about we go to McGee's pub then? I heard they serve a great stout there!
+
+
+
+dialogue_id: D21:16
+John: Great idea, except I don't like dark beer. Maybe there's something else there?
+
+
+
+dialogue_id: D21:17
+James: Of course, there are also light beers!
+
+
+
+dialogue_id: D21:18
+John: Great, then I agree! See you tomorrow at McGee's Pub!
+
+
+
+dialogue_id: D21:19
+James: See you John, bye!
+
+
 

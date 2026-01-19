@@ -1,88 +1,184 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-08-30T11:46:00.
 
 The specific content of the conversation is:
-dialogue_id: D23:1,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D23:1
+Jolene: <image_message>Jolene send an image.
 Image description: colombian yoga studio vibrant colors people yoga poses
 a photo of a woman doing a yoga pose in a mirror</image_message> Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.
 
-dialogue_id: D23:2,  Deborah: That yoga pose looks great. Must've been a cool experience for the two of you. What did the trip teach you?
 
-dialogue_id: D23:3,  Jolene: This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?
 
-dialogue_id: D23:4,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D23:2
+Deborah: That yoga pose looks great. Must've been a cool experience for the two of you. What did the trip teach you?
+
+
+
+dialogue_id: D23:3
+Jolene: This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?
+
+
+
+dialogue_id: D23:4
+Deborah: <image_message>Deborah send an image.
 Image description: mother childhood home house
 a photo of a man standing in front of a house</image_message> Yep, last month I visited my mom`s house which holds a special place in my heart. My mom had good and bad times there, but it's still a symbol of her strength and the love she shared with me. This is my husband in front of this house.
 
-dialogue_id: D23:5,  Jolene: What was it like?
 
-dialogue_id: D23:6,  Deborah: It brought back fond memories as I relaxed outside.
 
-dialogue_id: D23:7,  Jolene: Sounds great! So glad you have a place to relax and find peace.
+dialogue_id: D23:5
+Jolene: What was it like?
 
-dialogue_id: D23:8,  Deborah: Thanks, Jolene. It's special for me. How about you? Is there a place that helps you relax?
 
-dialogue_id: D23:9,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D23:6
+Deborah: It brought back fond memories as I relaxed outside.
+
+
+
+dialogue_id: D23:7
+Jolene: Sounds great! So glad you have a place to relax and find peace.
+
+
+
+dialogue_id: D23:8
+Deborah: Thanks, Jolene. It's special for me. How about you? Is there a place that helps you relax?
+
+
+
+dialogue_id: D23:9
+Jolene: <image_message>Jolene send an image.
 Image description: quiet pond surrounded trees meditation
 a photo of a pond with lily pads and a tree in the background</image_message> I go to this nearby place to meditate by a tranquil spot.
 
-dialogue_id: D23:10,  Deborah: Looks chill. What's been the effect of that?
 
-dialogue_id: D23:11,  Jolene: It helps me make sense of everything and relieves stress. It's like a restart.
 
-dialogue_id: D23:12,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D23:10
+Deborah: Looks chill. What's been the effect of that?
+
+
+
+dialogue_id: D23:11
+Jolene: It helps me make sense of everything and relieves stress. It's like a restart.
+
+
+
+dialogue_id: D23:12
+Deborah: <image_message>Deborah send an image.
 Image description: peaceful sunset lake
 a photo of a lake with a few trees in the water</image_message> Cool, glad you found a place to chill. We all need that occasionally. This is one of my favorite spots to ponder and let things go.
 
 
-dialogue_id: D23:13,  Jolene: Looks great! What made you pick that spot?
 
-dialogue_id: D23:14,  Deborah: The soothing vibes and nice views made it ideal for reflecting and letting go.
 
-dialogue_id: D23:15,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D23:13
+Jolene: Looks great! What made you pick that spot?
+
+
+
+dialogue_id: D23:14
+Deborah: The soothing vibes and nice views made it ideal for reflecting and letting go.
+
+
+
+dialogue_id: D23:15
+Jolene: <image_message>Jolene send an image.
 Image description: meditation nature
 a photo of a group of people walking up a set of stairs</image_message> Here is one more photo from Rio de Janeiro. We went on many excursions there.
 
-dialogue_id: D23:16,  Deborah: Wow, those stairs look cool! Where were they taken?
 
-dialogue_id: D23:17,  Jolene: We had a great time visiting an old temple. The stairs were amazing!
 
-dialogue_id: D23:18,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D23:16
+Deborah: Wow, those stairs look cool! Where were they taken?
+
+
+
+dialogue_id: D23:17
+Jolene: We had a great time visiting an old temple. The stairs were amazing!
+
+
+
+dialogue_id: D23:18
+Deborah: <image_message>Deborah send an image.
 Image description: ancient temple sunrise
 a photo of a large stone structure with a mountain in the background</image_message> Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.
 
-dialogue_id: D23:19,  Jolene: The architecture and history of it all were really interesting. I'm sure you also liked the places you visited there!
 
-dialogue_id: D23:20,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D23:19
+Jolene: The architecture and history of it all were really interesting. I'm sure you also liked the places you visited there!
+
+
+
+dialogue_id: D23:20
+Deborah: <image_message>Deborah send an image.
 Image description: old photograph handwritten note
 a photo of a hand holding a piece of paper with writing on it</image_message> Exploring historical places and learning their stories is so fun. It was a great experience. I want to share this photo with you.
 
-dialogue_id: D23:21,  Jolene:  By the way, what did that paper have written on it in the photo?
 
-dialogue_id: D23:22,  Deborah: This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says"Let go of what no longer serves you."
 
-dialogue_id: D23:23,  Jolene: <image_message>Jolene send an image.
+dialogue_id: D23:21
+Jolene:  By the way, what did that paper have written on it in the photo?
+
+
+
+dialogue_id: D23:22
+Deborah: This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says"Let go of what no longer serves you."
+
+
+
+dialogue_id: D23:23
+Jolene: <image_message>Jolene send an image.
 Image description: bullet journal spread quote
 a photo of a notebook with a quote on it</image_message> I'm sorry! That's a good reminder to stay focused and let go of what no longer serves us. Remember the quote in my notebook? It also inspires me!
 
-dialogue_id: D23:24,  Deborah: What other quotes give you strength?
 
-dialogue_id: D23:25,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D23:24
+Deborah: What other quotes give you strength?
+
+
+
+dialogue_id: D23:25
+Jolene: <image_message>Jolene send an image.
 Image description: quote notebook positivity growth
 a photo of a notebook with a pen and a plant on a table</image_message> I came across this one while browsing and it really hit home with me. It's a great reminder to ditch the negative stuff and focus on growing and being positive.
 
-dialogue_id: D23:26,  Deborah: Surrounding ourselves with good stuff and striving to improve is key.
 
-dialogue_id: D23:27,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D23:26
+Deborah: Surrounding ourselves with good stuff and striving to improve is key.
+
+
+
+dialogue_id: D23:27
+Jolene: <image_message>Jolene send an image.
 Image description: plant growing pot
 a photo of a plant in a pot on a patio</image_message> Yep, Deborah! It's about creating a good atmosphere to help us grow and improve. By the way, I have a new plant.
 
-dialogue_id: D23:28,  Deborah: What made you pick it?
 
-dialogue_id: D23:29,  Jolene: I got this as a reminder to nurture myself and embrace fresh starts.
 
-dialogue_id: D23:30,  Deborah: Nice job, Jolene! Take care of yourself and embrace new beginnings.
+dialogue_id: D23:28
+Deborah: What made you pick it?
 
-dialogue_id: D23:31,  Jolene: Thanks Deb! Will do. Good talking to you. Take care!
 
-dialogue_id: D23:32,  Deborah: Have a great day!
+
+dialogue_id: D23:29
+Jolene: I got this as a reminder to nurture myself and embrace fresh starts.
+
+
+
+dialogue_id: D23:30
+Deborah: Nice job, Jolene! Take care of yourself and embrace new beginnings.
+
+
+
+dialogue_id: D23:31
+Jolene: Thanks Deb! Will do. Good talking to you. Take care!
+
+
+
+dialogue_id: D23:32
+Deborah: Have a great day!
+
+
 

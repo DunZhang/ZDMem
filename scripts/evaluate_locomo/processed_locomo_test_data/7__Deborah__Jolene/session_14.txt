@@ -1,59 +1,128 @@
 A conversation between Deborah and Jolene. This conversation takes place on 2023-06-26T09:17:00.
 
 The specific content of the conversation is:
-dialogue_id: D14:1,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D14:1
+Deborah: <image_message>Deborah send an image.
 Image description: yoga retreat yoga studio serene mats candles
 a photo of a group of people doing yoga in a park</image_message> Hey Jolene! How's it going? We haven't talked in a while. I've been busy getting ready for a yoga retreat with some buddies. A chance to hang out with people who think like me and find peace and understanding. Sounds awesome!
 
-dialogue_id: D14:2,  Jolene: Hey Deb! Been super hectic with internship and stuff. That retreat sounds awesome, I could definitely use a break!
 
-dialogue_id: D14:3,  Deborah: <image_message>Deborah send an image.
+
+dialogue_id: D14:2
+Jolene: Hey Deb! Been super hectic with internship and stuff. That retreat sounds awesome, I could definitely use a break!
+
+
+
+dialogue_id: D14:3
+Deborah: <image_message>Deborah send an image.
 Image description: yoga meditation calming sunset
 a photo of a woman doing a yoga pose on the beach</image_message> By the way, I tried a new pose - Dancer Pose (Natarajasana). Rate, did I succeed?
 
-dialogue_id: D14:4,  Jolene: <image_message>Jolene send an image.
+
+
+dialogue_id: D14:4
+Jolene: <image_message>Jolene send an image.
 Image description: snake curled up pillow
 a photo of a snake curled up in a plant filled area</image_message> You are amazing as always! Here are new photos of Seraphim in the new aquarium that I bought the day before yesterday.
 
-dialogue_id: D14:5,  Deborah: Where'd you get it? I'm always drawn to animals, they bring so much joy. What's its story?
 
-dialogue_id: D14:6,  Jolene:  I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.
 
-dialogue_id: D14:7,  Deborah: Pets really do make life more enjoyable and bright. 
+dialogue_id: D14:5
+Deborah: Where'd you get it? I'm always drawn to animals, they bring so much joy. What's its story?
 
-dialogue_id: D14:8,  Jolene:  I'm so thankful it's here. Plus, it's nice to have a calm creature around.
 
-dialogue_id: D14:9,  Deborah: How have things been besides that?
 
-dialogue_id: D14:10,  Jolene: Things have been intense lately. I'm really pushing myself to succeed, and sometimes it feels overwhelming. But I'm determined to overcome any obstacles and achieve my goals.
+dialogue_id: D14:6
+Jolene:  I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.
 
-dialogue_id: D14:11,  Deborah: Keep up the hard work and remember to relax too.
 
-dialogue_id: D14:12,  Jolene: <image_message>Jolene send an image.
+
+dialogue_id: D14:7
+Deborah: Pets really do make life more enjoyable and bright. 
+
+
+
+dialogue_id: D14:8
+Jolene:  I'm so thankful it's here. Plus, it's nice to have a calm creature around.
+
+
+
+dialogue_id: D14:9
+Deborah: How have things been besides that?
+
+
+
+dialogue_id: D14:10
+Jolene: Things have been intense lately. I'm really pushing myself to succeed, and sometimes it feels overwhelming. But I'm determined to overcome any obstacles and achieve my goals.
+
+
+
+dialogue_id: D14:11
+Deborah: Keep up the hard work and remember to relax too.
+
+
+
+dialogue_id: D14:12
+Jolene: <image_message>Jolene send an image.
 Image description: engineering project design
 a photo of a drawing of a house with a ruler and a ruler</image_message> Thanks, Deborah! I had a big breakthrough with this project - so exciting and rewarding!
 
-dialogue_id: D14:13,  Deborah: Awesome, Jolene! I'm really glad your project worked out. 
 
-dialogue_id: D14:14,  Jolene: Stop talking about me, tell me more about your retreat.
 
-dialogue_id: D14:15,  Deborah: <image_message>Deborah send an image.
+dialogue_id: D14:13
+Deborah: Awesome, Jolene! I'm really glad your project worked out. 
+
+
+
+dialogue_id: D14:14
+Jolene: Stop talking about me, tell me more about your retreat.
+
+
+
+dialogue_id: D14:15
+Deborah: <image_message>Deborah send an image.
 Image description: group people yoga mountain top
 a photo of three people standing in front of a large statue</image_message> I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose.
 
-dialogue_id: D14:16,  Jolene: What's that statue in the picture?
 
-dialogue_id: D14:17,  Deborah: It's a symbol of peace and enlightenment.
 
-dialogue_id: D14:18,  Jolene: Wow, it looks gorgeous! I'd love to visit a retreat like that. It seems like the ideal spot to find peace and refreshment.
+dialogue_id: D14:16
+Jolene: What's that statue in the picture?
 
-dialogue_id: D14:19,  Deborah: It's perfect for reflecting and getting centered.
 
-dialogue_id: D14:20,  Jolene: I could really use some chill time like that. Sounds so peaceful.
 
-dialogue_id: D14:21,  Deborah: Yeah, we all need some peaceful time to relax.
+dialogue_id: D14:17
+Deborah: It's a symbol of peace and enlightenment.
 
-dialogue_id: D14:22,  Jolene: Gotta run, have a nice day!
 
-dialogue_id: D14:23,  Deborah: See you!
+
+dialogue_id: D14:18
+Jolene: Wow, it looks gorgeous! I'd love to visit a retreat like that. It seems like the ideal spot to find peace and refreshment.
+
+
+
+dialogue_id: D14:19
+Deborah: It's perfect for reflecting and getting centered.
+
+
+
+dialogue_id: D14:20
+Jolene: I could really use some chill time like that. Sounds so peaceful.
+
+
+
+dialogue_id: D14:21
+Deborah: Yeah, we all need some peaceful time to relax.
+
+
+
+dialogue_id: D14:22
+Jolene: Gotta run, have a nice day!
+
+
+
+dialogue_id: D14:23
+Deborah: See you!
+
+
 

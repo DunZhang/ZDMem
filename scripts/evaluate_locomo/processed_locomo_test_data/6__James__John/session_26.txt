@@ -1,35 +1,80 @@
 A conversation between James and John. This conversation takes place on 2022-10-03T09:20:00.
 
 The specific content of the conversation is:
-dialogue_id: D26:1,  John: Hey James! Busy few weeks for sure, but I'm pushing through. Got an email about a volunteer gig at a game dev non-profit. It's something I've wanted to do for a while, and could be the perfect start to a career that combines my two loves - gaming and helping. So stoked!
+dialogue_id: D26:1
+John: Hey James! Busy few weeks for sure, but I'm pushing through. Got an email about a volunteer gig at a game dev non-profit. It's something I've wanted to do for a while, and could be the perfect start to a career that combines my two loves - gaming and helping. So stoked!
 
-dialogue_id: D26:2,  James: Hey John, that sounds awesome! Combining your two loves - gaming and helping people - must be really exciting! So what kind of gig did they offer you?
 
-dialogue_id: D26:3,  John: They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming.
 
-dialogue_id: D26:4,  James: Wow, John! Mentoring programmers to make games sounds awesome! You must love it. How do you feel about starting this journey?
+dialogue_id: D26:2
+James: Hey John, that sounds awesome! Combining your two loves - gaming and helping people - must be really exciting! So what kind of gig did they offer you?
 
-dialogue_id: D26:5,  John: I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!
 
-dialogue_id: D26:6,  James: It's so rewarding to see how much joy you get from it. Keep going, you're doing great!
 
-dialogue_id: D26:7,  John: Thanks, James! Your support really means a lot. It's so fulfilling to use my skills to make a difference. I hope this opens more opportunities for me.
+dialogue_id: D26:3
+John: They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming.
 
-dialogue_id: D26:8,  James: <image_message>James send an image.
+
+
+dialogue_id: D26:4
+James: Wow, John! Mentoring programmers to make games sounds awesome! You must love it. How do you feel about starting this journey?
+
+
+
+dialogue_id: D26:5
+John: I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!
+
+
+
+dialogue_id: D26:6
+James: It's so rewarding to see how much joy you get from it. Keep going, you're doing great!
+
+
+
+dialogue_id: D26:7
+John: Thanks, James! Your support really means a lot. It's so fulfilling to use my skills to make a difference. I hope this opens more opportunities for me.
+
+
+
+dialogue_id: D26:8
+James: <image_message>James send an image.
 Image description: gaming setup witcher 3
 a photo of a computer case with a red light on it</image_message> I'm sure it will lead to great things. You got this! Oh, and I got this cool video card last week - I'm so excited to jump into it again!
 
-dialogue_id: D26:9,  John: Cool, James! What kind of games are you excited to play on it?
 
-dialogue_id: D26:10,  James:  I'm super into RPGs, so I'm excited about getting this video card and playing some new games. Have you heard any great things about Cyberpunk 2077? Do you think this game is worthy of my attention?
 
-dialogue_id: D26:11,  John: Yeah, I played it - it's awesome! Such an immersive world and an amazing story. I'm sure you'll love it!
+dialogue_id: D26:9
+John: Cool, James! What kind of games are you excited to play on it?
 
-dialogue_id: D26:12,  James: I'm so excited for it! The world and story sound perfect. Thanks for recommending it, John!
 
-dialogue_id: D26:13,  John: No worries, James! Hope you have a blast playing. Let me know what you think!
 
-dialogue_id: D26:14,  James: Cool, John. Will do! Take care, see ya!
+dialogue_id: D26:10
+James:  I'm super into RPGs, so I'm excited about getting this video card and playing some new games. Have you heard any great things about Cyberpunk 2077? Do you think this game is worthy of my attention?
 
-dialogue_id: D26:15,  John: Take care! Enjoy that new computer. Later!
+
+
+dialogue_id: D26:11
+John: Yeah, I played it - it's awesome! Such an immersive world and an amazing story. I'm sure you'll love it!
+
+
+
+dialogue_id: D26:12
+James: I'm so excited for it! The world and story sound perfect. Thanks for recommending it, John!
+
+
+
+dialogue_id: D26:13
+John: No worries, James! Hope you have a blast playing. Let me know what you think!
+
+
+
+dialogue_id: D26:14
+James: Cool, John. Will do! Take care, see ya!
+
+
+
+dialogue_id: D26:15
+John: Take care! Enjoy that new computer. Later!
+
+
 

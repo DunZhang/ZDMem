@@ -1,51 +1,117 @@
 A conversation between Joanna and Nate. This conversation takes place on 2022-01-21T19:31:00.
 
 The specific content of the conversation is:
-dialogue_id: D1:1,  Nate: Hey Joanna! Long time no see! What's up? Anything fun going on?
+dialogue_id: D1:1
+Nate: Hey Joanna! Long time no see! What's up? Anything fun going on?
 
-dialogue_id: D1:2,  Joanna: Hey Nate! Long time no see! I've been working on a project lately - it's been pretty cool. What about you - any fun projects or hobbies?
 
-dialogue_id: D1:3,  Nate: Hey Joanna! That's cool! I won my first video game tournament last week - so exciting!
 
-dialogue_id: D1:4,  Joanna: Wow Nate! Congrats on winning! Tell me more - what game was it?
+dialogue_id: D1:2
+Joanna: Hey Nate! Long time no see! I've been working on a project lately - it's been pretty cool. What about you - any fun projects or hobbies?
 
-dialogue_id: D1:5,  Nate: Thanks! it's a team shooter game.
 
-dialogue_id: D1:6,  Joanna: Wow, great job! What was is called?
 
-dialogue_id: D1:7,  Nate: The game was called Counter-Strike: Global Offensive, and me and my team had a blast to the very end!
+dialogue_id: D1:3
+Nate: Hey Joanna! That's cool! I won my first video game tournament last week - so exciting!
 
-dialogue_id: D1:8,  Joanna: Cool, Nate! Sounds like a fun experience, even if I'm not into games.
 
-dialogue_id: D1:9,  Nate: It was! How about you? Do you have any hobbies you love?
 
-dialogue_id: D1:10,  Joanna: Yeah! Besides writing, I also enjoy reading, watching movies, and exploring nature. Anything else you enjoy doing, Nate?
+dialogue_id: D1:4
+Joanna: Wow Nate! Congrats on winning! Tell me more - what game was it?
 
-dialogue_id: D1:11,  Nate: Playing video games and watching movies are my main hobbies.
 
-dialogue_id: D1:12,  Joanna: Cool, Nate! So we both have similar interests. What type of movies do you like best?
 
-dialogue_id: D1:13,  Nate: I love action and sci-fi movies, the effects are so cool! What about you, what's your favorite genre?
+dialogue_id: D1:5
+Nate: Thanks! it's a team shooter game.
 
-dialogue_id: D1:14,  Joanna: I'm all about dramas and romcoms. I love getting immersed in the feelings and plots.
 
-dialogue_id: D1:15,  Nate: Wow, movies can be so powerful! Do you have any recommendations for me?
 
-dialogue_id: D1:16,  Joanna: <image_message>Joanna send an image.
+dialogue_id: D1:6
+Joanna: Wow, great job! What was is called?
+
+
+
+dialogue_id: D1:7
+Nate: The game was called Counter-Strike: Global Offensive, and me and my team had a blast to the very end!
+
+
+
+dialogue_id: D1:8
+Joanna: Cool, Nate! Sounds like a fun experience, even if I'm not into games.
+
+
+
+dialogue_id: D1:9
+Nate: It was! How about you? Do you have any hobbies you love?
+
+
+
+dialogue_id: D1:10
+Joanna: Yeah! Besides writing, I also enjoy reading, watching movies, and exploring nature. Anything else you enjoy doing, Nate?
+
+
+
+dialogue_id: D1:11
+Nate: Playing video games and watching movies are my main hobbies.
+
+
+
+dialogue_id: D1:12
+Joanna: Cool, Nate! So we both have similar interests. What type of movies do you like best?
+
+
+
+dialogue_id: D1:13
+Nate: I love action and sci-fi movies, the effects are so cool! What about you, what's your favorite genre?
+
+
+
+dialogue_id: D1:14
+Joanna: I'm all about dramas and romcoms. I love getting immersed in the feelings and plots.
+
+
+
+dialogue_id: D1:15
+Nate: Wow, movies can be so powerful! Do you have any recommendations for me?
+
+
+
+dialogue_id: D1:16
+Joanna: <image_message>Joanna send an image.
 Image description: eternal sunshine of the spotless mind movie poster
 a photo of a poster of a man and a woman sitting on a bench</image_message> Yeah, totally! Have you seen this romantic drama that's all about memory and relationships? It's such a good one.
 
-dialogue_id: D1:17,  Nate: Oh cool! I might check that one out some time soon! I do love watching classics.
 
-dialogue_id: D1:18,  Joanna: <image_message>Joanna send an image.
+
+dialogue_id: D1:17
+Nate: Oh cool! I might check that one out some time soon! I do love watching classics.
+
+
+
+dialogue_id: D1:18
+Joanna: <image_message>Joanna send an image.
 Image description: eternal sunshine of spotless mind dvd cover
 a photo of a dvd on a table with a blurry background</image_message> Yep, that movie is awesome. I first watched it around 3 years ago. I even went out and got a physical copy!
 
-dialogue_id: D1:19,  Nate: Sounds cool! Have you seen it a lot? sounds like you know the movie well!
 
-dialogue_id: D1:20,  Joanna: A few times. It's one of my favorites! I really like the idea and the acting.
 
-dialogue_id: D1:21,  Nate: Cool! I'll definitely check it out. Thanks for the recommendation!
+dialogue_id: D1:19
+Nate: Sounds cool! Have you seen it a lot? sounds like you know the movie well!
 
-dialogue_id: D1:22,  Joanna: No problem, Nate! Let me know if you like it!
+
+
+dialogue_id: D1:20
+Joanna: A few times. It's one of my favorites! I really like the idea and the acting.
+
+
+
+dialogue_id: D1:21
+Nate: Cool! I'll definitely check it out. Thanks for the recommendation!
+
+
+
+dialogue_id: D1:22
+Joanna: No problem, Nate! Let me know if you like it!
+
+
 
