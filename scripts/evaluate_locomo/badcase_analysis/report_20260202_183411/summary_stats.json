@@ -1,0 +1,48 @@
+{
+  "accuracy": 0.861038961038961,
+  "total": 1540,
+  "correct": 1326,
+  "incorrect": 214,
+  "by_type": {
+    "reasoning": 214
+  },
+  "by_category": {
+    "Single-hop": {
+      "total": 841,
+      "correct": 782
+    },
+    "Open-domain": {
+      "total": 96,
+      "correct": 64
+    },
+    "Multi-hop": {
+      "total": 282,
+      "correct": 218
+    },
+    "Temporal": {
+      "total": 321,
+      "correct": 262
+    }
+  },
+  "recall_at_k": {
+    "1": 0.5162760416666666,
+    "2": 0.640625,
+    "3": 0.6940104166666666,
+    "4": 0.7317708333333334,
+    "5": 0.755859375,
+    "6": 0.7805989583333334,
+    "7": 0.7962239583333334,
+    "8": 0.8125,
+    "9": 0.8125,
+    "10": 0.8125,
+    "11": 0.8125,
+    "12": 0.8125
+  },
+  "token_stats": {
+    "total_prompt_tokens": 3017796,
+    "total_completion_tokens": 45546,
+    "avg_prompt_tokens": 1959.6077922077923,
+    "avg_completion_tokens": 29.575324675324676,
+    "qa_count": 1540
+  }
+}

@@ -580,6 +580,11 @@ def generate_full_report(output_dir: Path = None):
     }
     all_badcases = []
 
+    # Token 统计
+    total_prompt_tokens = 0
+    total_completion_tokens = 0
+    qa_count = 0
+
     for user_pair in sorted(user_pairs):
         analysis = analyze_badcases_for_user(user_pair)
         if analysis is None:
@@ -605,11 +610,25 @@ def generate_full_report(output_dir: Path = None):
             bc["user_pair"] = user_pair
             all_badcases.append(bc)
 
+        # 收集 token 统计
+        prediction_file = INTERMEDIATE_DIR / "predictions" / f"{user_pair}.jsonl"
+        if prediction_file.exists():
+            with open(prediction_file, encoding="utf-8") as f:
+                for line in f:
+                    pred = json.loads(line)
+                    total_prompt_tokens += pred.get("prompt_tokens", 0)
+                    total_completion_tokens += pred.get("completion_tokens", 0)
+                    qa_count += 1
+
     # ========== Recall@K 分析 ==========
     recall_results = analyze_recall_all_users(max_k=12)
 
     # ========== 生成报告 ==========
     accuracy = global_stats["correct"] / global_stats["total"] if global_stats["total"] > 0 else 0
+
+    # 计算平均 token
+    avg_prompt_tokens = total_prompt_tokens / qa_count if qa_count > 0 else 0
+    avg_completion_tokens = total_completion_tokens / qa_count if qa_count > 0 else 0
 
     report_lines = [
         f"# Locomo 评估完整报告",
@@ -627,6 +646,10 @@ def generate_full_report(output_dir: Path = None):
         f"| 正确数 | {global_stats['correct']} |",
         f"| 错误数 | {global_stats['incorrect']} |",
         f"| **正确率 (Accuracy)** | **{accuracy:.2%}** |",
+        f"| 总 Prompt Tokens | {total_prompt_tokens:,} |",
+        f"| 总 Completion Tokens | {total_completion_tokens:,} |",
+        f"| 平均 Prompt Tokens/问答 | {avg_prompt_tokens:.1f} |",
+        f"| 平均 Completion Tokens/问答 | {avg_completion_tokens:.1f} |",
         f"",
         f"---",
         f"",
@@ -861,6 +884,13 @@ def generate_full_report(output_dir: Path = None):
         "by_type": dict(global_stats["by_type"]),
         "by_category": {k: dict(v) for k, v in global_stats["by_category"].items()},
         "recall_at_k": recall_results["overall_recall_at_k"],
+        "token_stats": {
+            "total_prompt_tokens": total_prompt_tokens,
+            "total_completion_tokens": total_completion_tokens,
+            "avg_prompt_tokens": avg_prompt_tokens,
+            "avg_completion_tokens": avg_completion_tokens,
+            "qa_count": qa_count,
+        },
     }
     stats_file = output_dir / "summary_stats.json"
     with open(stats_file, "w", encoding="utf-8") as f:
@@ -872,6 +902,10 @@ def generate_full_report(output_dir: Path = None):
     print(f"{'='*60}")
     print(f"\n总体正确率: {accuracy:.2%} ({global_stats['correct']}/{global_stats['total']})")
     print(f"\nRecall@K: R@1={r1:.2%}  R@5={r5:.2%}  R@10={r10:.2%}")
+    print(f"\nToken 统计 (QA 阶段):")
+    print(f"  - 平均 prompt_tokens: {avg_prompt_tokens:.1f}")
+    print(f"  - 平均 completion_tokens: {avg_completion_tokens:.1f}")
+    print(f"  - 总计: {total_prompt_tokens:,} prompt + {total_completion_tokens:,} completion")
     print(f"\n错误分布:")
     print(f"  - 记忆抽取: {global_stats['by_type'].get('extraction', 0)} ({extraction_pct:.1f}%)")
     print(f"  - 检索问题: {global_stats['by_type'].get('retrieval', 0)} ({retrieval_pct:.1f}%)")

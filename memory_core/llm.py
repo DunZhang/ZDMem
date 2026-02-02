@@ -2,11 +2,15 @@
 
 import logging
 import json
+import random
 from typing import Any
 from litellm import completion, embedding
 from json_repair import repair_json
 
 logger = logging.getLogger(__name__)
+
+# 采样输出的概率
+_SAMPLE_LOG_RATE = 0.01
 
 
 def parse_json_response(response_text: str) -> Any:
@@ -79,6 +83,17 @@ def call_llm(
 
             response = completion(**kwargs)
             content = response.choices[0].message.content
+
+            # 以 _SAMPLE_LOG_RATE 的概率采样输出 prompt 和原始响应
+            # 必须一起输出，避免多线程环境下对不上
+            if random.random() < _SAMPLE_LOG_RATE:
+                logger.info(
+                    "[LLM采样日志] model=%s\n"
+                    "========== PROMPT ==========\n%s\n"
+                    "========== RESPONSE ==========\n%s\n"
+                    "========== END ==========",
+                    model, prompt, content
+                )
 
             if return_usage:
                 usage = {

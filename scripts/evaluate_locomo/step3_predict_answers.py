@@ -2,21 +2,20 @@
 
 基于检索到的记忆，使用 LLM 回答问题
 """
-
+import os
 import sys
 import json
-import argparse
 import logging
+import random
 from pathlib import Path
 from datetime import datetime
-from multiprocessing import Pool, cpu_count
+from multiprocessing import Pool, cpu_count, Manager
 from functools import partial
 
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from memory_core.local_manager import LocalFileMemoryManager
 from memory_core.llm import call_llm
-from memory_core.config import get_model
 
 logging.basicConfig(
     level=logging.INFO,
@@ -24,7 +23,22 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# 禁用 litellm 日志
+logging.getLogger("LiteLLM").setLevel(logging.WARNING)
+logging.getLogger("litellm").setLevel(logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+
+# 配置文件日志：记录 memory_core 的日志（包含采样的 prompt/response）
 SCRIPT_DIR = Path(__file__).parent
+LOG_FILE = SCRIPT_DIR / "step3_predict_answers.log"
+file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8', mode="w")
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+
+# 给 memory_core logger 添加文件 handler
+memory_core_logger = logging.getLogger('memory_core')
+memory_core_logger.setLevel(logging.INFO)
+memory_core_logger.addHandler(file_handler)
 DATA_DIR = SCRIPT_DIR / "processed_locomo_test_data"
 INTERMEDIATE_DIR = SCRIPT_DIR / "intermediate_results"
 
@@ -54,8 +68,7 @@ def load_test_qa(user_pair: str) -> list[dict]:
 def process_single_question(
         qa_with_id: tuple[int, dict],
         user_pair: str,
-        memories_dir: Path,
-        model: str
+        memories_dir: Path
 ) -> dict:
     """处理单个问题（供多进程调用）"""
     qa_id, qa = qa_with_id
@@ -70,60 +83,17 @@ def process_single_question(
         retrieved = manager.search_by_vector(
             user_id=user_pair,
             query=question,
-            top_k=6,
+            top_k=int(os.getenv("SEARCH_TOP_K")),
             score_threshold=0.1
         )
 
         # 构建记忆文本
-        # === 原始代码 ===
         if retrieved:
             memories_text = "\n\n\n\n\n".join([
                 r.memory.content for r in retrieved
             ])
         else:
             memories_text = "(No relevant memories found)"
-        # === 原始代码结束 ===
-
-        # 加载 dial_id2content 映射
-        # dial_id2content_file = DATA_DIR / user_pair / "dial_id2content.json"
-        # with open(dial_id2content_file, encoding="utf-8") as f:
-        #     dial_id2content = json.load(f)
-
-        # def get_dial_with_context(dial_id: str, context_size: int = 2) -> list[str]:
-        #     """获取 dial_id 及其前后 context_size 条对话"""
-        #     # dial_id 格式: "D{session}:{line}", 如 "D1:5"
-        #     try:
-        #         prefix, line_str = dial_id.rsplit(":", 1)
-        #         line = int(line_str)
-        #         result = []
-        #         for offset in range(-context_size, context_size + 1):
-        #             ctx_id = f"{prefix}:{line + offset}"
-        #             if ctx_id in dial_id2content:
-        #                 marker = ">>>" if offset == 0 else "   "
-        #                 result.append(f"{marker} [{ctx_id}] {dial_id2content[ctx_id]}")
-        #         return result
-        #     except (ValueError, KeyError):
-        #         return [dial_id2content.get(dial_id, f"[未找到: {dial_id}]")]
-
-        # if retrieved:
-        #     memories_text = []
-        #     for r in retrieved:
-        #         ref_dialogues_with_context = []
-        #         for dial_id in (r.memory.ref_dial_ids or []):
-        #             context_lines = get_dial_with_context(dial_id, context_size=1)
-        #             ref_dialogues_with_context.append({
-        #                 "dial_id": dial_id,
-        #                 "context": context_lines
-        #             })
-        #         memory_item = {
-        #             'occurred_time': r.memory.occurred_string,
-        #             'content': r.memory.content,
-        #             'ref_dialogues': ref_dialogues_with_context
-        #         }
-        #         memories_text.append(memory_item)
-        #     memories_text = json.dumps(memories_text, ensure_ascii=False, indent=2)
-        # else:
-        #     memories_text = "(No relevant memories found)"
 
         # 构建 prompt
         prompt = ANSWER_PROMPT_TEMPLATE.format(
@@ -132,8 +102,7 @@ def process_single_question(
         )
         # print(prompt)
         # 调用 LLM
-        predicted_answer, usage = call_llm(prompt, model=model, return_usage=True)
-
+        predicted_answer, usage = call_llm(prompt, model=os.getenv("QA_MODEL"), return_usage=True)
         prediction = {
             "qa_id": qa_id,
             "question": question,
@@ -146,7 +115,6 @@ def process_single_question(
                     "content": r.memory.content,
                     "occurred_string": r.memory.occurred_string,
                     "score": r.score,
-                    "keywords": r.memory.keywords,
                     "references": r.memory.ref_dial_ids,
                 }
                 for r in retrieved
@@ -217,10 +185,6 @@ def predict_answers_for_user(
 
     logger.info(f"开始预测 {user_pair}，共 {len(test_qa)} 个问题")
 
-    model = "openrouter/openai/gpt-4.1-mini"
-    # model = "openrouter/google/gemini-2.5-flash-lite"
-    # model = "deepseek/deepseek-chat"
-
     # 筛选需要处理的问题（支持断点续传）
     questions_to_process = []
     existing_results = []
@@ -243,8 +207,7 @@ def predict_answers_for_user(
         process_func = partial(
             process_single_question,
             user_pair=user_pair,
-            memories_dir=memories_dir,
-            model=model
+            memories_dir=memories_dir
         )
 
         logger.info(f"使用 {num_workers} 个进程并行处理")
@@ -294,6 +257,6 @@ if __name__ == "__main__":
         predict_answers_for_user(
             user_pair=user_pair,
             max_questions=200000,
-            force=False,
+            force=True,
             num_workers=32  # 可调整进程数
         )

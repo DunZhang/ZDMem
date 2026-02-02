@@ -1,1 +1,2 @@
-在main的版本的基础上使用了evermem-os的评估prompt
+在baseline的基础上，极大精简了代码，效果还能保持
+为以后优化做了准备

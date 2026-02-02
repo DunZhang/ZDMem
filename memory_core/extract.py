@@ -1,5 +1,6 @@
 """记忆抽取 - 基于语义分段"""
 
+import os
 import re
 import logging
 from pathlib import Path
@@ -7,7 +8,6 @@ from datetime import datetime, timezone
 from jinja2 import Template
 
 from .llm import call_llm_json
-from .config import get_memory_extract_model
 from .models import Memory
 
 logger = logging.getLogger(__name__)
@@ -77,9 +77,9 @@ def _parse_dial_id(dial_id: str) -> tuple[int, int]:
 
 
 def _expand_dial_id_range(
-    start_dial_id: str,
-    end_dial_id: str,
-    dial_id2content: dict[str, str]
+        start_dial_id: str,
+        end_dial_id: str,
+        dial_id2content: dict[str, str]
 ) -> list[str]:
     """
     展开对话ID范围为完整的对话ID列表
@@ -182,11 +182,11 @@ def _extract_speaker_content_from_dial(dial_content: str) -> str:
 
 
 def _build_memory_content(
-    ref_dial_ids: list[str],
-    dial_id2content: dict[str, str],
-    speaker_a: str,
-    speaker_b: str,
-    timestamp: str,
+        ref_dial_ids: list[str],
+        dial_id2content: dict[str, str],
+        speaker_a: str,
+        speaker_b: str,
+        timestamp: str,
 ) -> str:
     """
     构建Memory的content字段
@@ -222,31 +222,25 @@ def _build_memory_content(
 
 
 def extract_memories(
-    text: str,
-    user_id: str,
-    *,
-    model: str | None = None,
-    dial_id2content: dict[str, str] | None = None,
+        text: str,
+        user_id: str,
+        dial_id2content: dict[str, str],
 ) -> list[Memory]:
     """
     从对话文本抽取新记忆（基于语义分段）
 
     LLM识别语义连贯的对话分段，后处理将这些分段转换为Memory对象。
+    模型通过环境变量 MEMORY_EXTRACT_MODEL 或 DEFAULT_MODEL 配置。
 
     Args:
         text: 对话文本（包含 dialogue_id 标识）
         user_id: 用户标识
-        model: 使用的 LLM 模型
-        dial_id2content: 对话ID到内容的映射字典（必需）
+        dial_id2content: 对话ID到内容的映射字典
 
     Returns:
         新抽取的 Memory 列表（id 为空，由调用方赋值后存储）
     """
-    if dial_id2content is None:
-        logger.warning("dial_id2content is None, returning empty list")
-        return []
-
-    selected_model = get_memory_extract_model(model)
+    model = os.getenv("MEMORY_EXTRACT_MODEL")
 
     # 从session文本头部提取说话人和时间信息
     header_info = _extract_header_info_from_text(text)
@@ -256,13 +250,9 @@ def extract_memories(
     speaker_a, speaker_b, conversation_timestamp = header_info
 
     # 构建 prompt
-    current_time = datetime.now().strftime("%Y年%m月%d日 %H:%M")
-    prompt = _TEMPLATE.render(
-        text=text,
-        current_time=current_time,
-    )
+    prompt = _TEMPLATE.render(text=text)
 
-    result = call_llm_json(prompt=prompt, model=selected_model)
+    result = call_llm_json(prompt=prompt, model=model)
 
     logger.debug("Extract memories prompt:\n%s", prompt)
     logger.debug("Extract memories response:\n%s", result)
@@ -322,7 +312,6 @@ def extract_memories(
         memory = Memory(
             user_id=user_id,
             content=content,
-            keywords=[],  # 不再抽取关键词
             occurred_string=occurred_string,
             occurred_at=occurred_at,
             ref_dial_ids=ref_dial_ids,

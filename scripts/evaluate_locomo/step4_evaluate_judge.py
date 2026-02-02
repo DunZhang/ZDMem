@@ -2,10 +2,9 @@
 
 判断预测答案是否正确
 """
-
+import os
 import sys
 import json
-import argparse
 import logging
 from pathlib import Path
 from datetime import datetime
@@ -15,7 +14,6 @@ from functools import partial
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from memory_core.llm import call_llm_json
-from memory_core.config import get_model
 
 logging.basicConfig(
     level=logging.INFO,
@@ -64,7 +62,7 @@ def load_predictions(user_pair: str) -> list[dict]:
     return predictions
 
 
-def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
+def evaluate_single_prediction(pred: dict, total: int) -> dict:
     """评估单个预测（用于多进程调用）"""
     qa_id = pred["qa_id"]
 
@@ -91,7 +89,7 @@ def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
             )
 
             # 调用 LLM Judge
-            result = call_llm_json(prompt, model=model)
+            result = call_llm_json(prompt, model=os.getenv("JUDGE_MODEL"))
 
             # 将 label "CORRECT"/"WRONG" 转换为布尔值
             label = result.get("label", "WRONG").upper()
@@ -149,9 +147,6 @@ def evaluate_for_user(user_pair: str, force: bool = False, num_workers: int = No
                 existing_judgements[j["qa_id"]] = j
         logger.info(f"加载 {len(existing_judgements)} 条已有评估")
 
-    # model = get_model(None, "DEFAULT_MODEL")
-    model = "deepseek/deepseek-chat"
-
     # 过滤出需要评估的 predictions
     predictions_to_evaluate = []
     cached_judgements = []
@@ -173,7 +168,7 @@ def evaluate_for_user(user_pair: str, force: bool = False, num_workers: int = No
     new_judgements = []
     if predictions_to_evaluate:
         total = len(predictions)
-        evaluate_func = partial(evaluate_single_prediction, model=model, total=total)
+        evaluate_func = partial(evaluate_single_prediction, total=total)
 
         with Pool(processes=num_workers) as pool:
             logger.info(f"使用 {num_workers} 个进程并行评估...")

@@ -12,7 +12,7 @@ from datetime import datetime
 # 添加项目根目录到 path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from memory_core.main import process_memories
+from memory_core.extract import extract_memories
 from memory_core.local_manager import LocalFileMemoryManager
 
 # 配置控制台日志（INFO级别）
@@ -28,7 +28,7 @@ logging.getLogger("litellm").setLevel(logging.WARNING)
 logging.getLogger("httpx").setLevel(logging.WARNING)
 
 # 配置文件日志：只记录 memory_core 的 DEBUG 及以上级别日志
-LOG_FILE = Path(__file__).parent / "memory_core_debug.log"
+LOG_FILE = Path(__file__).parent / "step2_extract_memories.log"
 file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8', mode="w")
 file_handler.setLevel(logging.DEBUG)
 file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
@@ -79,9 +79,8 @@ def extract_memories_for_user(user_pair: str) -> dict:
         logger.info(f"处理 {text_id}...")
 
         try:
-            memories = process_memories(
+            memories = extract_memories(
                 text=text,
-                text_id=text_id,
                 user_id=user_pair,
                 dial_id2content=dial_id2content,
             )
@@ -142,8 +141,8 @@ def main(user_pairs, max_workers=None):
 if __name__ == "__main__":
     main(
         user_pairs=[
-            # "0__Caroline__Melanie",
-            # "1__Jon__Gina",
+            "0__Caroline__Melanie",
+            "1__Jon__Gina",
             "2__John__Maria",
             "3__Joanna__Nate",
             "4__Tim__John",

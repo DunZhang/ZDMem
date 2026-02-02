@@ -1,16 +1,16 @@
 {
   "user_pair": "7__Deborah__Jolene",
-  "extraction_time": "2026-01-19T23:11:41.313538",
+  "extraction_time": "2026-02-02T18:05:32.572448",
   "total_sessions": 30,
-  "total_memories": 187,
+  "total_memories": 146,
   "session_stats": [
     {
       "session": "session_1",
-      "memory_count": 9
+      "memory_count": 2
     },
     {
       "session": "session_2",
-      "memory_count": 15
+      "memory_count": 8
     },
     {
       "session": "session_3",
@@ -18,7 +18,7 @@
     },
     {
       "session": "session_4",
-      "memory_count": 8
+      "memory_count": 9
     },
     {
       "session": "session_5",
@@ -30,15 +30,15 @@
     },
     {
       "session": "session_7",
-      "memory_count": 10
+      "memory_count": 8
     },
     {
       "session": "session_8",
-      "memory_count": 10
+      "memory_count": 1
     },
     {
       "session": "session_9",
-      "memory_count": 6
+      "memory_count": 2
     },
     {
       "session": "session_10",
@@ -50,7 +50,7 @@
     },
     {
       "session": "session_12",
-      "memory_count": 6
+      "memory_count": 5
     },
     {
       "session": "session_13",
@@ -58,15 +58,15 @@
     },
     {
       "session": "session_14",
-      "memory_count": 6
+      "memory_count": 7
     },
     {
       "session": "session_15",
-      "memory_count": 6
+      "memory_count": 5
     },
     {
       "session": "session_16",
-      "memory_count": 5
+      "memory_count": 11
     },
     {
       "session": "session_17",
@@ -74,19 +74,19 @@
     },
     {
       "session": "session_18",
-      "memory_count": 1
+      "memory_count": 3
     },
     {
       "session": "session_19",
-      "memory_count": 11
+      "memory_count": 4
     },
     {
       "session": "session_20",
-      "memory_count": 7
+      "memory_count": 1
     },
     {
       "session": "session_21",
-      "memory_count": 4
+      "memory_count": 3
     },
     {
       "session": "session_22",
@@ -94,19 +94,19 @@
     },
     {
       "session": "session_23",
-      "memory_count": 10
-    },
-    {
-      "session": "session_24",
       "memory_count": 8
     },
     {
+      "session": "session_24",
+      "memory_count": 9
+    },
+    {
       "session": "session_25",
-      "memory_count": 5
+      "memory_count": 4
     },
     {
       "session": "session_26",
-      "memory_count": 5
+      "memory_count": 7
     },
     {
       "session": "session_27",
@@ -114,15 +114,15 @@
     },
     {
       "session": "session_28",
-      "memory_count": 5
+      "memory_count": 4
     },
     {
       "session": "session_29",
-      "memory_count": 7
+      "memory_count": 8
     },
     {
       "session": "session_30",
-      "memory_count": 12
+      "memory_count": 6
     }
   ]
 }
