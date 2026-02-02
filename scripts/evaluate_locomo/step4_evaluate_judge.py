@@ -26,28 +26,29 @@ logger = logging.getLogger(__name__)
 SCRIPT_DIR = Path(__file__).parent
 INTERMEDIATE_DIR = SCRIPT_DIR / "intermediate_results"
 
-JUDGE_PROMPT_TEMPLATE = """You are evaluating whether a predicted answer is correct compared to the ground truth answer.
+JUDGE_PROMPT_TEMPLATE = """Your task is to label an answer to a question as 'CORRECT' or 'WRONG'. You will be given the following data:
+    (1) a question (posed by one user to another user),
+    (2) a 'gold' (ground truth) answer,
+    (3) a generated answer
+which you will score as CORRECT/WRONG.
 
+The point of the question is to ask about something one user should know about the other user based on their prior conversations.
+The gold answer will usually be a concise and short answer that includes the referenced topic, for example:
+Question: Do you remember what I got the last time I went to Hawaii?
+Gold answer: A shell necklace
+The generated answer might be much longer, but you should be generous with your grading - as long as it touches on the same topic as the gold answer, it should be counted as CORRECT.
+
+For time related questions, the gold answer will be a specific date, month, year, etc. The generated answer might be much longer or use relative time references (like "last Tuesday" or "next month"), but you should be generous with your grading - as long as it refers to the same date or time period as the gold answer, it should be counted as CORRECT. Even if the format differs (e.g., "May 7th" vs "7 May"), consider it CORRECT if it's the same date.
+
+Now it's time for the real question:
 Question: {question}
+Gold answer: {ground_truth}
+Generated answer: {predicted}
 
-Ground Truth Answer: {ground_truth}
+First, provide a short (one sentence) explanation of your reasoning, then finish with CORRECT or WRONG.
+Do NOT include both CORRECT and WRONG in your response, or it will break the evaluation script.
 
-Predicted Answer: {predicted}
-
-Please evaluate whether the predicted answer captures the key information from the ground truth.
-
-Evaluation criteria:
-1. The predicted answer should mention the key facts/entities from the ground truth
-2. Minor differences in wording are acceptable if the core meaning is preserved
-3. The predicted answer can contain additional correct information
-4. If the predicted answer says "I don't have enough information" but the ground truth has a clear answer, mark as incorrect
-
-Output your evaluation in JSON format:
-{{
-  "is_correct": true or false,
-  "reasoning": "brief explanation of your judgement",
-  "confidence": 0.0 to 1.0
-}}"""
+Just return the label CORRECT or WRONG in a json format with the key as "label"."""
 
 
 def load_predictions(user_pair: str) -> list[dict]:
@@ -75,9 +76,10 @@ def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
                 "question": pred["question"],
                 "ground_truth": pred["ground_truth"],
                 "predicted_answer": pred["predicted_answer"],
+                "category": pred.get("category", ""),
+                "evidence": pred.get("evidence", []),
                 "is_correct": False,
-                "reasoning": "Prediction failed with error",
-                "confidence": 1.0,
+                "label": "WRONG",
                 "judge_time": datetime.now().isoformat(),
             }
         else:
@@ -91,6 +93,10 @@ def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
             # 调用 LLM Judge
             result = call_llm_json(prompt, model=model)
 
+            # 将 label "CORRECT"/"WRONG" 转换为布尔值
+            label = result.get("label", "WRONG").upper()
+            is_correct = label == "CORRECT"
+
             judgement = {
                 "qa_id": qa_id,
                 "question": pred["question"],
@@ -98,9 +104,8 @@ def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
                 "predicted_answer": pred["predicted_answer"],
                 "category": pred.get("category", ""),
                 "evidence": pred.get("evidence", []),
-                "is_correct": result.get("is_correct", False),
-                "reasoning": result.get("reasoning", ""),
-                "confidence": result.get("confidence", 0.5),
+                "is_correct": is_correct,
+                "label": label,
                 "judge_time": datetime.now().isoformat(),
             }
 
@@ -114,9 +119,10 @@ def evaluate_single_prediction(pred: dict, model: str, total: int) -> dict:
             "question": pred["question"],
             "ground_truth": pred["ground_truth"],
             "predicted_answer": pred["predicted_answer"],
+            "category": pred.get("category", ""),
+            "evidence": pred.get("evidence", []),
             "is_correct": False,
-            "reasoning": f"Judge error: {e}",
-            "confidence": 0.0,
+            "label": "WRONG",
             "judge_time": datetime.now().isoformat(),
         }
 

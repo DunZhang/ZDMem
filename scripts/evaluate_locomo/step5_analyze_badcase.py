@@ -357,10 +357,12 @@ def generate_report(analysis: dict, output_dir: Path):
         ])
 
         for bc in cases[:5]:  # 只显示前5条
+            gt = str(bc['ground_truth'])
+            pred = str(bc['predicted_answer'])
             summary_lines.extend([
                 f"- **Q{bc['qa_id']}**: {bc['question'][:60]}...",
-                f"  - 预期: {bc['ground_truth'][:50]}...",
-                f"  - 预测: {bc['predicted_answer'][:50]}...",
+                f"  - 预期: {gt[:50]}...",
+                f"  - 预测: {pred[:50]}...",
                 f"",
             ])
 
@@ -742,10 +744,12 @@ def generate_full_report(output_dir: Path = None):
     extraction_cases = [bc for bc in all_badcases if bc["error_type"] == "extraction"][:3]
     if extraction_cases:
         for bc in extraction_cases:
+            gt = str(bc['ground_truth'])
+            pred = str(bc['predicted_answer'])
             report_lines.extend([
                 f"**[{bc['user_pair']}] Q{bc['qa_id']}: {bc['question']}**",
-                f"- 预期答案: {bc['ground_truth'][:100]}{'...' if len(bc['ground_truth']) > 100 else ''}",
-                f"- 预测答案: {bc['predicted_answer'][:100]}{'...' if len(bc['predicted_answer']) > 100 else ''}",
+                f"- 预期答案: {gt[:100]}{'...' if len(gt) > 100 else ''}",
+                f"- 预测答案: {pred[:100]}{'...' if len(pred) > 100 else ''}",
                 f"- 问题: {bc['error_detail']}",
                 f"",
             ])
@@ -760,10 +764,12 @@ def generate_full_report(output_dir: Path = None):
     retrieval_cases = [bc for bc in all_badcases if bc["error_type"] == "retrieval"][:3]
     if retrieval_cases:
         for bc in retrieval_cases:
+            gt = str(bc['ground_truth'])
+            pred = str(bc['predicted_answer'])
             report_lines.extend([
                 f"**[{bc['user_pair']}] Q{bc['qa_id']}: {bc['question']}**",
-                f"- 预期答案: {bc['ground_truth'][:100]}{'...' if len(bc['ground_truth']) > 100 else ''}",
-                f"- 预测答案: {bc['predicted_answer'][:100]}{'...' if len(bc['predicted_answer']) > 100 else ''}",
+                f"- 预期答案: {gt[:100]}{'...' if len(gt) > 100 else ''}",
+                f"- 预测答案: {pred[:100]}{'...' if len(pred) > 100 else ''}",
                 f"- 检索到记忆数: {bc['retrieved_count']}，相关被检索到: {bc['relevant_retrieved_count']}",
                 f"",
             ])
@@ -778,11 +784,14 @@ def generate_full_report(output_dir: Path = None):
     reasoning_cases = [bc for bc in all_badcases if bc["error_type"] == "reasoning"][:3]
     if reasoning_cases:
         for bc in reasoning_cases:
+            gt = str(bc['ground_truth'])
+            pred = str(bc['predicted_answer'])
+            judge_reason = str(bc.get('judge_reasoning', ''))
             report_lines.extend([
                 f"**[{bc['user_pair']}] Q{bc['qa_id']}: {bc['question']}**",
-                f"- 预期答案: {bc['ground_truth'][:100]}{'...' if len(bc['ground_truth']) > 100 else ''}",
-                f"- 预测答案: {bc['predicted_answer'][:100]}{'...' if len(bc['predicted_answer']) > 100 else ''}",
-                f"- Judge 评价: {bc['judge_reasoning'][:150]}{'...' if len(bc['judge_reasoning']) > 150 else ''}",
+                f"- 预期答案: {gt[:100]}{'...' if len(gt) > 100 else ''}",
+                f"- 预测答案: {pred[:100]}{'...' if len(pred) > 100 else ''}",
+                f"- Judge 评价: {judge_reason[:150]}{'...' if len(judge_reason) > 150 else ''}",
                 f"",
             ])
     else:
